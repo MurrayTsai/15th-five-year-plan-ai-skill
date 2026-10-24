@@ -45,6 +45,15 @@
 
 ### 作为 AI skill 使用
 
+先将仓库下载到本地（私有仓库需要先登录拥有访问权限的 GitHub 账号）：
+
+```bash
+git clone https://github.com/MurrayTsai/interpret-15th-plan.git
+cd interpret-15th-plan
+python3 scripts/validate_database.py
+python3 scripts/validate_knowledge.py
+```
+
 将完整仓库放入支持 `SKILL.md` 的 AI 助手可访问的位置，让助手先读取根目录的 [SKILL.md](SKILL.md)，再按任务调用脚本或读取对应参考资料。目录必须整体保留；只复制 `SKILL.md` 不会包含数据库和原文。
 
 支持技能目录的客户端可将整个目录命名为 `interpret-15th-plan` 并放入其技能目录。具体安装位置和启用方式按所用客户端说明操作。仅把仓库上传到 GitHub，不会自动给其他客户端安装 skill。

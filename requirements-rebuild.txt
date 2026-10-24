@@ -1,0 +1,3 @@
+# Only needed to rebuild the corpus from the bundled PDF.
+# Lookup, knowledge compilation and validation use Python's standard library.
+PyMuPDF==1.26.6

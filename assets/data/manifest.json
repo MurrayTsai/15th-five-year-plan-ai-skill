@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "document_id": "plan-15-2026-03",
+  "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+  "document_date": "2026-03",
+  "planning_period": [
+    2026,
+    2030
+  ],
+  "source_file": "assets/source/plan-2026-2030.pdf",
+  "sha256": "29b3c70720b1faff458a123cb29672ee2ee8874a53b6d4a91f402a73f6945027",
+  "bytes": 11281148,
+  "official_url": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjfzgh/202603/U020260317369114704096.pdf",
+  "provenance_check": {
+    "date": "2026-10-22",
+    "method": "Official-domain search located same PDF filename and title; web open reported same byte length. No remote byte-hash comparison performed."
+  },
+  "pages": 140,
+  "body_pages": 135,
+  "structure": {
+    "part": 18,
+    "chapter": 62,
+    "section": 171,
+    "box": 23
+  },
+  "chunks": 360,
+  "body_characters": 75682,
+  "fts5_trigram": true,
+  "extractor": "PyMuPDF 1.26.6",
+  "page_mapping": "PDF page = printed Arabic page + 5; cover and four TOC pages have no Arabic printed page",
+  "quality_scope": "All 140 pages extracted; structure and line-range coverage checked. All 23 boxes visually cross-checked on 2026-10-23. Figures visually inspected for titles, legends and use limits; spatial detail is not a GIS dataset. Page 87 multi-column raw order is unsafe: use the structured main-entry register. Preserve raw_text and per-line bboxes.",
+  "live_evidence": "Not bundled; retrieve at decision time. Source snapshots of 2024/2025 values are not current statistics.",
+  "skill_version": "2.0",
+  "knowledge": {
+    "chapter_cards": 62,
+    "boxes": 23,
+    "project_entries": 122,
+    "figures": 3,
+    "heritage_main_entries": 60,
+    "sector_cards": 16,
+    "analysis_classification": "Assistant analysis, not official interpretation",
+    "visual_check_date": "2026-10-23"
+  }
+}

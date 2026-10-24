@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "box-01",
+    "number": 1,
+    "title": "“十五五”时期经济社会发展主要指标",
+    "chapter": 3,
+    "pdf_pages": [
+      15
+    ],
+    "source_chunks": [
+      "p0015-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": 1,
+        "category": "经济发展",
+        "name": "国内生产总值（GDP）增长",
+        "unit": "%",
+        "column_2025": "5",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "保持在合理区间、各年度视情提出",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2026—2030规划期年均/年度口径，原列为年均/累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 2,
+        "category": "经济发展",
+        "name": "全员劳动生产率增长",
+        "unit": "%",
+        "column_2025": "6.1",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "高于GDP增长",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2026—2030规划期年均/年度口径，原列为年均/累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 3,
+        "category": "经济发展",
+        "name": "常住人口城镇化率",
+        "unit": "%",
+        "column_2025": "67.9",
+        "column_2030": "71",
+        "column_annual_or_cumulative": "—",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 4,
+        "category": "创新驱动",
+        "name": "全社会研发经费投入增长",
+        "unit": "%",
+        "column_2025": "9.1",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "＞7",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2026—2030规划期年均/年度口径，原列为年均/累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22",
+        "note": "投入增速按不变价格计算。"
+      },
+      {
+        "id": 5,
+        "category": "创新驱动",
+        "name": "每万人口高价值发明专利拥有量",
+        "unit": "件",
+        "column_2025": "16",
+        "column_2030": "＞22",
+        "column_annual_or_cumulative": "—",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 6,
+        "category": "创新驱动",
+        "name": "数字经济核心产业增加值占GDP比重",
+        "unit": "%",
+        "column_2025": "10.5*",
+        "column_2030": "12.5",
+        "column_annual_or_cumulative": "—",
+        "attribute": "预期性",
+        "baseline_reference": "2024",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 7,
+        "category": "民生福祉",
+        "name": "城镇调查失业率",
+        "unit": "%",
+        "column_2025": "5.2",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "＜5.5",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2026—2030规划期年均/年度口径，原列为年均/累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 8,
+        "category": "民生福祉",
+        "name": "居民人均可支配收入增长",
+        "unit": "%",
+        "column_2025": "5",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "与GDP增长同步",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2026—2030规划期年均/年度口径，原列为年均/累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 9,
+        "category": "民生福祉",
+        "name": "劳动年龄人口平均受教育年限",
+        "unit": "年",
+        "column_2025": "11.3",
+        "column_2030": "11.7",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 10,
+        "category": "民生福祉",
+        "name": "每千人口拥有医护人员数",
+        "unit": "人",
+        "column_2025": null,
+        "column_2030": null,
+        "column_annual_or_cumulative": "—",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22",
+        "subindicators": [
+          {
+            "name": "执业医师数",
+            "column_2025": "3.1",
+            "column_2030": "3.7"
+          },
+          {
+            "name": "注册护士数",
+            "column_2025": "4.3",
+            "column_2030": "5.1"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "category": "民生福祉",
+        "name": "养老机构护理型床位占比",
+        "unit": "%",
+        "column_2025": "68",
+        "column_2030": "73",
+        "column_annual_or_cumulative": "—",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 12,
+        "category": "民生福祉",
+        "name": "3岁以下婴幼儿入托率提高",
+        "unit": "百分点",
+        "column_2025": "—",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "〔6〕",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2026—2030累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22",
+        "note": "累计提高6个百分点，不是入托率达到6%。"
+      },
+      {
+        "id": 13,
+        "category": "民生福祉",
+        "name": "人均预期寿命",
+        "unit": "岁",
+        "column_2025": "79.25",
+        "column_2030": "80",
+        "column_annual_or_cumulative": "—",
+        "attribute": "预期性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 14,
+        "category": "绿色低碳",
+        "name": "单位GDP二氧化碳排放降低",
+        "unit": "%",
+        "column_2025": "〔17.7〕",
+        "column_2030": "—",
+        "column_annual_or_cumulative": "〔17〕",
+        "attribute": "约束性",
+        "baseline_reference": "2021—2025累计",
+        "target_reference": "2026—2030累计",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22",
+        "note": "单位GDP排放强度累计降低17%，不是排放总量降低17%，不是每年降低17%。"
+      },
+      {
+        "id": 15,
+        "category": "绿色低碳",
+        "name": "非化石能源占能源消费总量比重",
+        "unit": "%",
+        "column_2025": "21.7",
+        "column_2030": "25",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 16,
+        "category": "绿色低碳",
+        "name": "地级及以上城市细颗粒物（PM2.5）浓度",
+        "unit": "微克/立方米",
+        "column_2025": "28",
+        "column_2030": "＜27",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 17,
+        "category": "绿色低碳",
+        "name": "优良水体比例",
+        "unit": "%",
+        "column_2025": "80",
+        "column_2030": "85",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22",
+        "note": "沿用原表“优良水体比例”，勿与正文历史回顾的“地表水达到或好于Ⅲ类水体比例”擅自视作同一口径。需查统计定义。"
+      },
+      {
+        "id": 18,
+        "category": "绿色低碳",
+        "name": "森林覆盖率",
+        "unit": "%",
+        "column_2025": "25.1*",
+        "column_2030": "25.8",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2024",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      },
+      {
+        "id": 19,
+        "category": "安全保障",
+        "name": "粮食综合生产能力",
+        "unit": "万亿斤",
+        "column_2025": "1.39",
+        "column_2030": "1.45左右",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22",
+        "note": "粮食综合生产能力指可以稳定达到的粮食产出能力。"
+      },
+      {
+        "id": 20,
+        "category": "安全保障",
+        "name": "能源综合生产能力",
+        "unit": "亿吨标准煤",
+        "column_2025": "51.3",
+        "column_2030": "58",
+        "column_annual_or_cumulative": "—",
+        "attribute": "约束性",
+        "baseline_reference": "2025",
+        "target_reference": "2030",
+        "document_id": "plan-15-2026-03",
+        "pdf_page": 15,
+        "printed_page": 10,
+        "source_box": "box-01",
+        "verification": "visually_checked_2026-10-22"
+      }
+    ],
+    "item_type": "indicators",
+    "printed_pages": [
+      10
+    ],
+    "citation": "《十五五规划纲要》专栏1，印刷第10页（PDF第15页）"
+  },
+  {
+    "id": "box-02",
+    "number": 2,
+    "title": "产业基础能力和竞争力提升",
+    "chapter": 4,
+    "pdf_pages": [
+      18
+    ],
+    "source_chunks": [
+      "p0018-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-02-i01",
+        "number": 1,
+        "title": "高端新材料",
+        "text": "加快高端特殊钢、高品质高温合金、超高纯金属、先进陶瓷、高纯石英材料、\n生物基材料、先进高分子材料、高性能纤维及复合材料、结构功能一体化材\n料等创新突破，推进稀土功能材料、稀有金属材料、超硬材料、轻质高强合\n金等提质升级，加强超导材料、超材料等前沿材料研究应用。",
+        "pdf_pages": [
+          18
+        ],
+        "source_chunks": [
+          "p0018-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 18,
+            "line_start": 3,
+            "line_end": 8
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          13
+        ],
+        "citation": "《十五五规划纲要》专栏2第01项，印刷第13页（PDF第18页）"
+      },
+      {
+        "id": "box-02-i02",
+        "number": 2,
+        "title": "基础零部件和元器件",
+        "text": "加快高速精密轴承、高参数齿轮与传动装置、高可靠性液压气动密封件、高\n性能电机及控制系统、高精度丝杠等核心基础零部件攻关。研制一批连接类、\n传感类、功能材料类、光电类等先进通用基础元器件。",
+        "pdf_pages": [
+          18
+        ],
+        "source_chunks": [
+          "p0018-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 18,
+            "line_start": 9,
+            "line_end": 13
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          13
+        ],
+        "citation": "《十五五规划纲要》专栏2第02项，印刷第13页（PDF第18页）"
+      },
+      {
+        "id": "box-02-i03",
+        "number": 3,
+        "title": "基础软件和工业软件",
+        "text": "聚焦国产操作系统、数据库、中间件、编程语言及编译器、开发测试工具、\n云计算软件等基础软件，以及研发设计类、生产控制类、经营管理类等工业\n软件，全链条推动技术攻关和成果应用。",
+        "pdf_pages": [
+          18
+        ],
+        "source_chunks": [
+          "p0018-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 18,
+            "line_start": 14,
+            "line_end": 18
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          13
+        ],
+        "citation": "《十五五规划纲要》专栏2第03项，印刷第13页（PDF第18页）"
+      },
+      {
+        "id": "box-02-i04",
+        "number": 4,
+        "title": "工业母机",
+        "text": "重点研制具备高速、高精密、复合一体化特征的高端数控机床等加工装备，\n提升智能数控系统、精密测量、功能部件配套能力。",
+        "pdf_pages": [
+          18
+        ],
+        "source_chunks": [
+          "p0018-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 18,
+            "line_start": 19,
+            "line_end": 22
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          13
+        ],
+        "citation": "《十五五规划纲要》专栏2第04项，印刷第13页（PDF第18页）"
+      },
+      {
+        "id": "box-02-i05",
+        "number": 5,
+        "title": "高端仪器仪表",
+        "text": "加强在线高效智能检测、极端环境调节控制、高性能流量测量等重点行业应\n用仪器仪表研发，推进量子计量、原位计量等新型计量校准仪器仪表攻关。",
+        "pdf_pages": [
+          18
+        ],
+        "source_chunks": [
+          "p0018-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 18,
+            "line_start": 23,
+            "line_end": 26
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          13
+        ],
+        "citation": "《十五五规划纲要》专栏2第05项，印刷第13页（PDF第18页）"
+      },
+      {
+        "id": "box-02-i06",
+        "number": 6,
+        "title": "重大技术装备",
+        "text": "推进大型邮轮、大型液化天然气运输船等研发设计制造和CR450 高速度等\n级中国标准动车组试验应用，推动大型特种冶炼设备、重大石化化工成套装\n备、电子专用设备等研发和产业化，加快谱系化燃气轮机、高水头大容量水\n轮发电机组等攻关突破，推进高端智能、丘陵山区适用农机装备研发应用。",
+        "pdf_pages": [
+          18
+        ],
+        "source_chunks": [
+          "p0018-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 18,
+            "line_start": 27,
+            "line_end": 32
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          13
+        ],
+        "citation": "《十五五规划纲要》专栏2第06项，印刷第13页（PDF第18页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      13
+    ],
+    "citation": "《十五五规划纲要》专栏2，印刷第13页（PDF第18页）"
+  },
+  {
+    "id": "box-03",
+    "number": 3,
+    "title": "新产业新赛道培育发展",
+    "chapter": 5,
+    "pdf_pages": [
+      20,
+      21
+    ],
+    "source_chunks": [
+      "p0020-c02",
+      "p0021-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-03-i01",
+        "number": 1,
+        "title": "集成电路",
+        "text": "做精做细成熟制程，提高先进制程制造能力，加快发展关键装备、材料和零\n部件，发展高性能处理器和高密度存储器。加快宽禁带半导体产业提质升级，\n推动氧化镓、金刚石等超宽禁带半导体产业化发展。推进存算一体、三维集\n成、光电融合等技术突破应用。",
+        "pdf_pages": [
+          20
+        ],
+        "source_chunks": [
+          "p0020-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 20,
+            "line_start": 10,
+            "line_end": 15
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          15
+        ],
+        "citation": "《十五五规划纲要》专栏3第01项，印刷第15页（PDF第20页）"
+      },
+      {
+        "id": "box-03-i02",
+        "number": 2,
+        "title": "具身智能",
+        "text": "统筹布局具身智能实训场，推进虚实融合的协同训练与进化，深入研究物理\n人工智能，研发大小脑一体化的具身模型与算法，攻关本体及核心零部件等\n关键技术，加速人形机器人等各类形态产品升级和应用落地。",
+        "pdf_pages": [
+          20
+        ],
+        "source_chunks": [
+          "p0020-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 20,
+            "line_start": 16,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          15
+        ],
+        "citation": "《十五五规划纲要》专栏3第02项，印刷第15页（PDF第20页）"
+      },
+      {
+        "id": "box-03-i03",
+        "number": 3,
+        "title": "生物制造",
+        "text": "突破酶制剂、生物种质智能设计、智能发酵等关键技术，推进生物育种、生\n物化工、生物医药、生物能源等技术创新应用。加快细胞和基因治疗药物、\n抗体药物、核酸药物、放射性药物等研发应用，提升应急疫苗和药物研产用\n能力。",
+        "pdf_pages": [
+          20
+        ],
+        "source_chunks": [
+          "p0020-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 20,
+            "line_start": 21,
+            "line_end": 26
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          15
+        ],
+        "citation": "《十五五规划纲要》专栏3第03项，印刷第15页（PDF第20页）"
+      },
+      {
+        "id": "box-03-i04",
+        "number": 4,
+        "title": "新型电池",
+        "text": "加快高容量电极材料、高电导率电解质材料、复合集流体等关键材料攻关，\n研发高精度涂覆、高速叠片等高端制造设备及工艺，拓展高安全高能量密度\n电池在新型智能终端、新型储能、电动交通工具等领域应用。",
+        "pdf_pages": [
+          20
+        ],
+        "source_chunks": [
+          "p0020-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 20,
+            "line_start": 27,
+            "line_end": 31
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          15
+        ],
+        "citation": "《十五五规划纲要》专栏3第04项，印刷第15页（PDF第20页）"
+      },
+      {
+        "id": "box-03-i05",
+        "number": 5,
+        "title": "商业航天",
+        "text": "推进大功率能源系统、通用星载计算机和箭体结构轻量化、星箭联合设计、\n可重复使用运载等技术攻关，提升星箭产品规模化生产和商业航天发射能\n力。加强太空主动防御、群体智能操控等技术研发应用，提高太空安全态势\n感知和风险防范能力。",
+        "pdf_pages": [
+          20,
+          21
+        ],
+        "source_chunks": [
+          "p0020-c02",
+          "p0021-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 20,
+            "line_start": 32,
+            "line_end": 34
+          },
+          {
+            "pdf_page": 21,
+            "line_start": 1,
+            "line_end": 3
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          15,
+          16
+        ],
+        "citation": "《十五五规划纲要》专栏3第05项，印刷第15、16页（PDF第20、21页）"
+      },
+      {
+        "id": "box-03-i06",
+        "number": 6,
+        "title": "国产大飞机",
+        "text": "推进C919 飞机产能提升和供应链建设，开展C919 高原型等系列化机型、\nC909 衍生型、新能源飞机研制应用，加快C929 飞机技术攻关和长江—1000A\n发动机验证应用。",
+        "pdf_pages": [
+          21
+        ],
+        "source_chunks": [
+          "p0021-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 21,
+            "line_start": 4,
+            "line_end": 8
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          16
+        ],
+        "citation": "《十五五规划纲要》专栏3第06项，印刷第16页（PDF第21页）"
+      },
+      {
+        "id": "box-03-i07",
+        "number": 7,
+        "title": "低空装备",
+        "text": "加快大载重固定翼无人机、长航程垂直起降航空器等新型低空装备研制，突\n破智能飞行、电推进和混合动力系统等关键技术，强化低空运行管理和低成\n本无人机安全防控技术产品攻关应用。",
+        "pdf_pages": [
+          21
+        ],
+        "source_chunks": [
+          "p0021-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 21,
+            "line_start": 9,
+            "line_end": 13
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          16
+        ],
+        "citation": "《十五五规划纲要》专栏3第07项，印刷第16页（PDF第21页）"
+      },
+      {
+        "id": "box-03-i08",
+        "number": 8,
+        "title": "绿色氢能",
+        "text": "提升可再生能源制氢装备水平，加快攻关验证经济安全的规模化氢储运技\n术，优化布局氢能基础设施，推动绿氢产业链向绿色氨醇、可持续航空燃料\n延伸，拓展氢能在交通、电力、工业等领域应用。",
+        "pdf_pages": [
+          21
+        ],
+        "source_chunks": [
+          "p0021-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 21,
+            "line_start": 14,
+            "line_end": 18
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          16
+        ],
+        "citation": "《十五五规划纲要》专栏3第08项，印刷第16页（PDF第21页）"
+      },
+      {
+        "id": "box-03-i09",
+        "number": 9,
+        "title": "脑机接口",
+        "text": "加快新型电极与专用芯片等基础软硬件、信号编解码算法、汉语语料数据库\n等关键技术攻关，推动脑机接口产品在脑疾病诊治、运动康复治疗、健康监\n测等领域应用。",
+        "pdf_pages": [
+          21
+        ],
+        "source_chunks": [
+          "p0021-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 21,
+            "line_start": 19,
+            "line_end": 23
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          16
+        ],
+        "citation": "《十五五规划纲要》专栏3第09项，印刷第16页（PDF第21页）"
+      },
+      {
+        "id": "box-03-i10",
+        "number": 10,
+        "title": "高端医疗器械",
+        "text": "推动超高端计算机断层扫描、高分辨磁共振、放射治疗系统、智能手术机器\n人、生命支持设备等新型诊疗装备研发突破和规模化应用，研制重大慢性病\n康复、神经刺激、心血管和骨科治疗等新型植入介入器械。",
+        "pdf_pages": [
+          21
+        ],
+        "source_chunks": [
+          "p0021-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 21,
+            "line_start": 24,
+            "line_end": 28
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          16
+        ],
+        "citation": "《十五五规划纲要》专栏3第10项，印刷第16页（PDF第21页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      15,
+      16
+    ],
+    "citation": "《十五五规划纲要》专栏3，印刷第15、16页（PDF第20、21页）"
+  },
+  {
+    "id": "box-04",
+    "number": 4,
+    "title": "国家综合立体交通网建设",
+    "chapter": 7,
+    "pdf_pages": [
+      24,
+      25
+    ],
+    "source_chunks": [
+      "p0024-c01",
+      "p0025-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-04-i01",
+        "number": 1,
+        "title": "“八纵八横”高速铁路主通道",
+        "text": "贯通高标准沿江通道，建成京昆、兰（西）广、厦渝通道及京沪辅助通道，\n建成呼南通道宜昌至常德高铁，建设沿海通道温州至福州高铁、京港（台）\n通道阜阳至黄冈高铁、包（银）海通道包头经鄂尔多斯至榆林高铁和湛江至\n海口跨海轮渡及相关线路、青银通道太原至绥德高铁、沪昆通道上海至杭州\n高铁。推进沪甬跨海通道工程，建设永州经清远至广州等高铁区域连接线。",
+        "pdf_pages": [
+          24
+        ],
+        "source_chunks": [
+          "p0024-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 24,
+            "line_start": 3,
+            "line_end": 9
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "建成",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          19
+        ],
+        "citation": "《十五五规划纲要》专栏4第01项，印刷第19页（PDF第24页）"
+      },
+      {
+        "id": "box-04-i02",
+        "number": 2,
+        "title": "普速铁路网",
+        "text": "高标准推进川藏铁路雅安至林芝段建设，建设新藏铁路东、西段工程和青藏\n铁路格尔木至拉萨段电气化改造、波密至然乌铁路项目。建设黑河至乌伊岭、\n文山至靖西等沿边铁路。实施铁路货运网络工程，建设临河至哈密铁路扩能\n改造等疆煤外运重点项目，完善铁路集装箱运输网络和多式联运体系。推进\n温州经武夷山至吉安、大理经丽江至攀枝花铁路前期工作。",
+        "pdf_pages": [
+          24
+        ],
+        "source_chunks": [
+          "p0024-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 24,
+            "line_start": 10,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          19
+        ],
+        "citation": "《十五五规划纲要》专栏4第02项，印刷第19页（PDF第24页）"
+      },
+      {
+        "id": "box-04-i03",
+        "number": 3,
+        "title": "国家公路网",
+        "text": "建设京哈、京港澳、沈海、长深、兰海等国家高速公路主线、并行线和联络\n线，以及奎屯经独山子至库车等高速公路，推进京昆、京台、沪蓉、连霍、\n厦蓉、包茂、银昆、杭瑞等既有国家高速公路重点路段安全韧性提升。全面\n贯通G219、G331 沿边陆路战略骨干通道，建设沿边公路并行线、边境口岸\n连接线等，推进G228 沿海骨干通道建设，提质改造G109、G317、G318 等\n出疆入藏骨干通道。",
+        "pdf_pages": [
+          24
+        ],
+        "source_chunks": [
+          "p0024-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 24,
+            "line_start": 17,
+            "line_end": 24
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          19
+        ],
+        "citation": "《十五五规划纲要》专栏4第03项，印刷第19页（PDF第24页）"
+      },
+      {
+        "id": "box-04-i04",
+        "number": 4,
+        "title": "沿海港口",
+        "text": "优化环渤海、长三角、粤港澳大湾区世界级港口群功能布局，有序推进港口\n群整合和一体化发展，建设洋山港区小洋山北侧、宁波舟山港六横港区、广\n州港南沙港区、厦门港翔安港区、青岛港董家口港区等集装箱码头工程。升\n级改造北部湾国际门户港、洋浦区域国际集装箱枢纽港。",
+        "pdf_pages": [
+          24
+        ],
+        "source_chunks": [
+          "p0024-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 24,
+            "line_start": 25,
+            "line_end": 30
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          19
+        ],
+        "citation": "《十五五规划纲要》专栏4第04项，印刷第19页（PDF第24页）"
+      },
+      {
+        "id": "box-04-i05",
+        "number": 5,
+        "title": "内河高等级航道",
+        "text": "建设三峡水运新通道，提升长江干线航道畅通水平。建设西江干线航道，优\n化完善长三角、珠三角高等级航道网。实施京杭运河和淮河干线航道提质改\n造工程，建设汉江等长江重要支流高等级航道。",
+        "pdf_pages": [
+          24
+        ],
+        "source_chunks": [
+          "p0024-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 24,
+            "line_start": 31,
+            "line_end": 35
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          19
+        ],
+        "citation": "《十五五规划纲要》专栏4第05项，印刷第19页（PDF第24页）"
+      },
+      {
+        "id": "box-04-i06",
+        "number": 6,
+        "title": "现代化机场体系",
+        "text": "提升京津冀、长三角、粤港澳大湾区、成渝世界级机场群能力，建成大连、\n厦门新机场，建设广州、南通新机场，推进重庆、三亚新机场前期工作，实\n施沈阳、长春、南京、杭州、温州、郑州、成都天府等枢纽机场改扩建工程。\n推进延吉、伊宁机场迁建等支线机场项目。",
+        "pdf_pages": [
+          24,
+          25
+        ],
+        "source_chunks": [
+          "p0024-c01",
+          "p0025-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 24,
+            "line_start": 36,
+            "line_end": 39
+          },
+          {
+            "pdf_page": 25,
+            "line_start": 1,
+            "line_end": 2
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "建成",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          19,
+          20
+        ],
+        "citation": "《十五五规划纲要》专栏4第06项，印刷第19、20页（PDF第24、25页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      19,
+      20
+    ],
+    "citation": "《十五五规划纲要》专栏4，印刷第19、20页（PDF第24、25页）"
+  },
+  {
+    "id": "box-05",
+    "number": 5,
+    "title": "新型能源体系建设",
+    "chapter": 7,
+    "pdf_pages": [
+      25,
+      26
+    ],
+    "source_chunks": [
+      "p0025-c03",
+      "p0026-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-05-i01",
+        "number": 1,
+        "title": "重大水电及水风光一体化基地",
+        "text": "安全有序推进雅鲁藏布江下游水电工程建设，推进雅砻江、金沙江上游、澜\n沧江上游、藏东南（玉察）等流域水风光一体化基地建设。建设茨哈峡等水\n电站。研究论证怒江流域水电规划。在厂址资源好、负荷调节需求大的地区\n建设一批抽水蓄能电站，新增投产装机容量1 亿千瓦左右。",
+        "pdf_pages": [
+          25
+        ],
+        "source_chunks": [
+          "p0025-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 25,
+            "line_start": 19,
+            "line_end": 24
+          }
+        ],
+        "stage_cues": [
+          "研究论证",
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          20
+        ],
+        "citation": "《十五五规划纲要》专栏5第01项，印刷第20页（PDF第25页）"
+      },
+      {
+        "id": "box-05-i02",
+        "number": 2,
+        "title": "“沙戈荒”等新能源基地",
+        "text": "以库布齐、乌兰布和、腾格里、巴丹吉林沙漠为重点，以其他沙漠、戈壁和\n荒漠地区为补充，建设以外送为主的大型风电光伏基地。持续推进新疆、黄\n河上游、河西走廊、黄河“几字弯”、冀北、松辽等新能源基地建设。",
+        "pdf_pages": [
+          25
+        ],
+        "source_chunks": [
+          "p0025-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 25,
+            "line_start": 25,
+            "line_end": 29
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          20
+        ],
+        "citation": "《十五五规划纲要》专栏5第02项，印刷第20页（PDF第25页）"
+      },
+      {
+        "id": "box-05-i03",
+        "number": 3,
+        "title": "海上风电基地",
+        "text": "在渤海、黄海、东海、南海海域建设海上风电基地，规范有序推进深远海风\n电开发，海上风电累计并网装机规模达到1 亿千瓦以上。",
+        "pdf_pages": [
+          26
+        ],
+        "source_chunks": [
+          "p0026-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 26,
+            "line_start": 1,
+            "line_end": 4
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          21
+        ],
+        "citation": "《十五五规划纲要》专栏5第03项，印刷第21页（PDF第26页）"
+      },
+      {
+        "id": "box-05-i04",
+        "number": 4,
+        "title": "沿海核电",
+        "text": "积极安全有序推进沿海核电建设，核电运行装机容量达到1.1 亿千瓦左右。\n因地制宜推进核能综合利用。建成小型压水堆示范工程，稳妥推进四代堆技\n术研发与应用示范。",
+        "pdf_pages": [
+          26
+        ],
+        "source_chunks": [
+          "p0026-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 26,
+            "line_start": 5,
+            "line_end": 9
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "建成",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          21
+        ],
+        "citation": "《十五五规划纲要》专栏5第04项，印刷第21页（PDF第26页）"
+      },
+      {
+        "id": "box-05-i05",
+        "number": 5,
+        "title": "电力输送通道",
+        "text": "建设内蒙古、吉林、黑龙江、甘肃、青海、宁夏、新疆、西藏等省区清洁能\n源基地电力外送通道，西电东送能力达到4.2 亿千瓦以上。",
+        "pdf_pages": [
+          26
+        ],
+        "source_chunks": [
+          "p0026-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 26,
+            "line_start": 10,
+            "line_end": 13
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          21
+        ],
+        "citation": "《十五五规划纲要》专栏5第05项，印刷第21页（PDF第26页）"
+      },
+      {
+        "id": "box-05-i06",
+        "number": 6,
+        "title": "电力互济工程",
+        "text": "加强省间电力互济和跨电网经营区互济，建设闽赣、皖鄂、鲁苏、渝黔、湘\n黔、湘粤等电力互济工程，促进电力资源优化配置。",
+        "pdf_pages": [
+          26
+        ],
+        "source_chunks": [
+          "p0026-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 26,
+            "line_start": 14,
+            "line_end": 17
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          21
+        ],
+        "citation": "《十五五规划纲要》专栏5第06项，印刷第21页（PDF第26页）"
+      },
+      {
+        "id": "box-05-i07",
+        "number": 7,
+        "title": "天然气管网",
+        "text": "建设中俄远东天然气管道、川气东送二线天然气管道，推进中俄中线天然气\n管道前期工作。",
+        "pdf_pages": [
+          26
+        ],
+        "source_chunks": [
+          "p0026-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 26,
+            "line_start": 18,
+            "line_end": 21
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          21
+        ],
+        "citation": "《十五五规划纲要》专栏5第07项，印刷第21页（PDF第26页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      20,
+      21
+    ],
+    "citation": "《十五五规划纲要》专栏5，印刷第20、21页（PDF第25、26页）"
+  },
+  {
+    "id": "box-06",
+    "number": 6,
+    "title": "现代化水网建设",
+    "chapter": 7,
+    "pdf_pages": [
+      28
+    ],
+    "source_chunks": [
+      "p0028-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-06-i01",
+        "number": 1,
+        "title": "防洪减灾",
+        "text": "建设长江两湖重点堤防加固、黄河上游干流堤防加固、淮河干流行洪区治理、\n海河骨干河道防洪治理等工程和黄河古贤、福建上白石、广东黄茅峡等防洪\n水库，研究论证推进黄河黑山峡河段开发工程和永定河官厅山峡、拒马河张\n坊等防洪工程。以北方地区为重点开展暴雨山洪减灾体系建设。加强国家蓄\n滞洪区建设。",
+        "pdf_pages": [
+          28
+        ],
+        "source_chunks": [
+          "p0028-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 28,
+            "line_start": 14,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "研究论证",
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          23
+        ],
+        "citation": "《十五五规划纲要》专栏6第01项，印刷第23页（PDF第28页）"
+      },
+      {
+        "id": "box-06-i02",
+        "number": 2,
+        "title": "重大引调水",
+        "text": "建设南水北调东线二期、南水北调中线引江补汉、辽东半岛水资源配置、四\n川引大济岷、云南滇中引水二期、浙江浙中水资源配置、安徽引江济淮二期\n等工程。推进闽西南水资源配置工程前期工作。研究论证南水北调西线工程。",
+        "pdf_pages": [
+          28
+        ],
+        "source_chunks": [
+          "p0028-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 28,
+            "line_start": 21,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [
+          "研究论证",
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          23
+        ],
+        "citation": "《十五五规划纲要》专栏6第02项，印刷第23页（PDF第28页）"
+      },
+      {
+        "id": "box-06-i03",
+        "number": 3,
+        "title": "供水灌溉",
+        "text": "推进安徽淠史杭、四川都江堰、内蒙古河套、新疆叶尔羌河、山东位山、宁\n夏青铜峡等大型灌区整装现代化改造，建设广东雷州半岛、广西邕北、重庆\n玉滩等大中型灌区和陕西焦岩、贵州玉龙等水源水库。建设鄱阳湖水利枢纽\n工程，发挥生态和供水灌溉等综合效益。研究论证洞庭湖城陵矶水利枢纽工程。",
+        "pdf_pages": [
+          28
+        ],
+        "source_chunks": [
+          "p0028-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 28,
+            "line_start": 26,
+            "line_end": 31
+          }
+        ],
+        "stage_cues": [
+          "研究论证",
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          23
+        ],
+        "citation": "《十五五规划纲要》专栏6第03项，印刷第23页（PDF第28页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      23
+    ],
+    "citation": "《十五五规划纲要》专栏6，印刷第23页（PDF第28页）"
+  },
+  {
+    "id": "box-07",
+    "number": 7,
+    "title": "新型基础设施建设",
+    "chapter": 7,
+    "pdf_pages": [
+      29,
+      30
+    ],
+    "source_chunks": [
+      "p0029-c02",
+      "p0030-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-07-i01",
+        "number": 1,
+        "title": "全国一体化算力网",
+        "text": "建设新一代超算、通算、智算设施体系，积极发展公有云服务。建设算力监\n测调度平台，制定完善算力资源池化、并网、监测、运营、调度等标准规范。",
+        "pdf_pages": [
+          29
+        ],
+        "source_chunks": [
+          "p0029-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 29,
+            "line_start": 13,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          24
+        ],
+        "citation": "《十五五规划纲要》专栏7第01项，印刷第24页（PDF第29页）"
+      },
+      {
+        "id": "box-07-i02",
+        "number": 2,
+        "title": "卫星互联网",
+        "text": "统筹推进卫星互联网星座建设，提升发射测控保障和安全防护能力，加快卫\n星互联网和北斗在重点行业、大众消费等领域规模化应用和国际化推广。强\n化多用户需求统筹协调，推进遥感卫星共建和数据共享共用，构建空天地一\n体、通导感算融合的综合服务体系。",
+        "pdf_pages": [
+          29
+        ],
+        "source_chunks": [
+          "p0029-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 29,
+            "line_start": 17,
+            "line_end": 22
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          24
+        ],
+        "citation": "《十五五规划纲要》专栏7第02项，印刷第24页（PDF第29页）"
+      },
+      {
+        "id": "box-07-i03",
+        "number": 3,
+        "title": "信息通信网络",
+        "text": "推进万兆光网部署应用，建设100 万个高速无源光网络（50G PON）端口。\n加快5G–A 移动通信网络规模商用，建设5G–A 基站50 万个，加强6G 技\n术研发、标准研制和应用验证。提升骨干传输网络能力，推进海缆建设国际\n合作。实施电信普遍服务，提升边疆地区宽带网络覆盖水平。",
+        "pdf_pages": [
+          29
+        ],
+        "source_chunks": [
+          "p0029-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 29,
+            "line_start": 23,
+            "line_end": 28
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          24
+        ],
+        "citation": "《十五五规划纲要》专栏7第03项，印刷第24页（PDF第29页）"
+      },
+      {
+        "id": "box-07-i04",
+        "number": 4,
+        "title": "数据基础设施",
+        "text": "构建统一目录标识、身份认证、接入管理的数据流通利用设施体系和数据安\n全防护平台，布局建设数据标注、流通、交付、应用基地和高速数据传输网\n络。",
+        "pdf_pages": [
+          29
+        ],
+        "source_chunks": [
+          "p0029-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 29,
+            "line_start": 29,
+            "line_end": 33
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          24
+        ],
+        "citation": "《十五五规划纲要》专栏7第04项，印刷第24页（PDF第29页）"
+      },
+      {
+        "id": "box-07-i05",
+        "number": 5,
+        "title": "低空基础设施",
+        "text": "以场景拓展为牵引，科学划设低空航路，沿航路布设起降及通信导航监视气\n象等基础设施。推动低空智能网联系统、重点区域部位低空安全防护能力等\n建设。",
+        "pdf_pages": [
+          30
+        ],
+        "source_chunks": [
+          "p0030-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 30,
+            "line_start": 1,
+            "line_end": 5
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          25
+        ],
+        "citation": "《十五五规划纲要》专栏7第05项，印刷第25页（PDF第30页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      24,
+      25
+    ],
+    "citation": "《十五五规划纲要》专栏7，印刷第24、25页（PDF第29、30页）"
+  },
+  {
+    "id": "box-08",
+    "number": 8,
+    "title": "前沿科技攻关",
+    "chapter": 8,
+    "pdf_pages": [
+      32,
+      33
+    ],
+    "source_chunks": [
+      "p0032-c02",
+      "p0033-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-08-i01",
+        "number": 1,
+        "title": "人工智能",
+        "text": "研制高性能人工智能芯片和高可用基础软件栈，加快模型基础架构探索创\n新，深化可解释、可决策等关键算法研究，加强人工智能数据治理和安全技\n术研究应用。",
+        "pdf_pages": [
+          32
+        ],
+        "source_chunks": [
+          "p0032-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 32,
+            "line_start": 8,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "探索"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          27
+        ],
+        "citation": "《十五五规划纲要》专栏8第01项，印刷第27页（PDF第32页）"
+      },
+      {
+        "id": "box-08-i02",
+        "number": 2,
+        "title": "量子科技",
+        "text": "构建天地一体化量子通信网络，研制可容错的通用量子计算机和可扩展的专\n用量子计算机，突破量子精密测量关键技术。",
+        "pdf_pages": [
+          32
+        ],
+        "source_chunks": [
+          "p0032-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 32,
+            "line_start": 13,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          27
+        ],
+        "citation": "《十五五规划纲要》专栏8第02项，印刷第27页（PDF第32页）"
+      },
+      {
+        "id": "box-08-i03",
+        "number": 3,
+        "title": "可控核聚变",
+        "text": "突破氚燃料制备循环、材料辐照考验、高性能激光、超导磁体制造等核聚变\n关键技术，开展聚变氘氚燃烧等离子体运行实验和多技术路径可行性验证，\n推进核聚变研发工程化进程。",
+        "pdf_pages": [
+          32
+        ],
+        "source_chunks": [
+          "p0032-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 32,
+            "line_start": 17,
+            "line_end": 21
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          27
+        ],
+        "citation": "《十五五规划纲要》专栏8第03项，印刷第27页（PDF第32页）"
+      },
+      {
+        "id": "box-08-i04",
+        "number": 4,
+        "title": "生命科学与生物技术",
+        "text": "深化基因编辑、分子精准递送、细胞编程与调控、先进组学研究，攻关人工\n生命体系合成、类器官与器官芯片、器官制造、生物结构与功能成像等技术，\n研制生物工程设计软件工具。",
+        "pdf_pages": [
+          32
+        ],
+        "source_chunks": [
+          "p0032-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 32,
+            "line_start": 22,
+            "line_end": 26
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          27
+        ],
+        "citation": "《十五五规划纲要》专栏8第04项，印刷第27页（PDF第32页）"
+      },
+      {
+        "id": "box-08-i05",
+        "number": 5,
+        "title": "脑科学与类脑研究",
+        "text": "解析脑认知和脑功能原理，建设神经活动检测与调控等创新技术平台，加强\n脑健康主动应对技术研究，研发重大脑疾病预防、诊断、干预、治疗新方法\n新产品，构建类脑通用智能系统。",
+        "pdf_pages": [
+          32
+        ],
+        "source_chunks": [
+          "p0032-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 32,
+            "line_start": 27,
+            "line_end": 31
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          27
+        ],
+        "citation": "《十五五规划纲要》专栏8第05项，印刷第27页（PDF第32页）"
+      },
+      {
+        "id": "box-08-i06",
+        "number": 6,
+        "title": "重大疾病防治与创新药研发",
+        "text": "完善艾滋病、结核、病毒性肝炎等传染病防诊治技术体系，研究癌症、心脑\n血管、呼吸和代谢性疾病的早筛早查、精准医学、生物治疗等关键技术，研\n发重大高发慢性病、重大传染病、罕见病、儿童用药等创新药物。",
+        "pdf_pages": [
+          32
+        ],
+        "source_chunks": [
+          "p0032-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 32,
+            "line_start": 32,
+            "line_end": 36
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          27
+        ],
+        "citation": "《十五五规划纲要》专栏8第06项，印刷第27页（PDF第32页）"
+      },
+      {
+        "id": "box-08-i07",
+        "number": 7,
+        "title": "深海深地极地探测",
+        "text": "实施深海典型生境发现、大洋钻探、深海矿产开发、天然气水合物开采、超\n深水油气开发等任务，加快深海无人智能技术开发，建设蛟龙探海三期，研\n制深海空间站。攻关地球深部探测与矿产资源勘探装备，开展透视地球等基\n础科学研究，推进矿产资源智能化开发利用技术创新。建设雪龙探极三期。",
+        "pdf_pages": [
+          33
+        ],
+        "source_chunks": [
+          "p0033-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 33,
+            "line_start": 1,
+            "line_end": 6
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          28
+        ],
+        "citation": "《十五五规划纲要》专栏8第07项，印刷第28页（PDF第33页）"
+      },
+      {
+        "id": "box-08-i08",
+        "number": 8,
+        "title": "深空探索",
+        "text": "论证实施行星探测工程二期、近地小行星防御工程、太阳系边际探测工程。\n研制可重复使用重型运载火箭。论证建设国际月球科研站，实施月球探测工\n程。",
+        "pdf_pages": [
+          33
+        ],
+        "source_chunks": [
+          "p0033-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 33,
+            "line_start": 7,
+            "line_end": 11
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          28
+        ],
+        "citation": "《十五五规划纲要》专栏8第08项，印刷第28页（PDF第33页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      27,
+      28
+    ],
+    "citation": "《十五五规划纲要》专栏8，印刷第27、28页（PDF第32、33页）"
+  },
+  {
+    "id": "box-09",
+    "number": 9,
+    "title": "创新基础能力提升",
+    "chapter": 9,
+    "pdf_pages": [
+      34,
+      35
+    ],
+    "source_chunks": [
+      "p0034-c03",
+      "p0035-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-09-i01",
+        "number": 1,
+        "title": "国家实验室体系",
+        "text": "支持国家实验室、全国重点实验室等加强重大科研平台建设和科研条件改\n善，以国家实验室为主体，以全国重点实验室等协同攻关的国家科技创新平\n台基地为重要支撑，形成使命驱动、任务导向、高效协同的国家实验室体系。",
+        "pdf_pages": [
+          34
+        ],
+        "source_chunks": [
+          "p0034-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 34,
+            "line_start": 22,
+            "line_end": 26
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          29
+        ],
+        "citation": "《十五五规划纲要》专栏9第01项，印刷第29页（PDF第34页）"
+      },
+      {
+        "id": "box-09-i02",
+        "number": 2,
+        "title": "重大科技基础设施",
+        "text": "建设吸气式发动机关键部件热物理试验装置、高精度地基授时系统等战略导\n向型设施，散裂中子源二期工程、深部岩土工程扰动模拟设施等应用支撑型\n设施，空地一体量子精密测量实验设施、脉冲强磁场实验装置优化提升等前\n瞻引领型设施。",
+        "pdf_pages": [
+          35
+        ],
+        "source_chunks": [
+          "p0035-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 35,
+            "line_start": 1,
+            "line_end": 6
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          30
+        ],
+        "citation": "《十五五规划纲要》专栏9第02项，印刷第30页（PDF第35页）"
+      },
+      {
+        "id": "box-09-i03",
+        "number": 3,
+        "title": "区域创新体系",
+        "text": "支持北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心建\n设，打造世界级科技创新策源地。支持北京怀柔、上海张江、大湾区、安徽\n合肥综合性国家科学中心建设重大科研设施平台集群。推进成渝地区、武汉、\n西安区域科技创新中心建设。",
+        "pdf_pages": [
+          35
+        ],
+        "source_chunks": [
+          "p0035-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 35,
+            "line_start": 7,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          30
+        ],
+        "citation": "《十五五规划纲要》专栏9第03项，印刷第30页（PDF第35页）"
+      },
+      {
+        "id": "box-09-i04",
+        "number": 4,
+        "title": "科技基础条件平台",
+        "text": "实施高端科研仪器和生物试剂产业创新工程。完善生物种质与实验材料资源\n库、国家野外科学观测研究站布局。建设世界一流科技期刊、高水平科技文\n献平台和科学数据库。",
+        "pdf_pages": [
+          35
+        ],
+        "source_chunks": [
+          "p0035-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 35,
+            "line_start": 13,
+            "line_end": 17
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          30
+        ],
+        "citation": "《十五五规划纲要》专栏9第04项，印刷第30页（PDF第35页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      29,
+      30
+    ],
+    "citation": "《十五五规划纲要》专栏9，印刷第29、30页（PDF第34、35页）"
+  },
+  {
+    "id": "box-10",
+    "number": 10,
+    "title": "“人工智能+”行动",
+    "chapter": 13,
+    "pdf_pages": [
+      42
+    ],
+    "source_chunks": [
+      "p0042-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-10-i01",
+        "number": 1,
+        "title": "“人工智能+”科学技术",
+        "text": "加快探索人工智能驱动的新型科研范式和技术研发模式，推进科学大模型研\n发应用，建设科研智能平台和高质量科学数据集，加强人工智能与量子科技、\n生命科学、新材料、新能源、6G 等领域技术协同创新。",
+        "pdf_pages": [
+          42
+        ],
+        "source_chunks": [
+          "p0042-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 42,
+            "line_start": 5,
+            "line_end": 9
+          }
+        ],
+        "stage_cues": [
+          "探索",
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          37
+        ],
+        "citation": "《十五五规划纲要》专栏10第01项，印刷第37页（PDF第42页）"
+      },
+      {
+        "id": "box-10-i02",
+        "number": 2,
+        "title": "“人工智能+”产业发展",
+        "text": "推动人工智能在工业设计、中试、生产、运营等全环节落地应用，加快电力\n系统调控、能源勘探开发、新能源功率预测等场景创新。面向生物育种、生\n产管理、疫病防治等场景加快农业数智化升级。在软件信息、金融商务、交\n通物流等服务业领域，推动智能终端、智能体等广泛应用。",
+        "pdf_pages": [
+          42
+        ],
+        "source_chunks": [
+          "p0042-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 42,
+            "line_start": 10,
+            "line_end": 15
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          37
+        ],
+        "citation": "《十五五规划纲要》专栏10第02项，印刷第37页（PDF第42页）"
+      },
+      {
+        "id": "box-10-i03",
+        "number": 3,
+        "title": "“人工智能+”消费提质",
+        "text": "开发提效型、陪伴型等智能原生应用，发展人工智能手机和电脑、智能机器\n人等新一代智能终端，探索智能产品新形态。拓展智能服务消费新场景，建\n设一批人工智能体验中心，打造一体化全场景覆盖的智能交互环境。",
+        "pdf_pages": [
+          42
+        ],
+        "source_chunks": [
+          "p0042-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 42,
+            "line_start": 16,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "探索"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          37
+        ],
+        "citation": "《十五五规划纲要》专栏10第03项，印刷第37页（PDF第42页）"
+      },
+      {
+        "id": "box-10-i04",
+        "number": 4,
+        "title": "“人工智能+”民生福祉",
+        "text": "创新智能学伴、智能教师等教学模式，深化精准教学、个性化学习、智能辅\n学等应用。推广高水平居民健康助手，扩大智能辅助诊疗在基层医疗机构的\n应用。推动人工智能在文化创作生产传播、旅游服务体验等领域创新应用。\n提升住宅设计和居住智能化水平。探索人机协同的新型工作形态，推动具身\n智能在劳动力紧缺、环境高危等岗位应用。",
+        "pdf_pages": [
+          42
+        ],
+        "source_chunks": [
+          "p0042-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 42,
+            "line_start": 21,
+            "line_end": 27
+          }
+        ],
+        "stage_cues": [
+          "探索"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          37
+        ],
+        "citation": "《十五五规划纲要》专栏10第04项，印刷第37页（PDF第42页）"
+      },
+      {
+        "id": "box-10-i05",
+        "number": 5,
+        "title": "“人工智能+”治理能力",
+        "text": "加强人工智能在市场综合监管、安全生产监管、防灾减灾救灾、社会治安管\n理、网络空间维护、生态环境保护等方面应用，探索构建自然人、数字人、\n智能机器人等协同的安全治理体系。",
+        "pdf_pages": [
+          42
+        ],
+        "source_chunks": [
+          "p0042-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 42,
+            "line_start": 28,
+            "line_end": 32
+          }
+        ],
+        "stage_cues": [
+          "探索"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          37
+        ],
+        "citation": "《十五五规划纲要》专栏10第05项，印刷第37页（PDF第42页）"
+      },
+      {
+        "id": "box-10-i06",
+        "number": 6,
+        "title": "“人工智能+”全球合作",
+        "text": "推动成立世界人工智能合作组织，建设“一带一路”人工智能多边合作平台、\n国际人工智能应用合作中心，推动各国共同制定监管框架、技术标准和伦理\n规范。加快构建面向全球开放的开源技术体系和社区生态。",
+        "pdf_pages": [
+          42
+        ],
+        "source_chunks": [
+          "p0042-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 42,
+            "line_start": 33,
+            "line_end": 37
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          37
+        ],
+        "citation": "《十五五规划纲要》专栏10第06项，印刷第37页（PDF第42页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      37
+    ],
+    "citation": "《十五五规划纲要》专栏10，印刷第37页（PDF第42页）"
+  },
+  {
+    "id": "box-11",
+    "number": 11,
+    "title": "对外开放平台功能提升",
+    "chapter": 21,
+    "pdf_pages": [
+      60
+    ],
+    "source_chunks": [
+      "p0060-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-11-i01",
+        "number": 1,
+        "title": "海南自由贸易港",
+        "text": "实施更加开放的人员、运输、金融、数据等政策，深化税收制度、行政体制\n等重点领域改革。建设世界一流商业航天发射场，提高国际医疗旅游先行区\n和国际教育创新试验区开放水平。",
+        "pdf_pages": [
+          60
+        ],
+        "source_chunks": [
+          "p0060-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 60,
+            "line_start": 3,
+            "line_end": 7
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          55
+        ],
+        "citation": "《十五五规划纲要》专栏11第01项，印刷第55页（PDF第60页）"
+      },
+      {
+        "id": "box-11-i02",
+        "number": 2,
+        "title": "自由贸易试验区",
+        "text": "优化自由贸易试验区布局范围，结合实际赋予新的改革试点任务，深化差别\n化探索，推动改革成果复制推广。推动有条件的自由贸易试验区围绕数字经\n济、科技创新、离岸贸易等领域开展更多首创首试。",
+        "pdf_pages": [
+          60
+        ],
+        "source_chunks": [
+          "p0060-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 60,
+            "line_start": 8,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "探索",
+          "试点"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          55
+        ],
+        "citation": "《十五五规划纲要》专栏11第02项，印刷第55页（PDF第60页）"
+      },
+      {
+        "id": "box-11-i03",
+        "number": 3,
+        "title": "边境合作平台",
+        "text": "高标准建设广西钦防、云南瑞丽、新疆伊犁、内蒙古满洲里、黑龙江牡丹江\n产业协作园区。设立黑河、吉隆、丹东、喀什、阿拉山口重点开发开放试验区。",
+        "pdf_pages": [
+          60
+        ],
+        "source_chunks": [
+          "p0060-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 60,
+            "line_start": 13,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          55
+        ],
+        "citation": "《十五五规划纲要》专栏11第03项，印刷第55页（PDF第60页）"
+      },
+      {
+        "id": "box-11-i04",
+        "number": 4,
+        "title": "边境口岸",
+        "text": "建成黑瞎子岛、双目峰公路口岸和甘其毛都铁路口岸。升级改造集安、满洲\n里、二连浩特、磨憨、河口、孟定清水河公路口岸和绥芬河铁路口岸。",
+        "pdf_pages": [
+          60
+        ],
+        "source_chunks": [
+          "p0060-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 60,
+            "line_start": 17,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "建成"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          55
+        ],
+        "citation": "《十五五规划纲要》专栏11第04项，印刷第55页（PDF第60页）"
+      },
+      {
+        "id": "box-11-i05",
+        "number": 5,
+        "title": "中欧（亚）班列集结中心",
+        "text": "支持沈阳、天津—石家庄、济南—青岛、连云港—徐州、金华（义乌）、合肥、\n郑州、武汉、长沙、广州、成都—重庆、昆明、西安、乌鲁木齐等14 个中欧\n（亚）班列集结中心及节点城市建设。",
+        "pdf_pages": [
+          60
+        ],
+        "source_chunks": [
+          "p0060-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 60,
+            "line_start": 21,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          55
+        ],
+        "citation": "《十五五规划纲要》专栏11第05项，印刷第55页（PDF第60页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      55
+    ],
+    "citation": "《十五五规划纲要》专栏11，印刷第55页（PDF第60页）"
+  },
+  {
+    "id": "box-12",
+    "number": 12,
+    "title": "农业农村现代化建设",
+    "chapter": 26,
+    "pdf_pages": [
+      69
+    ],
+    "source_chunks": [
+      "p0069-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-12-i01",
+        "number": 1,
+        "title": "高标准农田建设",
+        "text": "优先把东北黑土地区、平原地区、具备水利灌溉条件地区以及粮食产量高且\n增产潜力大地区的永久基本农田建成高标准农田，将720 个粮食产能提升重\n点县具备条件的永久基本农田全部建成高标准农田。",
+        "pdf_pages": [
+          69
+        ],
+        "source_chunks": [
+          "p0069-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 69,
+            "line_start": 7,
+            "line_end": 11
+          }
+        ],
+        "stage_cues": [
+          "建成"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          64
+        ],
+        "citation": "《十五五规划纲要》专栏12第01项，印刷第64页（PDF第69页）"
+      },
+      {
+        "id": "box-12-i02",
+        "number": 2,
+        "title": "现代种业发展",
+        "text": "建设完善国家农作物、畜禽、水产、林草、微生物种质资源保护利用体系，\n优化品种测试评价体系，建设种业创新基地、育制种基地，加强突破性重大\n品种培育，推动农业核心种源自给率达到85%。",
+        "pdf_pages": [
+          69
+        ],
+        "source_chunks": [
+          "p0069-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 69,
+            "line_start": 12,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          64
+        ],
+        "citation": "《十五五规划纲要》专栏12第02项，印刷第64页（PDF第69页）"
+      },
+      {
+        "id": "box-12-i03",
+        "number": 3,
+        "title": "动植物疫情疫病防控",
+        "text": "健全农作物病虫害和动物疫病监测预警体系，提升动植物疫病防治、应急处\n置、隔离检疫和无害化处理等全链条管理能力，强化农药兽药监测评价等技\n术支撑。",
+        "pdf_pages": [
+          69
+        ],
+        "source_chunks": [
+          "p0069-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 69,
+            "line_start": 17,
+            "line_end": 21
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          64
+        ],
+        "citation": "《十五五规划纲要》专栏12第03项，印刷第64页（PDF第69页）"
+      },
+      {
+        "id": "box-12-i04",
+        "number": 4,
+        "title": "农业面源污染治理",
+        "text": "以长江、黄河等流域为重点，实施农业面源污染综合治理，统筹推进化肥农\n药科学施用、畜禽粪污等农业废弃物资源化利用。",
+        "pdf_pages": [
+          69
+        ],
+        "source_chunks": [
+          "p0069-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 69,
+            "line_start": 22,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          64
+        ],
+        "citation": "《十五五规划纲要》专栏12第04项，印刷第64页（PDF第69页）"
+      },
+      {
+        "id": "box-12-i05",
+        "number": 5,
+        "title": "农村现代生活条件补短板",
+        "text": "支持符合条件的村庄因地制宜补齐村内道路、供排水、卫生厕所改造、生活\n垃圾和污水处理、养老服务设施等短板。",
+        "pdf_pages": [
+          69
+        ],
+        "source_chunks": [
+          "p0069-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 69,
+            "line_start": 26,
+            "line_end": 29
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          64
+        ],
+        "citation": "《十五五规划纲要》专栏12第05项，印刷第64页（PDF第69页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      64
+    ],
+    "citation": "《十五五规划纲要》专栏12，印刷第64页（PDF第69页）"
+  },
+  {
+    "id": "box-13",
+    "number": 13,
+    "title": "城市更新和都市圈建设",
+    "chapter": 31,
+    "pdf_pages": [
+      79
+    ],
+    "source_chunks": [
+      "p0079-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-13-i01",
+        "number": 1,
+        "title": "地下管网建设改造",
+        "text": "建设改造城镇燃气管网约20 万公里、排水管网约17.5 万公里、供水管网约\n17.5 万公里、污水管网约10 万公里、供热管网约12 万公里，同步推进智慧\n化改造。因地制宜建设综合管廊。",
+        "pdf_pages": [
+          79
+        ],
+        "source_chunks": [
+          "p0079-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 79,
+            "line_start": 8,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          74
+        ],
+        "citation": "《十五五规划纲要》专栏13第01项，印刷第74页（PDF第79页）"
+      },
+      {
+        "id": "box-13-i02",
+        "number": 2,
+        "title": "宜居安居水平提升",
+        "text": "以国有土地上C、D 级危险住房等为重点，改造城镇危旧房约50 万套（间）。\n改造老旧小区约11.5 万个。在全面摸清需求基础上，因地制宜多渠道发展保\n障性住房。平稳有序推进城中村改造。",
+        "pdf_pages": [
+          79
+        ],
+        "source_chunks": [
+          "p0079-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 79,
+            "line_start": 13,
+            "line_end": 17
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          74
+        ],
+        "citation": "《十五五规划纲要》专栏13第02项，印刷第74页（PDF第79页）"
+      },
+      {
+        "id": "box-13-i03",
+        "number": 3,
+        "title": "老旧街区厂区改造",
+        "text": "推动老旧街区功能转换、业态升级、活力提升，以市场化方式盘活利用闲置\n低效厂区、厂房和设施，更新改造约1500 个老旧街区厂区。",
+        "pdf_pages": [
+          79
+        ],
+        "source_chunks": [
+          "p0079-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 79,
+            "line_start": 18,
+            "line_end": 21
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          74
+        ],
+        "citation": "《十五五规划纲要》专栏13第03项，印刷第74页（PDF第79页）"
+      },
+      {
+        "id": "box-13-i04",
+        "number": 4,
+        "title": "都市圈城际通勤效率提升",
+        "text": "建成北京至滨海新区、深圳至大亚湾等城际铁路，利用既有铁路开行城际和\n市域（郊）列车。建设一批国家高速公路都市圈环线及绕城环线待贯通路段。",
+        "pdf_pages": [
+          79
+        ],
+        "source_chunks": [
+          "p0079-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 79,
+            "line_start": 22,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "建成"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          74
+        ],
+        "citation": "《十五五规划纲要》专栏13第04项，印刷第74页（PDF第79页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      74
+    ],
+    "citation": "《十五五规划纲要》专栏13，印刷第74页（PDF第79页）"
+  },
+  {
+    "id": "box-14",
+    "number": 14,
+    "title": "社会主义文化繁荣发展",
+    "chapter": 36,
+    "pdf_pages": [
+      89,
+      90
+    ],
+    "source_chunks": [
+      "p0089-c04",
+      "p0090-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-14-i01",
+        "number": 1,
+        "title": "党的创新理论研究阐释",
+        "text": "持续编辑出版《习近平著作选读》、《习近平谈治国理政》等重要著作，编\n写修订习近平新时代中国特色社会主义思想分领域思想概论、学习纲要、学\n习问答等系列理论读物，加强对外翻译出版和海外传播。",
+        "pdf_pages": [
+          89,
+          90
+        ],
+        "source_chunks": [
+          "p0089-c04",
+          "p0090-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 89,
+            "line_start": 25,
+            "line_end": 27
+          },
+          {
+            "pdf_page": 90,
+            "line_start": 1,
+            "line_end": 2
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          84,
+          85
+        ],
+        "citation": "《十五五规划纲要》专栏14第01项，印刷第84、85页（PDF第89、90页）"
+      },
+      {
+        "id": "box-14-i02",
+        "number": 2,
+        "title": "文艺精品创作引导扶持",
+        "text": "深入实施精神文明建设“五个一工程”、国家美术典藏计划、戏剧振兴行动\n计划。推进新时代山乡巨变创作、新时代文学攀登等项目。组织创作100 部\n新时代经典纪录片、100 部优秀动画作品和系列优秀影视节目、微短剧。",
+        "pdf_pages": [
+          90
+        ],
+        "source_chunks": [
+          "p0090-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 90,
+            "line_start": 3,
+            "line_end": 7
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          85
+        ],
+        "citation": "《十五五规划纲要》专栏14第02项，印刷第85页（PDF第90页）"
+      },
+      {
+        "id": "box-14-i03",
+        "number": 3,
+        "title": "公共文化设施建设",
+        "text": "建成中央档案馆新馆、国家自然博物馆新馆、国家文献储备库，建设国家美\n术馆。提升公共图书馆、文化馆和新型公共文化空间服务水平，实施中小博\n物馆提升计划。",
+        "pdf_pages": [
+          90
+        ],
+        "source_chunks": [
+          "p0090-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 90,
+            "line_start": 8,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "建成",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          85
+        ],
+        "citation": "《十五五规划纲要》专栏14第03项，印刷第85页（PDF第90页）"
+      },
+      {
+        "id": "box-14-i04",
+        "number": 4,
+        "title": "文化遗产保护传承利用",
+        "text": "建设国家文化遗产科技创新中心、国家夏商文明考古研究中心。加强河西走\n廊国家文化遗产线路和蜀道、秦直道等整体性保护。实施“中国营造”重点\n计划。系统推进《永乐大典》、敦煌文献、简牍文献保护整理出版。实施重\n要革命旧址维修和馆藏革命文物修复计划。建设国家文物资源大数据库。保\n护提升世界文化遗产和一批历史文化名城、街区、村镇。",
+        "pdf_pages": [
+          90
+        ],
+        "source_chunks": [
+          "p0090-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 90,
+            "line_start": 13,
+            "line_end": 19
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          85
+        ],
+        "citation": "《十五五规划纲要》专栏14第04项，印刷第85页（PDF第90页）"
+      },
+      {
+        "id": "box-14-i05",
+        "number": 5,
+        "title": "文化和旅游深度融合发展",
+        "text": "依托优质文化资源，盘活利用存量设施，加强旅游休闲城市和街区建设，培\n育一批高品质旅游景区和度假区，打造一批精品旅游线路和产品。",
+        "pdf_pages": [
+          90
+        ],
+        "source_chunks": [
+          "p0090-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 90,
+            "line_start": 20,
+            "line_end": 23
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          85
+        ],
+        "citation": "《十五五规划纲要》专栏14第05项，印刷第85页（PDF第90页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      84,
+      85
+    ],
+    "citation": "《十五五规划纲要》专栏14，印刷第84、85页（PDF第89、90页）"
+  },
+  {
+    "id": "box-15",
+    "number": 15,
+    "title": "高质量教育体系建设",
+    "chapter": 38,
+    "pdf_pages": [
+      94,
+      95
+    ],
+    "source_chunks": [
+      "p0094-c03",
+      "p0095-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-15-i01",
+        "number": 1,
+        "title": "基础教育扩优提质",
+        "text": "保障普惠性学前教育资源有效供给。实现义务教育学校标准化建设全覆盖。\n以常住人口多的地区和人口流入地为重点，建设1000 所以上优质普通高中。\n支持中学实验仪器设备提档升级，建设一批以高水平科学教育为特色的普通\n高中。",
+        "pdf_pages": [
+          94
+        ],
+        "source_chunks": [
+          "p0094-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 94,
+            "line_start": 21,
+            "line_end": 26
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          89
+        ],
+        "citation": "《十五五规划纲要》专栏15第01项，印刷第89页（PDF第94页）"
+      },
+      {
+        "id": "box-15-i02",
+        "number": 2,
+        "title": "优质高等教育资源扩容",
+        "text": "支持建设若干“双一流”高校新校区，“双一流”高校本科招生数增加10\n万人以上，建设200 所左右高水平应用型本科高校、在有条件的高校建设若\n干优质特色学科专业。面向中西部、东北等地区布局建设高等研究院。实施\n国家基础研究创新提升工程，面向重点领域建设若干国家交叉学科中心和国\n家拔尖创新人才培养学院。依托国家卓越工程师学院建强一批工程师技术中\n心，建成150 个左右国家产教融合创新平台。",
+        "pdf_pages": [
+          95
+        ],
+        "source_chunks": [
+          "p0095-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 95,
+            "line_start": 1,
+            "line_end": 8
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "建成",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          90
+        ],
+        "citation": "《十五五规划纲要》专栏15第02项，印刷第90页（PDF第95页）"
+      },
+      {
+        "id": "box-15-i03",
+        "number": 3,
+        "title": "现代职业教育体系建设",
+        "text": "建设60 所左右高水平高等职业学校和160 个左右高水平专业群，支持优质\n中等职业学校和专业建设。建设一批优质技师学院和100 个优质专业。聚焦\n集成电路、人工智能、低空经济等重点产业和现代服务业，建设200 个产教\n融合实训基地，支持一批高水平职业院校更新先进实训设备。",
+        "pdf_pages": [
+          95
+        ],
+        "source_chunks": [
+          "p0095-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 95,
+            "line_start": 9,
+            "line_end": 14
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          90
+        ],
+        "citation": "《十五五规划纲要》专栏15第03项，印刷第90页（PDF第95页）"
+      },
+      {
+        "id": "box-15-i04",
+        "number": 4,
+        "title": "特殊教育补短板",
+        "text": "推进特殊教育学校标准化建设，充分依托存量资源，支持有需求的县办好达\n到标准的特殊教育学校，支持人口规模大的城市建设孤独症儿童特殊教育学\n校，鼓励康教融合。将特殊教育纳入师范类学生必修课程。",
+        "pdf_pages": [
+          95
+        ],
+        "source_chunks": [
+          "p0095-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 95,
+            "line_start": 15,
+            "line_end": 19
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          90
+        ],
+        "citation": "《十五五规划纲要》专栏15第04项，印刷第90页（PDF第95页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      89,
+      90
+    ],
+    "citation": "《十五五规划纲要》专栏15，印刷第89、90页（PDF第94、95页）"
+  },
+  {
+    "id": "box-16",
+    "number": 16,
+    "title": "健康中国建设",
+    "chapter": 39,
+    "pdf_pages": [
+      98
+    ],
+    "source_chunks": [
+      "p0098-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-16-i01",
+        "number": 1,
+        "title": "公共卫生能力建设",
+        "text": "提升中国疾病预防控制中心综合能力。加强国家紧急医学救援基地建设。布\n局建设10 个国家区域血液安全中心。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 5,
+            "line_end": 8
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第01项，印刷第93页（PDF第98页）"
+      },
+      {
+        "id": "box-16-i02",
+        "number": 2,
+        "title": "优质医疗服务提升",
+        "text": "聚焦重点病种加强高水平医院建设，支持60 个省域优质医院提升临床诊疗\n水平。推动病房设施和设备老旧的医院开展病房改造、医疗设备更新。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 9,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第02项，印刷第93页（PDF第98页）"
+      },
+      {
+        "id": "box-16-i03",
+        "number": 3,
+        "title": "医疗卫生强基",
+        "text": "支持1000 个紧密型县域医共体建设，推进县级医院、重点中心乡镇卫生院\n提质升级，加强县区医学影像、心电诊断、医学检验、消毒供应、药品供应\n和药学服务等资源共享。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 13,
+            "line_end": 17
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第03项，印刷第93页（PDF第98页）"
+      },
+      {
+        "id": "box-16-i04",
+        "number": 4,
+        "title": "国家医学中心建设",
+        "text": "围绕高水平重点专科方向，支持若干国家医学中心建设，提升疑难危重疾病\n诊治、临床技术引领、医学科研转化和领军人才培养能力。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 18,
+            "line_end": 21
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第04项，印刷第93页（PDF第98页）"
+      },
+      {
+        "id": "box-16-i05",
+        "number": 5,
+        "title": "重点人群医疗服务补短板",
+        "text": "支持有条件的二级医院提供康复和护理服务。支持省级和重点地市级精神卫\n生服务机构建设。加强医疗卫生机构儿科服务能力建设。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 22,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第05项，印刷第93页（PDF第98页）"
+      },
+      {
+        "id": "box-16-i06",
+        "number": 6,
+        "title": "中医药传承创新",
+        "text": "支持建设国家中医药传承创新中心、中西医协同旗舰医院和中医优势专科中\n心，更好发挥中医药独特优势和作用。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 26,
+            "line_end": 29
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第06项，印刷第93页（PDF第98页）"
+      },
+      {
+        "id": "box-16-i07",
+        "number": 7,
+        "title": "体育场地设施建设",
+        "text": "实施群众运动空间扩容计划，鼓励有条件的地方挖掘“金角银边”，建设更\n加便利可及的体育设施。以足球等为重点，支持青少年竞技体育训练设施建\n设。推动建设冰雪、山地等100 个高质量户外运动目的地。",
+        "pdf_pages": [
+          98
+        ],
+        "source_chunks": [
+          "p0098-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 98,
+            "line_start": 30,
+            "line_end": 34
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          93
+        ],
+        "citation": "《十五五规划纲要》专栏16第07项，印刷第93页（PDF第98页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      93
+    ],
+    "citation": "《十五五规划纲要》专栏16，印刷第93页（PDF第98页）"
+  },
+  {
+    "id": "box-17",
+    "number": 17,
+    "title": "“一老一小”服务优化提升",
+    "chapter": 40,
+    "pdf_pages": [
+      100
+    ],
+    "source_chunks": [
+      "p0100-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-17-i01",
+        "number": 1,
+        "title": "养老机构提质增效",
+        "text": "对建成时间较长、设施老旧的公办养老机构，以护理型床位改造和设施设备\n更新等为重点，鼓励通过公建民营等方式，推动2000 个公办养老机构达到\n二级以上标准，提升设施安全水平。在有条件的综合性养老服务机构推广应\n用智能服务系统、智能辅助器具、智慧消防安防系统等。",
+        "pdf_pages": [
+          100
+        ],
+        "source_chunks": [
+          "p0100-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 100,
+            "line_start": 3,
+            "line_end": 8
+          }
+        ],
+        "stage_cues": [
+          "建成"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          95
+        ],
+        "citation": "《十五五规划纲要》专栏17第01项，印刷第95页（PDF第100页）"
+      },
+      {
+        "id": "box-17-i02",
+        "number": 2,
+        "title": "社区养老服务提升",
+        "text": "推进社区养老服务设施补短板，增强照护服务能力和养老服务功能，社区养\n老服务机构和设施覆盖率达到70%。",
+        "pdf_pages": [
+          100
+        ],
+        "source_chunks": [
+          "p0100-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 100,
+            "line_start": 9,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          95
+        ],
+        "citation": "《十五五规划纲要》专栏17第02项，印刷第95页（PDF第100页）"
+      },
+      {
+        "id": "box-17-i03",
+        "number": 3,
+        "title": "医养结合能力提升",
+        "text": "支持有条件的综合性医院发展医养结合服务。支持有需求的乡镇卫生院完善\n设施条件，扩大失能失智老年人照护服务供给。",
+        "pdf_pages": [
+          100
+        ],
+        "source_chunks": [
+          "p0100-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 100,
+            "line_start": 13,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          95
+        ],
+        "citation": "《十五五规划纲要》专栏17第03项，印刷第95页（PDF第100页）"
+      },
+      {
+        "id": "box-17-i04",
+        "number": 4,
+        "title": "普惠托育扩容提质",
+        "text": "以城市为单元整体推进普惠托育服务发展，推进托育综合服务中心布局和社\n区普惠托育设施、托幼一体机构改扩建，实现地市级托育综合服务中心\n全覆盖。",
+        "pdf_pages": [
+          100
+        ],
+        "source_chunks": [
+          "p0100-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 100,
+            "line_start": 17,
+            "line_end": 21
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          95
+        ],
+        "citation": "《十五五规划纲要》专栏17第04项，印刷第95页（PDF第100页）"
+      },
+      {
+        "id": "box-17-i05",
+        "number": 5,
+        "title": "生育医疗服务提升",
+        "text": "升级改造10 个国家区域生殖健康中心，实现每个省份至少建成一所高水平\n妇幼保健机构。推动助产机构提升服务水平。",
+        "pdf_pages": [
+          100
+        ],
+        "source_chunks": [
+          "p0100-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 100,
+            "line_start": 22,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [
+          "建成"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          95
+        ],
+        "citation": "《十五五规划纲要》专栏17第05项，印刷第95页（PDF第100页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      95
+    ],
+    "citation": "《十五五规划纲要》专栏17，印刷第95页（PDF第100页）"
+  },
+  {
+    "id": "box-18",
+    "number": 18,
+    "title": "就业促进与服务提升",
+    "chapter": 41,
+    "pdf_pages": [
+      102,
+      103
+    ],
+    "source_chunks": [
+      "p0102-c03",
+      "p0103-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-18-i01",
+        "number": 1,
+        "title": "重点群体就业支持",
+        "text": "实施高校毕业生等青年就业支持计划，完善政策激励、职业介绍、职业指导、\n就业见习全链条支持体系。强化劳务输入地和输出地协同，打造特色劳务品\n牌。统筹用好公益性岗位，做好困难群体就业兜底帮扶。",
+        "pdf_pages": [
+          102
+        ],
+        "source_chunks": [
+          "p0102-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 102,
+            "line_start": 23,
+            "line_end": 27
+          }
+        ],
+        "stage_cues": [
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          97
+        ],
+        "citation": "《十五五规划纲要》专栏18第01项，印刷第97页（PDF第102页）"
+      },
+      {
+        "id": "box-18-i02",
+        "number": 2,
+        "title": "“技能照亮前程”培训行动",
+        "text": "聚焦先进制造、数字经济、生活服务等领域，支持重点群体参加就业技能培\n训。建设国家级高技能人才培训基地和技能大师工作室，支持建设一批公共\n实训基地。鼓励企业开展新型学徒制培训和技师培训。",
+        "pdf_pages": [
+          103
+        ],
+        "source_chunks": [
+          "p0103-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 103,
+            "line_start": 1,
+            "line_end": 5
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          98
+        ],
+        "citation": "《十五五规划纲要》专栏18第02项，印刷第98页（PDF第103页）"
+      },
+      {
+        "id": "box-18-i03",
+        "number": 3,
+        "title": "就业公共服务提质",
+        "text": "加强“家门口”就业服务，提高就业公共服务可及性。健全全国就业信息资\n源库和智慧就业服务平台，加强就业信息服务，促进就业供求精准匹配，强\n化就业大数据监测。建立人工智能对就业影响的调查和应对机制，加强稳岗\n保障、转岗培训和就业支持。",
+        "pdf_pages": [
+          103
+        ],
+        "source_chunks": [
+          "p0103-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 103,
+            "line_start": 6,
+            "line_end": 11
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          98
+        ],
+        "citation": "《十五五规划纲要》专栏18第03项，印刷第98页（PDF第103页）"
+      },
+      {
+        "id": "box-18-i04",
+        "number": 4,
+        "title": "创业带动就业效能提升",
+        "text": "强化创业培训、创业服务、创业孵化、创业活动联动支持，分类推进“科技\n成果+创业”、“产业发展+创业”、“职业技能+创业”、“民生需求+创业”，\n打造高质量创业孵化载体。",
+        "pdf_pages": [
+          103
+        ],
+        "source_chunks": [
+          "p0103-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 103,
+            "line_start": 12,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          98
+        ],
+        "citation": "《十五五规划纲要》专栏18第04项，印刷第98页（PDF第103页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      97,
+      98
+    ],
+    "citation": "《十五五规划纲要》专栏18，印刷第97、98页（PDF第102、103页）"
+  },
+  {
+    "id": "box-19",
+    "number": 19,
+    "title": "社会关爱服务提升",
+    "chapter": 46,
+    "pdf_pages": [
+      110
+    ],
+    "source_chunks": [
+      "p0110-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-19-i01",
+        "number": 1,
+        "title": "困境儿童和留守儿童关爱",
+        "text": "加大困境儿童基本生活保障力度，完善医疗康复、基本公共教育、心理健康\n关爱、人身安全、法定监护等服务保障体系。拓展儿童福利机构服务功能，\n面向社会提供养护、康复、特殊教育等服务，扩大未成年人救助保护服务覆\n盖面。对留守儿童、散居孤儿和事实无人抚养儿童定期开展关爱活动。",
+        "pdf_pages": [
+          110
+        ],
+        "source_chunks": [
+          "p0110-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 110,
+            "line_start": 13,
+            "line_end": 18
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          105
+        ],
+        "citation": "《十五五规划纲要》专栏19第01项，印刷第105页（PDF第110页）"
+      },
+      {
+        "id": "box-19-i02",
+        "number": 2,
+        "title": "退役军人优抚和烈士褒扬",
+        "text": "提升优抚医院、光荣院等服务能力。实施烈士纪念设施改造，提升展陈和管\n护水平。持续做好失踪烈士遗骸搜寻保护和为烈士寻亲工作。",
+        "pdf_pages": [
+          110
+        ],
+        "source_chunks": [
+          "p0110-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 110,
+            "line_start": 19,
+            "line_end": 22
+          }
+        ],
+        "stage_cues": [
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          105
+        ],
+        "citation": "《十五五规划纲要》专栏19第02项，印刷第105页（PDF第110页）"
+      },
+      {
+        "id": "box-19-i03",
+        "number": 3,
+        "title": "残疾人服务",
+        "text": "建设一批专业化的残疾人康复、托养照护、职业教育等服务设施。提升康复\n机构专业化服务能力，办好康复大学。鼓励有条件的养老机构设立“老年父\n母+残疾子女”家庭照护单元。支持困难重度残疾人家庭无障碍改造。",
+        "pdf_pages": [
+          110
+        ],
+        "source_chunks": [
+          "p0110-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 110,
+            "line_start": 23,
+            "line_end": 27
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          105
+        ],
+        "citation": "《十五五规划纲要》专栏19第03项，印刷第105页（PDF第110页）"
+      },
+      {
+        "id": "box-19-i04",
+        "number": 4,
+        "title": "公益性殡葬服务",
+        "text": "建立健全基本殡葬服务制度，加强殡葬行业综合监管。建设改造一批殡仪馆，\n更新老旧火化设备。建设一批公益性节地生态安葬设施，因地制宜推广骨灰\n格位安葬、树葬、海葬等。",
+        "pdf_pages": [
+          110
+        ],
+        "source_chunks": [
+          "p0110-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 110,
+            "line_start": 28,
+            "line_end": 32
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          105
+        ],
+        "citation": "《十五五规划纲要》专栏19第04项，印刷第105页（PDF第110页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      105
+    ],
+    "citation": "《十五五规划纲要》专栏19，印刷第105页（PDF第110页）"
+  },
+  {
+    "id": "box-20",
+    "number": 20,
+    "title": "碳达峰碳中和",
+    "chapter": 47,
+    "pdf_pages": [
+      113
+    ],
+    "source_chunks": [
+      "p0113-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-20-i01",
+        "number": 1,
+        "title": "重点行业领域节能降碳",
+        "text": "加大火电、钢铁、有色、石化、化工、建材等重点行业领域节能降碳改造力\n度，推广普及节能低碳技术，实现节能量1.5 亿吨标准煤以上，公共机构单\n位建筑面积能耗降低5%。",
+        "pdf_pages": [
+          113
+        ],
+        "source_chunks": [
+          "p0113-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 113,
+            "line_start": 3,
+            "line_end": 7
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          108
+        ],
+        "citation": "《十五五规划纲要》专栏20第01项，印刷第108页（PDF第113页）"
+      },
+      {
+        "id": "box-20-i02",
+        "number": 2,
+        "title": "煤炭消费清洁替代",
+        "text": "建设一批生物质掺烧、绿氨掺烧等煤电机组低碳化改造示范项目，全面实施\n煤化工低碳化改造项目，推进食品、纺织、造纸等行业燃煤锅炉和工业窑炉\n清洁化替代，推动煤炭消费量替代达到3000 万吨/年。",
+        "pdf_pages": [
+          113
+        ],
+        "source_chunks": [
+          "p0113-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 113,
+            "line_start": 8,
+            "line_end": 12
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          108
+        ],
+        "citation": "《十五五规划纲要》专栏20第02项，印刷第108页（PDF第113页）"
+      },
+      {
+        "id": "box-20-i03",
+        "number": 3,
+        "title": "零碳园区和零碳运输走廊建设",
+        "text": "发展以绿色能源制造绿色产品模式，因地制宜发展绿电直供，建设100 个左\n右国家级零碳园区。以货运量集中的运输通道为重点，建设充换电、氢氨醇\n加注、光储一体等设施，建设一批零碳运输走廊示范路段（航段）。",
+        "pdf_pages": [
+          113
+        ],
+        "source_chunks": [
+          "p0113-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 113,
+            "line_start": 13,
+            "line_end": 17
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          108
+        ],
+        "citation": "《十五五规划纲要》专栏20第03项，印刷第108页（PDF第113页）"
+      },
+      {
+        "id": "box-20-i04",
+        "number": 4,
+        "title": "循环经济助力降碳",
+        "text": "完善废弃物精细回收循环、再生资源加工利用、高品质再生材料推广应用体\n系，提升废弃电器电子产品、废旧动力电池、退役风电光伏设备、报废汽车\n等产品高值化规范化利用水平，主要资源产出率提高16%左右。",
+        "pdf_pages": [
+          113
+        ],
+        "source_chunks": [
+          "p0113-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 113,
+            "line_start": 18,
+            "line_end": 22
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          108
+        ],
+        "citation": "《十五五规划纲要》专栏20第04项，印刷第108页（PDF第113页）"
+      },
+      {
+        "id": "box-20-i05",
+        "number": 5,
+        "title": "非二氧化碳温室气体减排",
+        "text": "在煤矿开采、种植养殖、废物处理、化工品生产等领域实施甲烷、氧化亚氮、\n氢氟碳化物等非二氧化碳温室气体治理工程，推动形成3000 万吨二氧化碳\n当量减排能力。",
+        "pdf_pages": [
+          113
+        ],
+        "source_chunks": [
+          "p0113-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 113,
+            "line_start": 23,
+            "line_end": 27
+          }
+        ],
+        "stage_cues": [
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          108
+        ],
+        "citation": "《十五五规划纲要》专栏20第05项，印刷第108页（PDF第113页）"
+      },
+      {
+        "id": "box-20-i06",
+        "number": 6,
+        "title": "碳达峰碳中和基础能力提升",
+        "text": "建设国家碳排放数据综合管理系统、国家温室气体排放因子数据库、国家碳\n计量实验室。加强二氧化碳捕集和生物消纳技术创新及工程化应用，支持碳\n捕集利用与封存示范项目建设。",
+        "pdf_pages": [
+          113
+        ],
+        "source_chunks": [
+          "p0113-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 113,
+            "line_start": 28,
+            "line_end": 32
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          108
+        ],
+        "citation": "《十五五规划纲要》专栏20第06项，印刷第108页（PDF第113页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      108
+    ],
+    "citation": "《十五五规划纲要》专栏20，印刷第108页（PDF第113页）"
+  },
+  {
+    "id": "box-21",
+    "number": 21,
+    "title": "环境质量提升",
+    "chapter": 48,
+    "pdf_pages": [
+      115,
+      116
+    ],
+    "source_chunks": [
+      "p0115-c03",
+      "p0116-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-21-i01",
+        "number": 1,
+        "title": "大气污染防治提升",
+        "text": "完成5 亿吨水泥熟料产能、1 亿吨焦化产能超低排放改造。加快更新国四及\n以下货车和国二及以下工程机械，推进老旧营运船舶报废更新。以京津冀及\n周边地区为重点，逐步淘汰65 蒸吨/小时及以下的工业燃煤锅炉，推动6000\n万标砖/年以下烧结砖生产线整合退出、燃煤电厂完成全负荷脱硝改造，开展\n产业集群大气污染综合治理。",
+        "pdf_pages": [
+          115
+        ],
+        "source_chunks": [
+          "p0115-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 115,
+            "line_start": 16,
+            "line_end": 22
+          }
+        ],
+        "stage_cues": [
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          110
+        ],
+        "citation": "《十五五规划纲要》专栏21第01项，印刷第110页（PDF第115页）"
+      },
+      {
+        "id": "box-21-i02",
+        "number": 2,
+        "title": "水资源、水环境、水生态统筹治理",
+        "text": "以长江、黄河、珠江、淮河、松花江等流域为重点，开展总磷浓度超标断面\n整治和水生态综合治理。实施国控入海河流总氮治理与管控，推进饮用水水\n源地规范化建设。统筹开展太湖、丹江口库区、巢湖、洱海、白洋淀、乌梁\n素海、洪湖等30 个重点湖库生态保护治理，加强大运河保护治理。推进城\n镇生活污水收集处理设施建设改造。实施京津冀、黄河流域再生水利用工程。",
+        "pdf_pages": [
+          115
+        ],
+        "source_chunks": [
+          "p0115-c03"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 115,
+            "line_start": 23,
+            "line_end": 29
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          110
+        ],
+        "citation": "《十五五规划纲要》专栏21第02项，印刷第110页（PDF第115页）"
+      },
+      {
+        "id": "box-21-i03",
+        "number": 3,
+        "title": "土壤污染源头防控和治理",
+        "text": "聚焦石化、化工等行业，实施土壤污染源头防控项目。开展重点县农用地土\n壤重金属溯源整治。实施长江沿线1 公里化工腾退地块土壤污染专项治理工\n程。",
+        "pdf_pages": [
+          116
+        ],
+        "source_chunks": [
+          "p0116-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 116,
+            "line_start": 1,
+            "line_end": 5
+          }
+        ],
+        "stage_cues": [
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          111
+        ],
+        "citation": "《十五五规划纲要》专栏21第03项，印刷第111页（PDF第116页）"
+      },
+      {
+        "id": "box-21-i04",
+        "number": 4,
+        "title": "固体废物综合治理",
+        "text": "推进长江流域磷石膏库环境风险隐患排查治理。建设改造建筑垃圾收集、临\n时贮存、资源化利用、处置等设施。升级改造城市生活垃圾分类投放及收集\n转运设施，垃圾清运能力达到75 万吨/日。",
+        "pdf_pages": [
+          116
+        ],
+        "source_chunks": [
+          "p0116-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 116,
+            "line_start": 6,
+            "line_end": 10
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          111
+        ],
+        "citation": "《十五五规划纲要》专栏21第04项，印刷第111页（PDF第116页）"
+      },
+      {
+        "id": "box-21-i05",
+        "number": 5,
+        "title": "危险废物重点管控",
+        "text": "推动未达标危险废物填埋场改造提升，对退役危险废物填埋场进行封场综合\n治理。开展丹江口库区及上游等尾矿库污染区域系统治理，实施一批历史遗\n留重金属矿区环境安全隐患整治项目。",
+        "pdf_pages": [
+          116
+        ],
+        "source_chunks": [
+          "p0116-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 116,
+            "line_start": 11,
+            "line_end": 15
+          }
+        ],
+        "stage_cues": [
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          111
+        ],
+        "citation": "《十五五规划纲要》专栏21第05项，印刷第111页（PDF第116页）"
+      },
+      {
+        "id": "box-21-i06",
+        "number": 6,
+        "title": "新污染物协同治理",
+        "text": "在工业废水、城镇污水、畜禽养殖等领域实施一批新污染物协同治理示范项\n目。实施新污染物协同监测和危害评估，提升新污染物发现、跟踪和应对水\n平。布局建设国家和流域性新污染物治理技术中心。",
+        "pdf_pages": [
+          116
+        ],
+        "source_chunks": [
+          "p0116-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 116,
+            "line_start": 16,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          111
+        ],
+        "citation": "《十五五规划纲要》专栏21第06项，印刷第111页（PDF第116页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      110,
+      111
+    ],
+    "citation": "《十五五规划纲要》专栏21，印刷第110、111页（PDF第115、116页）"
+  },
+  {
+    "id": "box-22",
+    "number": 22,
+    "title": "生态保护修复",
+    "chapter": 49,
+    "pdf_pages": [
+      118
+    ],
+    "source_chunks": [
+      "p0118-c01"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-22-i01",
+        "number": 1,
+        "title": "“三北”工程六期",
+        "text": "围绕筑牢北方生态安全屏障，打好黄河“几字弯”攻坚战、科尔沁和浑善达\n克沙地歼灭战、河西走廊—塔克拉玛干沙漠边缘阻击战，实现“三北”工程\n区林草覆盖率达到40.9%，可治理沙化土地治理率达到67%，沙化土地综合\n植被盖度达到22%，促进黄河重点生态区、北方防沙带、东北森林带生态保\n护修复。",
+        "pdf_pages": [
+          118
+        ],
+        "source_chunks": [
+          "p0118-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 118,
+            "line_start": 3,
+            "line_end": 9
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          113
+        ],
+        "citation": "《十五五规划纲要》专栏22第01项，印刷第113页（PDF第118页）"
+      },
+      {
+        "id": "box-22-i02",
+        "number": 2,
+        "title": "青藏高原生态屏障区生态保护和修复",
+        "text": "以加快建设国家生态文明高地为目标，加强高原森林、草甸草原、雪山冰川\n冻土等保护，加大黑土滩型退化草原和沙化草原治理力度，推进沙化土地综\n合治理和重要湿地生态功能恢复，健全三江源“中华水塔”保护支持体系，\n完成退化草原修复250 万公顷，沙化土地综合治理100 万公顷。",
+        "pdf_pages": [
+          118
+        ],
+        "source_chunks": [
+          "p0118-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 118,
+            "line_start": 10,
+            "line_end": 15
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          113
+        ],
+        "citation": "《十五五规划纲要》专栏22第02项，印刷第113页（PDF第118页）"
+      },
+      {
+        "id": "box-22-i03",
+        "number": 3,
+        "title": "长江重点生态区生态保护和修复",
+        "text": "加强水土流失、石漠化综合治理，推动鄱阳湖、洞庭湖等河湖湿地生态保护\n和修复，实施森林抚育和低质低效林改造，新增水土流失治理面积600 万公\n顷、石漠化土地治理面积130 万公顷。",
+        "pdf_pages": [
+          118
+        ],
+        "source_chunks": [
+          "p0118-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 118,
+            "line_start": 16,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "实施"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          113
+        ],
+        "citation": "《十五五规划纲要》专栏22第03项，印刷第113页（PDF第118页）"
+      },
+      {
+        "id": "box-22-i04",
+        "number": 4,
+        "title": "南方丘陵山地带生态保护和修复",
+        "text": "完善防护林体系，推动岩溶地区石漠化治理，加强重要湿地保护修复，持续\n提升南岭山地、武夷山、湘桂岩溶地区等重点区域生态质量，新增石漠化土\n地治理面积30 万公顷，完成营造林11 万公顷。",
+        "pdf_pages": [
+          118
+        ],
+        "source_chunks": [
+          "p0118-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 118,
+            "line_start": 21,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          113
+        ],
+        "citation": "《十五五规划纲要》专栏22第04项，印刷第113页（PDF第118页）"
+      },
+      {
+        "id": "box-22-i05",
+        "number": 5,
+        "title": "海岸带生态保护和修复",
+        "text": "围绕建设人海和谐、安全韧性的海岸带生态安全屏障，修复受损退化岸滩和\n生态系统，开展浒苔绿潮等生态灾害综合治理，提升红树林、珊瑚礁、海草\n床等典型生态系统质量和稳定性，整治修复滨海湿地2 万公顷，修复海岸线\n400 公里。",
+        "pdf_pages": [
+          118
+        ],
+        "source_chunks": [
+          "p0118-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 118,
+            "line_start": 26,
+            "line_end": 31
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          113
+        ],
+        "citation": "《十五五规划纲要》专栏22第05项，印刷第113页（PDF第118页）"
+      },
+      {
+        "id": "box-22-i06",
+        "number": 6,
+        "title": "自然保护地体系建设与野生动植物保护",
+        "text": "提升国家公园等自然保护地保护管理、科研监测、科普宣教等能力，推进上\n海辰山、西双版纳等国家植物园设立。加强野生动植物重要栖息地恢复和珍\n稀濒危野生动植物救护中心、种源繁育及野化放归等基地建设。",
+        "pdf_pages": [
+          118
+        ],
+        "source_chunks": [
+          "p0118-c01"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 118,
+            "line_start": 32,
+            "line_end": 36
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          113
+        ],
+        "citation": "《十五五规划纲要》专栏22第06项，印刷第113页（PDF第118页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      113
+    ],
+    "citation": "《十五五规划纲要》专栏22，印刷第113页（PDF第118页）"
+  },
+  {
+    "id": "box-23",
+    "number": 23,
+    "title": "重点领域安全保障能力提升",
+    "chapter": 54,
+    "pdf_pages": [
+      128
+    ],
+    "source_chunks": [
+      "p0128-c02"
+    ],
+    "classification": "source_transcription",
+    "visual_checked": "2026-10-23",
+    "items": [
+      {
+        "id": "box-23-i01",
+        "number": 1,
+        "title": "粮食储备",
+        "text": "整合布局建设和改造提升一批粮食仓储设施，稳步增加高标准粮仓规模。升\n级改造若干港口和口岸粮食仓储物流设施，提高粮食中转调运效率。提升粮\n食应急保障能力。",
+        "pdf_pages": [
+          128
+        ],
+        "source_chunks": [
+          "p0128-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 128,
+            "line_start": 7,
+            "line_end": 11
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          123
+        ],
+        "citation": "《十五五规划纲要》专栏23第01项，印刷第123页（PDF第128页）"
+      },
+      {
+        "id": "box-23-i02",
+        "number": 2,
+        "title": "油气勘探开发和储备",
+        "text": "建设鄂尔多斯盆地、新疆、渤海湾油气基地和川渝、东海天然气基地，推动\n鄂尔多斯盆地东部煤层气开发。建设石油储备重大工程，建设大庆升平、长\n庆榆林雷龙湾、西南万顺场、新疆宝浪等储气库。",
+        "pdf_pages": [
+          128
+        ],
+        "source_chunks": [
+          "p0128-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 128,
+            "line_start": 12,
+            "line_end": 16
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          123
+        ],
+        "citation": "《十五五规划纲要》专栏23第02项，印刷第123页（PDF第128页）"
+      },
+      {
+        "id": "box-23-i03",
+        "number": 3,
+        "title": "煤制油气基地",
+        "text": "推进内蒙古鄂尔多斯、陕西榆林、新疆准东、新疆哈密等煤制油气战略基地\n建设，做好项目储备和资源预留保障。",
+        "pdf_pages": [
+          128
+        ],
+        "source_chunks": [
+          "p0128-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 128,
+            "line_start": 17,
+            "line_end": 20
+          }
+        ],
+        "stage_cues": [
+          "建设",
+          "推进"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          123
+        ],
+        "citation": "《十五五规划纲要》专栏23第03项，印刷第123页（PDF第128页）"
+      },
+      {
+        "id": "box-23-i04",
+        "number": 4,
+        "title": "新一轮找矿突破",
+        "text": "围绕紧缺能源矿产、紧缺金属矿产和非金属矿产、优势矿产等，大幅提高区\n域地质调查、矿产资源调查覆盖率，完善多元化勘查投入机制，加大重点勘\n查区和重要矿山深部勘查力度，形成一批储备矿产地。",
+        "pdf_pages": [
+          128
+        ],
+        "source_chunks": [
+          "p0128-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 128,
+            "line_start": 21,
+            "line_end": 25
+          }
+        ],
+        "stage_cues": [],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          123
+        ],
+        "citation": "《十五五规划纲要》专栏23第04项，印刷第123页（PDF第128页）"
+      },
+      {
+        "id": "box-23-i05",
+        "number": 5,
+        "title": "战略物资储备和应急救援",
+        "text": "建设提升一批战略物资储备基地。加强国家区域应急救援中心建设，升级改\n造国家自然灾害工程救援基地，提升自然灾害高风险地区应急救援能力。加\n强航空关键应急救援力量建设。",
+        "pdf_pages": [
+          128
+        ],
+        "source_chunks": [
+          "p0128-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 128,
+            "line_start": 26,
+            "line_end": 30
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          123
+        ],
+        "citation": "《十五五规划纲要》专栏23第05项，印刷第123页（PDF第128页）"
+      },
+      {
+        "id": "box-23-i06",
+        "number": 6,
+        "title": "灾害监测预报体系",
+        "text": "建设地球系统数据平台，加强气象、水文、地质、地震等灾害监测预报预警\n体系建设，提升海洋观测预报预警能力。",
+        "pdf_pages": [
+          128
+        ],
+        "source_chunks": [
+          "p0128-c02"
+        ],
+        "line_ranges": [
+          {
+            "pdf_page": 128,
+            "line_start": 31,
+            "line_end": 34
+          }
+        ],
+        "stage_cues": [
+          "建设"
+        ],
+        "stage_note": "仅为原文词语提示；同条不同子项目可能处于不同阶段，不代表实际进度。",
+        "printed_pages": [
+          123
+        ],
+        "citation": "《十五五规划纲要》专栏23第06项，印刷第123页（PDF第128页）"
+      }
+    ],
+    "item_type": "project_entries",
+    "printed_pages": [
+      123
+    ],
+    "citation": "《十五五规划纲要》专栏23，印刷第123页（PDF第128页）"
+  }
+]

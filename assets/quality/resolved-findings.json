@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "findings": [
+    {
+      "issue": "Figure 1 attached to box 5; figure 3 attached to box 22",
+      "resolution": "Parser clears box context at figure caption; regression checks box pages and all figure source chunks."
+    },
+    {
+      "issue": "PDF87 multi-column text order unsafe",
+      "resolution": "60 visually paired main entries; raw page/chunk warns and hides unsafe text from plain output; keyword search uses structured main entries."
+    },
+    {
+      "issue": "Chapter45 paraphrase incomplete on tiered public services",
+      "resolution": "Added cities with concentrated inflows and gradual reduction in tiers and service differences."
+    },
+    {
+      "issue": "Chapter11 evaluation wording could blur research types",
+      "resolution": "Distinguished originality/academic value and user/market feedback, checked p0038-c02."
+    },
+    {
+      "issue": "Chapter2 section2 title absorbed first prose line",
+      "resolution": "Heading continuation stops before em-dash principle bullet; original page/chunk text unchanged."
+    }
+  ]
+}

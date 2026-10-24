@@ -1,0 +1,200 @@
+{
+  "人工智能": {
+    "terms": [
+      "人工智能",
+      "算力",
+      "算法",
+      "数据",
+      "智能",
+      "就业"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "就业": {
+    "terms": [
+      "就业",
+      "职业技能",
+      "劳动者",
+      "高校毕业生",
+      "劳动关系",
+      "工资"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "求职": {
+    "terms": [
+      "就业",
+      "人才",
+      "培训",
+      "职业技能",
+      "劳动关系",
+      "产业"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "出海": {
+    "terms": [
+      "对外投资",
+      "海外",
+      "跨境",
+      "外贸",
+      "国际合作",
+      "一带一路"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "外贸": {
+    "terms": [
+      "贸易",
+      "出口",
+      "进口",
+      "跨境电商",
+      "海外仓",
+      "关税"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "创业": {
+    "terms": [
+      "创业",
+      "中小企业",
+      "民营",
+      "经营主体",
+      "融资",
+      "市场准入"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "消费": {
+    "terms": [
+      "消费",
+      "服务业",
+      "收入",
+      "文旅",
+      "养老",
+      "托育"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "新能源": {
+    "terms": [
+      "新能源",
+      "新型储能",
+      "电池",
+      "能源",
+      "电网",
+      "氢能"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "先进制造": {
+    "terms": [
+      "制造",
+      "技术改造",
+      "机器人",
+      "工业互联网",
+      "供应链",
+      "装备"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "未来产业": {
+    "terms": [
+      "未来产业",
+      "量子",
+      "生物制造",
+      "核聚变",
+      "脑机接口",
+      "具身智能"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "教育技能": {
+    "terms": [
+      "教育",
+      "技能",
+      "培训",
+      "终身学习",
+      "人才",
+      "数字素养"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "区域发展": {
+    "terms": [
+      "区域",
+      "都市圈",
+      "城镇化",
+      "城市群",
+      "县域",
+      "西部"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "养老健康": {
+    "terms": [
+      "养老",
+      "银发",
+      "医疗",
+      "健康",
+      "老龄",
+      "医养"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "绿色转型": {
+    "terms": [
+      "碳达峰",
+      "碳排放",
+      "绿色",
+      "节能",
+      "循环经济",
+      "生态"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "农业": {
+    "terms": [
+      "农业",
+      "农产品",
+      "乡村",
+      "粮食",
+      "种业",
+      "冷链"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "文化旅游": {
+    "terms": [
+      "文化",
+      "旅游",
+      "文旅",
+      "游戏",
+      "数字动漫",
+      "入境游"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "经济安全": {
+    "terms": [
+      "安全",
+      "风险",
+      "粮食",
+      "能源",
+      "产业链",
+      "供应链"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  },
+  "个人发展": {
+    "terms": [
+      "技能",
+      "就业",
+      "教育",
+      "收入",
+      "社会保障",
+      "住房"
+    ],
+    "classification": "assistant_curated_retrieval_only"
+  }
+}

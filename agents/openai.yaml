@@ -1,0 +1,13 @@
+interface:
+  display_name: 十五五规划解读与决策
+  short_description: 依据规划原文与现实证据，分析产业趋势、商业选择、求职和个人发展
+  default_prompt: 请使用 $interpret-15th-plan，结合十五五规划原文和最新现实证据，分析我的选择、风险与下一步。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

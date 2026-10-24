@@ -1,0 +1,4236 @@
+[
+  {
+    "chapter": 1,
+    "policy_summary": "原文同时列出产业、市场和人才基础，以及有效需求不足、供强需弱、就业收入压力和重点领域风险。",
+    "transmission_analysis": "规划是在优势与约束并存的条件下安排政策；不能从长期向好推导所有企业短期景气。",
+    "decision_applications": "商业计划同时检查需求和供给；求职比较岗位质量与雇主现金流。",
+    "limits_and_counterpoints": "历史成就属于规划回顾，不能直接用作今天的统计值；风险描述不等于必然衰退预测。",
+    "monitoring_questions": "订单、库存、价格、招聘结构、居民收入及政策执行变化。",
+    "related_chapters": [
+      3,
+      15,
+      20,
+      41,
+      52
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "发展环境",
+    "label": "第一章",
+    "source_chunks": [
+      "p0007-c02",
+      "p0007-c03",
+      "p0008-c01",
+      "p0009-c01",
+      "p0009-c02",
+      "p0010-c01"
+    ],
+    "pdf_pages": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "sections": [
+      {
+        "id": "ch-01-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "“十四五”时期我国发展取得重大成就",
+        "parent": "ch-01",
+        "pdf_page": 7,
+        "printed_page": 2,
+        "line_start": 11
+      },
+      {
+        "id": "ch-01-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "“十五五”时期我国发展环境面临深刻复杂变化",
+        "parent": "ch-01",
+        "pdf_page": 9,
+        "printed_page": 4,
+        "line_start": 2
+      }
+    ],
+    "printed_pages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "citation": "《十五五规划纲要》第一章，印刷第2—5页（PDF第7—10页）"
+  },
+  {
+    "chapter": 2,
+    "policy_summary": "指导方针强调高质量发展、人民至上、改革、市场与政府结合以及发展和安全统筹。",
+    "transmission_analysis": "增长、民生、创新和安全可能产生资源配置上的取舍，应结合后文具体措施判断。",
+    "decision_applications": "用来识别项目与规划目标的关系，检查效率、公共价值和风险条件。",
+    "limits_and_counterpoints": "原则不是具体补贴资格、法律授权或企业订单；不要把政治表述机械换算成投资评分。",
+    "monitoring_questions": "是否出现具体预算、规则、标准和执行责任。",
+    "related_chapters": [
+      3,
+      17,
+      20,
+      61,
+      62
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "指导方针",
+    "label": "第二章",
+    "source_chunks": [
+      "p0010-c02",
+      "p0010-c03",
+      "p0011-c01",
+      "p0011-c02",
+      "p0012-c01"
+    ],
+    "pdf_pages": [
+      10,
+      11,
+      12
+    ],
+    "sections": [
+      {
+        "id": "ch-02-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "指导思想",
+        "parent": "ch-02",
+        "pdf_page": 10,
+        "printed_page": 5,
+        "line_start": 12
+      },
+      {
+        "id": "ch-02-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "必须遵循的原则",
+        "parent": "ch-02",
+        "pdf_page": 11,
+        "printed_page": 6,
+        "line_start": 2
+      }
+    ],
+    "printed_pages": [
+      5,
+      6,
+      7
+    ],
+    "citation": "《十五五规划纲要》第二章，印刷第5—7页（PDF第10—12页）"
+  },
+  {
+    "chapter": 3,
+    "policy_summary": "目标覆盖增长、创新、就业收入、公共服务、绿色转型与安全；主要指标区分预期性和约束性。",
+    "transmission_analysis": "指标帮助理解政策考核方向，但从宏观目标到个人收益还有执行、市场和分配环节。",
+    "decision_applications": "用主要指标建立跟踪面板；行业分析区分2030时点目标与五年累计目标。",
+    "limits_and_counterpoints": "GDP的5为2025栏值；入托率是累计提高6个百分点；减排17%是单位GDP强度累计值。",
+    "monitoring_questions": "各指标的统计定义、基期、年度进度及中期评估。",
+    "related_chapters": [
+      20,
+      41,
+      47,
+      62
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "主要目标",
+    "label": "第三章",
+    "source_chunks": [
+      "p0012-c02",
+      "p0013-c01",
+      "p0014-c01",
+      "p0015-c01"
+    ],
+    "pdf_pages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "sections": [],
+    "printed_pages": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "citation": "《十五五规划纲要》第三章，印刷第7—10页（PDF第12—15页）"
+  },
+  {
+    "chapter": 4,
+    "policy_summary": "传统产业政策包含技术改造、自主可控、质量提升，也包含产能预警、整治内卷与低效产能退出。",
+    "transmission_analysis": "升级可能增加设备、改造和专业服务需求，同时减少低端重复供给；就业可能转移而非总量上升。",
+    "decision_applications": "观察工业设备、零部件、检验检测、售后维护、供应链质量管理等具体任务。",
+    "limits_and_counterpoints": "传统产业不等于夕阳产业；政策扶持也不意味着允许无序扩产，需查客户资本开支和竞争。",
+    "monitoring_questions": "技改订单、产能利用率、价格、验收账期、技术岗位与普通岗位变化。",
+    "related_chapters": [
+      5,
+      6,
+      10,
+      17,
+      50
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "优化提升传统产业",
+    "label": "第四章",
+    "source_chunks": [
+      "p0016-c02",
+      "p0016-c03",
+      "p0017-c01",
+      "p0017-c02",
+      "p0018-c01"
+    ],
+    "pdf_pages": [
+      16,
+      17,
+      18
+    ],
+    "sections": [
+      {
+        "id": "ch-04-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推动重点产业提质升级",
+        "parent": "ch-04",
+        "pdf_page": 16,
+        "printed_page": 11,
+        "line_start": 11
+      },
+      {
+        "id": "ch-04-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "提升产业链自主可控水平",
+        "parent": "ch-04",
+        "pdf_page": 17,
+        "printed_page": 12,
+        "line_start": 1
+      },
+      {
+        "id": "ch-04-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "健全产业健康有序发展促进机制",
+        "parent": "ch-04",
+        "pdf_page": 17,
+        "printed_page": 12,
+        "line_start": 12
+      }
+    ],
+    "printed_pages": [
+      11,
+      12,
+      13
+    ],
+    "citation": "《十五五规划纲要》第四章，印刷第11—13页（PDF第16—18页）"
+  },
+  {
+    "chapter": 5,
+    "policy_summary": "新兴产业着重规模应用和产业集群；未来产业着重前瞻布局、技术路线、商业模式和风险分担；新兴领域还需监管配套。",
+    "transmission_analysis": "不同技术阶段对应不同资金周期和失败风险，示范场景能否转成付费业务是关键。",
+    "decision_applications": "按研发、制造、集成、渠道、运营、售后拆分进入路径，不要求所有人进入核心研发。",
+    "limits_and_counterpoints": "支持低空或具身智能不等于短期盈利；因地制宜、适航、安全与知识产权条件不可省略。",
+    "monitoring_questions": "真实应用订单、重复采购、可靠性、单位经济性、许可与标准进展。",
+    "related_chapters": [
+      4,
+      7,
+      8,
+      14,
+      41
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "培育壮大新兴产业和未来产业",
+    "label": "第五章",
+    "source_chunks": [
+      "p0018-c02",
+      "p0019-c01",
+      "p0019-c02",
+      "p0019-c03",
+      "p0020-c01",
+      "p0020-c02",
+      "p0021-c01"
+    ],
+    "pdf_pages": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "sections": [
+      {
+        "id": "ch-05-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "发展壮大新兴产业",
+        "parent": "ch-05",
+        "pdf_page": 19,
+        "printed_page": 14,
+        "line_start": 1
+      },
+      {
+        "id": "ch-05-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "前瞻布局未来产业",
+        "parent": "ch-05",
+        "pdf_page": 19,
+        "printed_page": 14,
+        "line_start": 12
+      },
+      {
+        "id": "ch-05-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善产业创新发展生态",
+        "parent": "ch-05",
+        "pdf_page": 19,
+        "printed_page": 14,
+        "line_start": 22
+      }
+    ],
+    "printed_pages": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "citation": "《十五五规划纲要》第五章，印刷第13—16页（PDF第18—21页）"
+  },
+  {
+    "chapter": 6,
+    "policy_summary": "生产性服务业强调专业化、高附加值和制造农业融合；生活性服务业强调普惠、品质、便利与多元供给。",
+    "transmission_analysis": "制造升级与居民生活需求可转化为服务需求，但付费者、专业门槛和劳动密集程度不同。",
+    "decision_applications": "科技服务、物流、商务服务、家政、社区养老等需分别验证客户预算与服务交付能力。",
+    "limits_and_counterpoints": "服务业就业容量不保证工资、工时或利润；普惠定价与人工成本可能形成压力。",
+    "monitoring_questions": "订单续签、客单价、人员利用率、交付成本、采购付款周期。",
+    "related_chapters": [
+      10,
+      15,
+      35,
+      39,
+      40,
+      41
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "促进服务业优质高效发展",
+    "label": "第六章",
+    "source_chunks": [
+      "p0021-c02",
+      "p0021-c03",
+      "p0022-c01",
+      "p0022-c02",
+      "p0022-c03",
+      "p0023-c01"
+    ],
+    "pdf_pages": [
+      21,
+      22,
+      23
+    ],
+    "sections": [
+      {
+        "id": "ch-06-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推进生产性服务业向专业化和价值链高端延伸",
+        "parent": "ch-06",
+        "pdf_page": 21,
+        "printed_page": 16,
+        "line_start": 34
+      },
+      {
+        "id": "ch-06-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "促进生活性服务业高品质多样化便利化发展",
+        "parent": "ch-06",
+        "pdf_page": 22,
+        "printed_page": 17,
+        "line_start": 8
+      },
+      {
+        "id": "ch-06-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善服务业发展政策体系",
+        "parent": "ch-06",
+        "pdf_page": 22,
+        "printed_page": 17,
+        "line_start": 18
+      }
+    ],
+    "printed_pages": [
+      16,
+      17,
+      18
+    ],
+    "citation": "《十五五规划纲要》第六章，印刷第16—18页（PDF第21—23页）"
+  },
+  {
+    "chapter": 7,
+    "policy_summary": "交通、能源、水网和数字基础设施并举，强调适度超前、不过度超前、运营可持续与安全韧性。",
+    "transmission_analysis": "建设阶段创造设备工程需求，运营阶段依赖利用率、维护和收费机制，不能只看建设规模。",
+    "decision_applications": "工程服务、设备配套、运维、物流协同、节能与系统集成可作为候选环节。",
+    "limits_and_counterpoints": "规划、研究论证、开工、建成不是同一阶段；地图不是精确选址、核准或招标文件。",
+    "monitoring_questions": "项目核准、实际开工、预算拨付、利用率、运营成本与回款。",
+    "related_chapters": [
+      12,
+      16,
+      19,
+      47,
+      52
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "构建现代化基础设施体系",
+    "label": "第七章",
+    "source_chunks": [
+      "p0023-c02",
+      "p0023-c03",
+      "p0024-c01",
+      "p0025-c01",
+      "p0025-c02",
+      "p0025-c03",
+      "p0026-c01",
+      "p0027-c01",
+      "p0028-c01",
+      "p0028-c02",
+      "p0029-c01",
+      "p0029-c02",
+      "p0030-c01"
+    ],
+    "pdf_pages": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "sections": [
+      {
+        "id": "ch-07-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善现代化综合交通运输体系",
+        "parent": "ch-07",
+        "pdf_page": 23,
+        "printed_page": 18,
+        "line_start": 8
+      },
+      {
+        "id": "ch-07-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "加力建设新型能源基础设施",
+        "parent": "ch-07",
+        "pdf_page": 25,
+        "printed_page": 20,
+        "line_start": 3
+      },
+      {
+        "id": "ch-07-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加快建设现代化水网",
+        "parent": "ch-07",
+        "pdf_page": 28,
+        "printed_page": 23,
+        "line_start": 1
+      },
+      {
+        "id": "ch-07-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "适度超前建设新型基础设施",
+        "parent": "ch-07",
+        "pdf_page": 29,
+        "printed_page": 24,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "citation": "《十五五规划纲要》第七章，印刷第18—25页（PDF第23—30页）"
+  },
+  {
+    "chapter": 8,
+    "policy_summary": "关键技术攻关、战略前沿布局与基础研究并行，强调需求导向、攻用结合和长期稳定支持。",
+    "transmission_analysis": "科研投入需经过验证、中试和应用才能形成产品；基础研究容许长周期与失败。",
+    "decision_applications": "有相应资格的研发、测试仪器、实验技术、技术转移与科研支撑任务。",
+    "limits_and_counterpoints": "不能把研究突破日期当商业化日期；普通人进入需要具体学科能力或辅助岗位证据。",
+    "monitoring_questions": "科研任务、成果验证、工程化进展、客户采用与资金持续性。",
+    "related_chapters": [
+      5,
+      9,
+      10,
+      11
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加强原始创新和关键核心技术攻关",
+    "label": "第八章",
+    "source_chunks": [
+      "p0031-c02",
+      "p0031-c03",
+      "p0031-c04",
+      "p0032-c01",
+      "p0032-c02",
+      "p0033-c01",
+      "p0033-c02"
+    ],
+    "pdf_pages": [
+      31,
+      32,
+      33
+    ],
+    "sections": [
+      {
+        "id": "ch-08-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "打好关键核心技术攻坚战",
+        "parent": "ch-08",
+        "pdf_page": 31,
+        "printed_page": 26,
+        "line_start": 11
+      },
+      {
+        "id": "ch-08-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "强化战略前沿领域科技布局",
+        "parent": "ch-08",
+        "pdf_page": 31,
+        "printed_page": 26,
+        "line_start": 21
+      },
+      {
+        "id": "ch-08-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "全面提升基础研究水平",
+        "parent": "ch-08",
+        "pdf_page": 33,
+        "printed_page": 28,
+        "line_start": 12
+      }
+    ],
+    "printed_pages": [
+      26,
+      27,
+      28
+    ],
+    "citation": "《十五五规划纲要》第八章，印刷第26—28页（PDF第31—33页）"
+  },
+  {
+    "chapter": 9,
+    "policy_summary": "国家实验室、科研机构、高校和企业分工协同，强化科研资源保障、开放共享及国际合作。",
+    "transmission_analysis": "创新组织与平台共享可能改变科研协作和仪器服务方式，效益取决于实际开放和使用。",
+    "decision_applications": "平台运行、科研仪器服务、科研项目协同、数据管理与国际学术服务可作任务分析。",
+    "limits_and_counterpoints": "平台布局不等于机构已建成或开放招聘；跨境科研资金和数据仍受管理规则约束。",
+    "monitoring_questions": "平台落地与开放规则、实际使用、长期经费、项目与岗位要求。",
+    "related_chapters": [
+      8,
+      10,
+      11,
+      14,
+      24
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提高体系化创新能力",
+    "label": "第九章",
+    "source_chunks": [
+      "p0033-c03",
+      "p0033-c04",
+      "p0034-c01",
+      "p0034-c02",
+      "p0034-c03",
+      "p0035-c01",
+      "p0035-c02"
+    ],
+    "pdf_pages": [
+      33,
+      34,
+      35
+    ],
+    "sections": [
+      {
+        "id": "ch-09-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "增强国家战略科技力量引领作用",
+        "parent": "ch-09",
+        "pdf_page": 33,
+        "printed_page": 28,
+        "line_start": 28
+      },
+      {
+        "id": "ch-09-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "强化科技创新资源保障",
+        "parent": "ch-09",
+        "pdf_page": 34,
+        "printed_page": 29,
+        "line_start": 8
+      },
+      {
+        "id": "ch-09-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "构建高水平科技开放合作新格局",
+        "parent": "ch-09",
+        "pdf_page": 35,
+        "printed_page": 30,
+        "line_start": 18
+      }
+    ],
+    "printed_pages": [
+      28,
+      29,
+      30
+    ],
+    "citation": "《十五五规划纲要》第九章，印刷第28—30页（PDF第33—35页）"
+  },
+  {
+    "chapter": 10,
+    "policy_summary": "强化企业创新主体地位，通过产学研、中试、成果许可、创新融资、采购和知识产权保护促进转化。",
+    "transmission_analysis": "政策试图缩短科研到产业应用的距离；企业仍需证明技术、客户与现金流可行。",
+    "decision_applications": "技术转移、应用验证、产品经理、知识产权、技术销售和中试服务等任务。",
+    "limits_and_counterpoints": "规划提出的研发费用优惠方向不能替代现行税法；专利多不等于技术有效或商业成功。",
+    "monitoring_questions": "中试通过率、试用转订单、成果许可条款、客户反馈和融资期限。",
+    "related_chapters": [
+      4,
+      6,
+      8,
+      9,
+      18
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "强化企业科技创新主体地位",
+    "label": "第十章",
+    "source_chunks": [
+      "p0035-c03",
+      "p0036-c01",
+      "p0036-c02",
+      "p0036-c03",
+      "p0037-c01"
+    ],
+    "pdf_pages": [
+      35,
+      36,
+      37
+    ],
+    "sections": [
+      {
+        "id": "ch-10-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推动创新资源向企业集聚",
+        "parent": "ch-10",
+        "pdf_page": 36,
+        "printed_page": 31,
+        "line_start": 1
+      },
+      {
+        "id": "ch-10-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "加强企业主导的产学研融通创新",
+        "parent": "ch-10",
+        "pdf_page": 36,
+        "printed_page": 31,
+        "line_start": 12
+      },
+      {
+        "id": "ch-10-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善促进企业创新的政策体系",
+        "parent": "ch-10",
+        "pdf_page": 36,
+        "printed_page": 31,
+        "line_start": 21
+      }
+    ],
+    "printed_pages": [
+      30,
+      31,
+      32
+    ],
+    "citation": "《十五五规划纲要》第十章，印刷第30—32页（PDF第35—37页）"
+  },
+  {
+    "chapter": 11,
+    "policy_summary": "协同教育科技人才布局，调整急需学科，改革创新人才培养；基础研究评价突出成果原创性和学术价值，应用研究和技术开发评价突出用户与市场反馈。",
+    "transmission_analysis": "教育资源可能向战略需求集中，但教育供给调整与就业需求存在时差。",
+    "decision_applications": "选择专业或深造时核查导师、课程、实验资源、产业联系与毕业去向。",
+    "limits_and_counterpoints": "急需专业不保证每名毕业生高薪；科研评价变化不等于所有单位已取消学历门槛。",
+    "monitoring_questions": "培养方案、真实毕业去向、岗位资格、项目资源和评价细则。",
+    "related_chapters": [
+      8,
+      10,
+      38,
+      41
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "一体推进教育科技人才发展",
+    "label": "第十一章",
+    "source_chunks": [
+      "p0037-c02",
+      "p0037-c03",
+      "p0037-c04",
+      "p0038-c01",
+      "p0038-c02"
+    ],
+    "pdf_pages": [
+      37,
+      38
+    ],
+    "sections": [
+      {
+        "id": "ch-11-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "建立健全一体推进的协调机制",
+        "parent": "ch-11",
+        "pdf_page": 37,
+        "printed_page": 32,
+        "line_start": 12
+      },
+      {
+        "id": "ch-11-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "协同推进创新型人才培养",
+        "parent": "ch-11",
+        "pdf_page": 37,
+        "printed_page": 32,
+        "line_start": 22
+      },
+      {
+        "id": "ch-11-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "联动推进激励评价机制创新",
+        "parent": "ch-11",
+        "pdf_page": 38,
+        "printed_page": 33,
+        "line_start": 8
+      }
+    ],
+    "printed_pages": [
+      32,
+      33
+    ],
+    "citation": "《十五五规划纲要》第十一章，印刷第32—33页（PDF第37—38页）"
+  },
+  {
+    "chapter": 12,
+    "policy_summary": "算力、模型算法和高质量数据协同供给，强调集约、绿色、普惠、评估与个人数据合规利用。",
+    "transmission_analysis": "需求可能落在算力运营、数据质量和行业模型适配，而非只增加服务器数量。",
+    "decision_applications": "设备与运维、行业数据治理、模型评估、应用部署等任务需按客户场景验证。",
+    "limits_and_counterpoints": "算力建设不保证利用率；公共数据开放不等于任意复制售卖，跨境部署需另查规则。",
+    "monitoring_questions": "用算客户、利用率、推理成本、数据授权、可靠性和安全要求。",
+    "related_chapters": [
+      7,
+      13,
+      14,
+      47
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "强化算力算法数据高效供给",
+    "label": "第十二章",
+    "source_chunks": [
+      "p0039-c02",
+      "p0039-c03",
+      "p0039-c04",
+      "p0040-c01",
+      "p0040-c02"
+    ],
+    "pdf_pages": [
+      39,
+      40
+    ],
+    "sections": [
+      {
+        "id": "ch-12-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "加强算力设施支撑",
+        "parent": "ch-12",
+        "pdf_page": 39,
+        "printed_page": 34,
+        "line_start": 11
+      },
+      {
+        "id": "ch-12-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "促进模型算法迭代创新",
+        "parent": "ch-12",
+        "pdf_page": 39,
+        "printed_page": 34,
+        "line_start": 22
+      },
+      {
+        "id": "ch-12-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "深化数据资源开发利用",
+        "parent": "ch-12",
+        "pdf_page": 40,
+        "printed_page": 35,
+        "line_start": 6
+      }
+    ],
+    "printed_pages": [
+      34,
+      35
+    ],
+    "citation": "《十五五规划纲要》第十二章，印刷第34—35页（PDF第39—40页）"
+  },
+  {
+    "chapter": 13,
+    "policy_summary": "人工智能+覆盖实体经济、民生与治理，强调应用中试、产业融合、中小企业赋能与开源生态。",
+    "transmission_analysis": "应用价值依赖具体流程的效率、质量和责任安排；技术扩散可同时创造和替代任务。",
+    "decision_applications": "选择一个真实业务流程，比较人工与工具的时间、错误率、维护和监督成本。",
+    "limits_and_counterpoints": "试点、产品上线、规模化盈利是不同阶段；不凭AI应用方向断言净就业增减。",
+    "monitoring_questions": "复用率、客户留存、可验证成本节约、质量事故、人员任务变化。",
+    "related_chapters": [
+      6,
+      12,
+      14,
+      41
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "全方位推进数智技术赋能",
+    "label": "第十三章",
+    "source_chunks": [
+      "p0040-c03",
+      "p0040-c04",
+      "p0041-c01",
+      "p0041-c02",
+      "p0041-c03",
+      "p0042-c01",
+      "p0042-c02"
+    ],
+    "pdf_pages": [
+      40,
+      41,
+      42
+    ],
+    "sections": [
+      {
+        "id": "ch-13-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "促进实体经济和数字经济深度融合",
+        "parent": "ch-13",
+        "pdf_page": 40,
+        "printed_page": 35,
+        "line_start": 22
+      },
+      {
+        "id": "ch-13-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "创造美好数智生活",
+        "parent": "ch-13",
+        "pdf_page": 41,
+        "printed_page": 36,
+        "line_start": 8
+      },
+      {
+        "id": "ch-13-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "提高政府治理数智化水平",
+        "parent": "ch-13",
+        "pdf_page": 41,
+        "printed_page": 36,
+        "line_start": 18
+      }
+    ],
+    "printed_pages": [
+      35,
+      36,
+      37
+    ],
+    "citation": "《十五五规划纲要》第十三章，印刷第35—37页（PDF第40—42页）"
+  },
+  {
+    "chapter": 14,
+    "policy_summary": "数据产权、交易、收益和安全制度与人工智能监管并行，提出平台治理、风险管理和国际合作。",
+    "transmission_analysis": "规则清晰可能降低交易摩擦，也增加数据和算法责任成本；产品设计需考虑责任归属。",
+    "decision_applications": "数据治理、隐私安全、算法评估及合规服务是候选需求，需核查资质与现行制度。",
+    "limits_and_counterpoints": "规划中的探索和拟完善制度不等于已生效法律；出海数据处理不能仅凭开放表述判断合法。",
+    "monitoring_questions": "正式规范、适用范围、主管部门解释、执法案例和认证要求。",
+    "related_chapters": [
+      12,
+      13,
+      21,
+      51,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "营造健康有序的发展生态",
+    "label": "第十四章",
+    "source_chunks": [
+      "p0043-c01",
+      "p0043-c02",
+      "p0043-c03",
+      "p0044-c01"
+    ],
+    "pdf_pages": [
+      43,
+      44
+    ],
+    "sections": [
+      {
+        "id": "ch-14-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "健全数据要素基础制度",
+        "parent": "ch-14",
+        "pdf_page": 43,
+        "printed_page": 38,
+        "line_start": 5
+      },
+      {
+        "id": "ch-14-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "完善科学有效监管机制",
+        "parent": "ch-14",
+        "pdf_page": 43,
+        "printed_page": 38,
+        "line_start": 15
+      },
+      {
+        "id": "ch-14-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "拓展数智领域国际合作",
+        "parent": "ch-14",
+        "pdf_page": 44,
+        "printed_page": 39,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      38,
+      39
+    ],
+    "citation": "《十五五规划纲要》第十四章，印刷第38—39页（PDF第43—44页）"
+  },
+  {
+    "chapter": 15,
+    "policy_summary": "提振消费同时着眼就业收入、社会保障、服务供给、商品更新及消费环境。",
+    "transmission_analysis": "供给扩张要与支付能力和消费意愿配合；流量或新场景并不能自动形成复购。",
+    "decision_applications": "社区服务、耐用品维修回收、健康文旅和消费体验改善可提出需求假设。",
+    "limits_and_counterpoints": "补贴不是永久收入来源；不得将消费政策理解为鼓励个人超预算消费。",
+    "monitoring_questions": "真实客流、转化与复购、居民预算、补贴依赖、投诉及履约。",
+    "related_chapters": [
+      6,
+      16,
+      35,
+      40,
+      42,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "大力提振消费",
+    "label": "第十五章",
+    "source_chunks": [
+      "p0045-c02",
+      "p0045-c03",
+      "p0045-c04",
+      "p0046-c01",
+      "p0046-c02",
+      "p0046-c03",
+      "p0047-c01"
+    ],
+    "pdf_pages": [
+      45,
+      46,
+      47
+    ],
+    "sections": [
+      {
+        "id": "ch-15-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "夯实居民消费基础",
+        "parent": "ch-15",
+        "pdf_page": 45,
+        "printed_page": 40,
+        "line_start": 12
+      },
+      {
+        "id": "ch-15-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "释放服务消费潜力",
+        "parent": "ch-15",
+        "pdf_page": 45,
+        "printed_page": 40,
+        "line_start": 22
+      },
+      {
+        "id": "ch-15-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "推动商品消费扩容升级",
+        "parent": "ch-15",
+        "pdf_page": 46,
+        "printed_page": 41,
+        "line_start": 8
+      },
+      {
+        "id": "ch-15-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "持续改善消费环境",
+        "parent": "ch-15",
+        "pdf_page": 46,
+        "printed_page": 41,
+        "line_start": 21
+      }
+    ],
+    "printed_pages": [
+      40,
+      41,
+      42
+    ],
+    "citation": "《十五五规划纲要》第十五章，印刷第40—42页（PDF第45—47页）"
+  },
+  {
+    "chapter": 16,
+    "policy_summary": "有效投资强调民生与人力资本、政府投资效益、民间参与和投资消费循环，要求避免低效无效投入。",
+    "transmission_analysis": "项目价值要结合需求、全生命周期成本与运营，建设投入不等于长期回报。",
+    "decision_applications": "民生设施、存量升级和产业配套项目需先识别出资方、使用者与运营者。",
+    "limits_and_counterpoints": "进入重大项目可能有资格、融资与账期门槛；政府背景不等于及时足额付款。",
+    "monitoring_questions": "预算与招采、资金到位、需求论证、运营方案和退出成本。",
+    "related_chapters": [
+      7,
+      15,
+      18,
+      19,
+      62
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "扩大有效投资",
+    "label": "第十六章",
+    "source_chunks": [
+      "p0047-c02",
+      "p0047-c03",
+      "p0048-c01",
+      "p0048-c02",
+      "p0048-c03"
+    ],
+    "pdf_pages": [
+      47,
+      48
+    ],
+    "sections": [
+      {
+        "id": "ch-16-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "提高政府投资效益",
+        "parent": "ch-16",
+        "pdf_page": 47,
+        "printed_page": 42,
+        "line_start": 13
+      },
+      {
+        "id": "ch-16-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "激发民间投资活力",
+        "parent": "ch-16",
+        "pdf_page": 48,
+        "printed_page": 43,
+        "line_start": 6
+      },
+      {
+        "id": "ch-16-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "促进投资消费良性循环",
+        "parent": "ch-16",
+        "pdf_page": 48,
+        "printed_page": 43,
+        "line_start": 16
+      }
+    ],
+    "printed_pages": [
+      42,
+      43
+    ],
+    "citation": "《十五五规划纲要》第十六章，印刷第42—43页（PDF第47—48页）"
+  },
+  {
+    "chapter": 17,
+    "policy_summary": "统一大市场通过制度规则、公平竞争、标准互认、物流与公共交易平台联通减少分割。",
+    "transmission_analysis": "全国扩展的制度成本可能降低，同时依赖地方保护、补贴套利的模式可能承压。",
+    "decision_applications": "跨区域供应链、标准化产品、检验互认、物流整合与公开采购能力值得验证。",
+    "limits_and_counterpoints": "统一规则不意味着地方执行完全一致；降低物流成本不等于每家物流企业利润增加。",
+    "monitoring_questions": "标准互认、采购准入、跨区争议、运输成本及实际市场进入。",
+    "related_chapters": [
+      4,
+      18,
+      19,
+      22,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "纵深推进全国统一大市场建设",
+    "label": "第十七章",
+    "source_chunks": [
+      "p0049-c01",
+      "p0049-c02",
+      "p0049-c03",
+      "p0050-c01",
+      "p0050-c02"
+    ],
+    "pdf_pages": [
+      49,
+      50
+    ],
+    "sections": [
+      {
+        "id": "ch-17-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善全国统一大市场基础制度规则",
+        "parent": "ch-17",
+        "pdf_page": 49,
+        "printed_page": 44,
+        "line_start": 5
+      },
+      {
+        "id": "ch-17-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "维护公平竞争市场秩序",
+        "parent": "ch-17",
+        "pdf_page": 49,
+        "printed_page": 44,
+        "line_start": 19
+      },
+      {
+        "id": "ch-17-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "促进市场设施高标准联通",
+        "parent": "ch-17",
+        "pdf_page": 50,
+        "printed_page": 45,
+        "line_start": 8
+      }
+    ],
+    "printed_pages": [
+      44,
+      45
+    ],
+    "citation": "《十五五规划纲要》第十七章，印刷第44—45页（PDF第49—50页）"
+  },
+  {
+    "chapter": 18,
+    "policy_summary": "国资国企改革、民营经济发展和营商环境改善并行，强调权益保护、融资协同、治理与清欠机制。",
+    "transmission_analysis": "不同所有制的比较应落在具体业务、治理和资源配置，不以身份推定雇主好坏。",
+    "decision_applications": "判断合作方的主营、客户、采购付款、合同与治理；求职核验岗位和劳动安排。",
+    "limits_and_counterpoints": "央国企不等于每个岗位安全轻松，民企政策支持也不等于个体企业存续保证。",
+    "monitoring_questions": "主营收益、应收账款、组织调整、招聘真实性、兑现承诺与争议处理。",
+    "related_chapters": [
+      10,
+      16,
+      17,
+      41,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "充分激发各类经营主体活力",
+    "label": "第十八章",
+    "source_chunks": [
+      "p0051-c02",
+      "p0051-c03",
+      "p0052-c01",
+      "p0052-c02",
+      "p0052-c03",
+      "p0053-c01"
+    ],
+    "pdf_pages": [
+      51,
+      52,
+      53
+    ],
+    "sections": [
+      {
+        "id": "ch-18-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "深化国资国企改革",
+        "parent": "ch-18",
+        "pdf_page": 51,
+        "printed_page": 46,
+        "line_start": 12
+      },
+      {
+        "id": "ch-18-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "发展壮大民营经济",
+        "parent": "ch-18",
+        "pdf_page": 52,
+        "printed_page": 47,
+        "line_start": 2
+      },
+      {
+        "id": "ch-18-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "积极营造一流营商环境",
+        "parent": "ch-18",
+        "pdf_page": 52,
+        "printed_page": 47,
+        "line_start": 15
+      }
+    ],
+    "printed_pages": [
+      46,
+      47,
+      48
+    ],
+    "citation": "《十五五规划纲要》第十八章，印刷第46—48页（PDF第51—53页）"
+  },
+  {
+    "chapter": 19,
+    "policy_summary": "要素市场改革涉及土地、资本、劳动力、技术数据，配合价格机制和存量资产盘活。",
+    "transmission_analysis": "资源使用与定价可能改变企业成本和资产收益，既有资产的账面价值不等于现金流价值。",
+    "decision_applications": "跨地就业便利、闲置设施再利用、资产运营和资源配置服务需查具体制度。",
+    "limits_and_counterpoints": "户籍社保障碍逐步破除不代表已取消；价格市场化也可能提高部分使用者成本。",
+    "monitoring_questions": "现行交易规则、资产权属、价格机制、利用率、隐性负债和退出条件。",
+    "related_chapters": [
+      7,
+      14,
+      17,
+      20,
+      31,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加快完善要素市场化配置体制机制",
+    "label": "第十九章",
+    "source_chunks": [
+      "p0053-c02",
+      "p0053-c03",
+      "p0053-c04",
+      "p0054-c01",
+      "p0054-c02"
+    ],
+    "pdf_pages": [
+      53,
+      54
+    ],
+    "sections": [
+      {
+        "id": "ch-19-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "健全要素市场制度和规则",
+        "parent": "ch-19",
+        "pdf_page": 53,
+        "printed_page": 48,
+        "line_start": 7
+      },
+      {
+        "id": "ch-19-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "完善资源要素价格形成机制",
+        "parent": "ch-19",
+        "pdf_page": 53,
+        "printed_page": 48,
+        "line_start": 17
+      },
+      {
+        "id": "ch-19-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "盘活利用存量资源",
+        "parent": "ch-19",
+        "pdf_page": 54,
+        "printed_page": 49,
+        "line_start": 2
+      }
+    ],
+    "printed_pages": [
+      48,
+      49
+    ],
+    "citation": "《十五五规划纲要》第十九章，印刷第48—49页（PDF第53—54页）"
+  },
+  {
+    "chapter": 20,
+    "policy_summary": "宏观治理强调内需、消费、政策协同、财政可持续与金融服务实体经济，同时防范金融风险。",
+    "transmission_analysis": "政策组合可能同时刺激需求与调整结构，宽松融资不一定惠及所有行业或企业。",
+    "decision_applications": "企业做利率、汇率、税费和需求情景；个人评估负债与现金流韧性。",
+    "limits_and_counterpoints": "不据此预测某资产必涨；税制改革方向不等于税率已改变，未来规则须单独核查。",
+    "monitoring_questions": "正式预算、融资与价格数据、政策期限、实际传导和风险事件。",
+    "related_chapters": [
+      1,
+      3,
+      15,
+      16,
+      42,
+      52
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "健全宏观经济治理体系",
+    "label": "第二十章",
+    "source_chunks": [
+      "p0054-c03",
+      "p0054-c04",
+      "p0055-c01",
+      "p0055-c02",
+      "p0056-c01",
+      "p0056-c02",
+      "p0057-c01"
+    ],
+    "pdf_pages": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "sections": [
+      {
+        "id": "ch-20-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善宏观调控制度体系",
+        "parent": "ch-20",
+        "pdf_page": 54,
+        "printed_page": 49,
+        "line_start": 19
+      },
+      {
+        "id": "ch-20-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "健全现代财政制度",
+        "parent": "ch-20",
+        "pdf_page": 55,
+        "printed_page": 50,
+        "line_start": 6
+      },
+      {
+        "id": "ch-20-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加快建设金融强国",
+        "parent": "ch-20",
+        "pdf_page": 56,
+        "printed_page": 51,
+        "line_start": 5
+      }
+    ],
+    "printed_pages": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "citation": "《十五五规划纲要》第二十章，印刷第49—52页（PDF第54—57页）"
+  },
+  {
+    "chapter": 21,
+    "policy_summary": "以服务业为重点扩大自主开放，对接国际经贸规则，推进开放试点和平台建设，同时强调稳慎有序。",
+    "transmission_analysis": "开放带来新参与者与标准衔接，也可能增加竞争；具体市场进入取决于负面清单与试点范围。",
+    "decision_applications": "跨境专业服务、标准认证、支付单证和开放平台业务可作为候选任务。",
+    "limits_and_counterpoints": "资本项目开放方向不是个人自由汇出投资的授权；试点不等于全国普遍开放。",
+    "monitoring_questions": "生效清单、试点地域、主体条件、主管部门执行口径。",
+    "related_chapters": [
+      14,
+      22,
+      24,
+      59
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "积极扩大自主开放",
+    "label": "第二十一章",
+    "source_chunks": [
+      "p0058-c02",
+      "p0058-c03",
+      "p0059-c01",
+      "p0059-c02",
+      "p0059-c03",
+      "p0060-c01"
+    ],
+    "pdf_pages": [
+      58,
+      59,
+      60
+    ],
+    "sections": [
+      {
+        "id": "ch-21-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "有序扩大开放领域和区域",
+        "parent": "ch-21",
+        "pdf_page": 58,
+        "printed_page": 53,
+        "line_start": 11
+      },
+      {
+        "id": "ch-21-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "构建与高标准经贸规则相衔接的制度和监管体系",
+        "parent": "ch-21",
+        "pdf_page": 59,
+        "printed_page": 54,
+        "line_start": 2
+      },
+      {
+        "id": "ch-21-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "优化区域开放布局",
+        "parent": "ch-21",
+        "pdf_page": 59,
+        "printed_page": 54,
+        "line_start": 13
+      }
+    ],
+    "printed_pages": [
+      53,
+      54,
+      55
+    ],
+    "citation": "《十五五规划纲要》第二十一章，印刷第53—55页（PDF第58—60页）"
+  },
+  {
+    "chapter": 22,
+    "policy_summary": "贸易强调市场多元化、中间品、服务与数字绿色贸易；境外投资强调合理有序布局、专业服务和风险防控。",
+    "transmission_analysis": "竞争能力可能从单次卖货延伸到供应链、本地渠道、售后和跨境服务，但需要真实客户支付。",
+    "decision_applications": "外贸执行、海外渠道、供应链、服务贸易、当地运营与专业支持岗位可分别评估。",
+    "limits_and_counterpoints": "企业有出海标签不等于海外盈利；工资、合同、签证、税务及资金流动需国别核查。",
+    "monitoring_questions": "地区订单、回款、渠道成本、出口限制、认证与本地团队能力。",
+    "related_chapters": [
+      6,
+      17,
+      21,
+      23,
+      24,
+      52
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提升贸易投资合作质量和水平",
+    "label": "第二十二章",
+    "source_chunks": [
+      "p0060-c02",
+      "p0060-c03",
+      "p0061-c01",
+      "p0061-c02",
+      "p0062-c01"
+    ],
+    "pdf_pages": [
+      60,
+      61,
+      62
+    ],
+    "sections": [
+      {
+        "id": "ch-22-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推动贸易创新发展",
+        "parent": "ch-22",
+        "pdf_page": 60,
+        "printed_page": 55,
+        "line_start": 30
+      },
+      {
+        "id": "ch-22-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "更大力度吸引和利用外资",
+        "parent": "ch-22",
+        "pdf_page": 61,
+        "printed_page": 56,
+        "line_start": 13
+      },
+      {
+        "id": "ch-22-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "促进国际产业与投资合作",
+        "parent": "ch-22",
+        "pdf_page": 62,
+        "printed_page": 57,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      55,
+      56,
+      57
+    ],
+    "citation": "《十五五规划纲要》第二十二章，印刷第55—57页（PDF第60—62页）"
+  },
+  {
+    "chapter": 23,
+    "policy_summary": "共建一带一路结合基础设施、规则标准、人文往来、经贸与民生项目，要求可持续和风险可控。",
+    "transmission_analysis": "互联互通可能改善交易条件，但宏观合作需经项目融资、当地需求和执行才形成商业机会。",
+    "decision_applications": "物流、工程配套、当地商务、绿色数字服务及跨文化协作可作为场景。",
+    "limits_and_counterpoints": "不能把参与国名单当低风险市场名单；项目合作不保证所有中资雇主或岗位质量。",
+    "monitoring_questions": "项目进度、当地付款方、融资闭合、需求规模、安全与合规变化。",
+    "related_chapters": [
+      7,
+      21,
+      22,
+      24
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "高质量共建“一带一路”",
+    "label": "第二十三章",
+    "source_chunks": [
+      "p0062-c02",
+      "p0062-c03",
+      "p0063-c01",
+      "p0063-c02",
+      "p0063-c03"
+    ],
+    "pdf_pages": [
+      62,
+      63
+    ],
+    "sections": [
+      {
+        "id": "ch-23-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "深化发展战略对接",
+        "parent": "ch-23",
+        "pdf_page": 62,
+        "printed_page": 57,
+        "line_start": 19
+      },
+      {
+        "id": "ch-23-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "完善立体互联互通网络布局",
+        "parent": "ch-23",
+        "pdf_page": 63,
+        "printed_page": 58,
+        "line_start": 2
+      },
+      {
+        "id": "ch-23-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "全面提升务实合作质效",
+        "parent": "ch-23",
+        "pdf_page": 63,
+        "printed_page": 58,
+        "line_start": 10
+      }
+    ],
+    "printed_pages": [
+      57,
+      58
+    ],
+    "citation": "《十五五规划纲要》第二十三章，印刷第57—58页（PDF第62—63页）"
+  },
+  {
+    "chapter": 24,
+    "policy_summary": "全球经济治理涉及多边贸易体系、自贸协定、规则参与与国际公共产品供给。",
+    "transmission_analysis": "协定和规则影响市场准入及交易成本；外交目标的商业效果取决于实际生效与企业使用能力。",
+    "decision_applications": "核查目标市场关税、原产地规则和服务准入；加强跨文化、规则阅读及贸易研究能力。",
+    "limits_and_counterpoints": "推动加入CPTPP、DEPA不等于已加入；提及协定不意味着所有商品自动零关税。",
+    "monitoring_questions": "正式签署、生效日期、成员适用范围、具体承诺表和执行进度。",
+    "related_chapters": [
+      21,
+      22,
+      23
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "推动构建人类命运共同体",
+    "label": "第二十四章",
+    "source_chunks": [
+      "p0063-c04",
+      "p0064-c01",
+      "p0064-c02",
+      "p0065-c01",
+      "p0065-c02"
+    ],
+    "pdf_pages": [
+      63,
+      64,
+      65
+    ],
+    "sections": [
+      {
+        "id": "ch-24-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "积极参与和引领全球经济治理",
+        "parent": "ch-24",
+        "pdf_page": 64,
+        "printed_page": 59,
+        "line_start": 1
+      },
+      {
+        "id": "ch-24-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "推动构建新型国际关系",
+        "parent": "ch-24",
+        "pdf_page": 64,
+        "printed_page": 59,
+        "line_start": 15
+      },
+      {
+        "id": "ch-24-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "提供更多国际公共产品",
+        "parent": "ch-24",
+        "pdf_page": 65,
+        "printed_page": 60,
+        "line_start": 2
+      }
+    ],
+    "printed_pages": [
+      58,
+      59,
+      60
+    ],
+    "citation": "《十五五规划纲要》第二十四章，印刷第58—60页（PDF第63—65页）"
+  },
+  {
+    "chapter": 25,
+    "policy_summary": "农业兼顾产量产能、生态、增收与品质，强调耕地、种业、农机、科技和多元食物供给。",
+    "transmission_analysis": "提高生产效率与稳定供给可能带来技术服务需求，但农产品价格和农户利润仍受市场影响。",
+    "decision_applications": "种植养殖服务、农业装备、质量品牌、灾害监测与农产品流通需按品类研究。",
+    "limits_and_counterpoints": "粮食生产安全不等于扩大任何作物都赚钱；品类、气候、病害和销售渠道不可忽略。",
+    "monitoring_questions": "单产与成本、供需库存、季节价格、农户采用率、机械适配性。",
+    "related_chapters": [
+      26,
+      27,
+      47,
+      52
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提升农业综合生产能力和质量效益",
+    "label": "第二十五章",
+    "source_chunks": [
+      "p0066-c02",
+      "p0066-c03",
+      "p0066-c04",
+      "p0067-c01",
+      "p0067-c02"
+    ],
+    "pdf_pages": [
+      66,
+      67
+    ],
+    "sections": [
+      {
+        "id": "ch-25-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "加强粮食等重要农产品供给保障",
+        "parent": "ch-25",
+        "pdf_page": 66,
+        "printed_page": 61,
+        "line_start": 11
+      },
+      {
+        "id": "ch-25-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "强化农业科技和装备支撑",
+        "parent": "ch-25",
+        "pdf_page": 66,
+        "printed_page": 61,
+        "line_start": 22
+      },
+      {
+        "id": "ch-25-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "构建多元化食物供给体系",
+        "parent": "ch-25",
+        "pdf_page": 67,
+        "printed_page": 62,
+        "line_start": 8
+      }
+    ],
+    "printed_pages": [
+      61,
+      62
+    ],
+    "citation": "《十五五规划纲要》第二十五章，印刷第61—62页（PDF第66—67页）"
+  },
+  {
+    "chapter": 26,
+    "policy_summary": "乡村建设以县域统筹设施公共服务、特色富民产业和乡村治理，强调存量利用与联农带农。",
+    "transmission_analysis": "县域产业机会应和当地资源、人口、物流及居民收入联系，项目建设需要后续管护。",
+    "decision_applications": "农产品加工冷链、县域服务、电商与乡村文化体验可做小范围需求验证。",
+    "limits_and_counterpoints": "不能复制城市模式到所有乡村；乡村旅游不是每村适用，建设投入不自动带动农户增收。",
+    "monitoring_questions": "常住人口、实际客源、季节性、运输损耗、农户收益与运维资金。",
+    "related_chapters": [
+      15,
+      25,
+      27,
+      31,
+      35
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "推进宜居宜业和美乡村建设",
+    "label": "第二十六章",
+    "source_chunks": [
+      "p0067-c03",
+      "p0067-c04",
+      "p0068-c01",
+      "p0068-c02",
+      "p0068-c03",
+      "p0069-c01",
+      "p0069-c02"
+    ],
+    "pdf_pages": [
+      67,
+      68,
+      69
+    ],
+    "sections": [
+      {
+        "id": "ch-26-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "创造乡村优质生活空间",
+        "parent": "ch-26",
+        "pdf_page": 67,
+        "printed_page": 62,
+        "line_start": 22
+      },
+      {
+        "id": "ch-26-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "发展县域富民产业",
+        "parent": "ch-26",
+        "pdf_page": 68,
+        "printed_page": 63,
+        "line_start": 10
+      },
+      {
+        "id": "ch-26-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加强和改进乡村治理",
+        "parent": "ch-26",
+        "pdf_page": 68,
+        "printed_page": 63,
+        "line_start": 20
+      }
+    ],
+    "printed_pages": [
+      62,
+      63,
+      64
+    ],
+    "citation": "《十五五规划纲要》第二十六章，印刷第62—64页（PDF第67—69页）"
+  },
+  {
+    "chapter": 27,
+    "policy_summary": "强农政策包含财政金融保险支持、农村改革、社会化服务和常态化防返贫帮扶。",
+    "transmission_analysis": "分担风险、改善服务与稳定权利能增强经营预期，但资金与土地使用都有具体适用条件。",
+    "decision_applications": "农业社会化服务、保险服务及规范经营主体的能力建设可作任务分析。",
+    "limits_and_counterpoints": "宅基地确权和盘活不等于允许任意买卖；土地改革试点和补贴资格须逐地核实。",
+    "monitoring_questions": "现行权属与合同、试点边界、补贴兑现、保险条款、项目资产管理。",
+    "related_chapters": [
+      19,
+      25,
+      26,
+      43,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提高强农惠农富农政策效能",
+    "label": "第二十七章",
+    "source_chunks": [
+      "p0069-c03",
+      "p0070-c01",
+      "p0070-c02",
+      "p0070-c03",
+      "p0071-c01"
+    ],
+    "pdf_pages": [
+      69,
+      70,
+      71
+    ],
+    "sections": [
+      {
+        "id": "ch-27-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "加强农业农村投入保障",
+        "parent": "ch-27",
+        "pdf_page": 70,
+        "printed_page": 65,
+        "line_start": 1
+      },
+      {
+        "id": "ch-27-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "深化农业农村改革",
+        "parent": "ch-27",
+        "pdf_page": 70,
+        "printed_page": 65,
+        "line_start": 11
+      },
+      {
+        "id": "ch-27-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善常态化帮扶机制",
+        "parent": "ch-27",
+        "pdf_page": 70,
+        "printed_page": 65,
+        "line_start": 23
+      }
+    ],
+    "printed_pages": [
+      64,
+      65,
+      66
+    ],
+    "citation": "《十五五规划纲要》第二十七章，印刷第64—66页（PDF第69—71页）"
+  },
+  {
+    "chapter": 28,
+    "policy_summary": "各区域按比较优势和功能定位发展，兼顾重点城市群、流域生态、边境、资源型及其他特殊地区。",
+    "transmission_analysis": "不同地区资源和约束不同，不能用同一热点产业模板推断发展路径。",
+    "decision_applications": "比较真实产业集群、就业结构、生活成本与生态约束，再选地区或企业。",
+    "limits_and_counterpoints": "国家支持某区域不等于每个城市都有合适岗位；宏观增长不能替代个人净结余和时间比较。",
+    "monitoring_questions": "地方专项规划、企业客户、实际岗位、公共服务、污染治理与人口变化。",
+    "related_chapters": [
+      29,
+      30,
+      31,
+      49
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "增强区域发展协调性",
+    "label": "第二十八章",
+    "source_chunks": [
+      "p0072-c02",
+      "p0072-c03",
+      "p0073-c01",
+      "p0073-c02",
+      "p0073-c03",
+      "p0074-c01",
+      "p0074-c02"
+    ],
+    "pdf_pages": [
+      72,
+      73,
+      74
+    ],
+    "sections": [
+      {
+        "id": "ch-28-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "提升东中西和东北地区协调发展水平",
+        "parent": "ch-28",
+        "pdf_page": 72,
+        "printed_page": 67,
+        "line_start": 12
+      },
+      {
+        "id": "ch-28-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "巩固提升京津冀、长三角、粤港澳大湾区动力源作用",
+        "parent": "ch-28",
+        "pdf_page": 73,
+        "printed_page": 68,
+        "line_start": 2
+      },
+      {
+        "id": "ch-28-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "推进长江经济带发展、黄河流域生态保护和高质量发展",
+        "parent": "ch-28",
+        "pdf_page": 73,
+        "printed_page": 68,
+        "line_start": 16
+      },
+      {
+        "id": "ch-28-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "支持特殊类型地区振兴发展",
+        "parent": "ch-28",
+        "pdf_page": 74,
+        "printed_page": 69,
+        "line_start": 5
+      }
+    ],
+    "printed_pages": [
+      67,
+      68,
+      69
+    ],
+    "citation": "《十五五规划纲要》第二十八章，印刷第67—69页（PDF第72—74页）"
+  },
+  {
+    "chapter": 29,
+    "policy_summary": "区域联动依托交通、城市群和产业协作，探索跨区税收、土地和碳指标等利益分享。",
+    "transmission_analysis": "跨区协作可能重新分配生产、研发、能源和服务功能；承接地需有配套能力。",
+    "decision_applications": "寻找产业链协同和跨区供应链任务，评估区域内可迁移岗位。",
+    "limits_and_counterpoints": "建成通道不保证产业自动转移，转出和承接地区不一定同步受益。",
+    "monitoring_questions": "迁建项目实投、配套供应商、通勤物流成本、利益分享细则。",
+    "related_chapters": [
+      7,
+      17,
+      28,
+      30,
+      31
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "促进区域联动发展",
+    "label": "第二十九章",
+    "source_chunks": [
+      "p0074-c03",
+      "p0074-c04",
+      "p0075-c01",
+      "p0075-c02"
+    ],
+    "pdf_pages": [
+      74,
+      75
+    ],
+    "sections": [
+      {
+        "id": "ch-29-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善区域联动发展布局",
+        "parent": "ch-29",
+        "pdf_page": 74,
+        "printed_page": 69,
+        "line_start": 21
+      },
+      {
+        "id": "ch-29-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "健全跨区域合作机制",
+        "parent": "ch-29",
+        "pdf_page": 75,
+        "printed_page": 70,
+        "line_start": 7
+      }
+    ],
+    "printed_pages": [
+      69,
+      70
+    ],
+    "citation": "《十五五规划纲要》第二十九章，印刷第69—70页（PDF第74—75页）"
+  },
+  {
+    "chapter": 30,
+    "policy_summary": "国土空间发展强调主体功能、用途管制及耕地生态城镇边界，统筹不同资源的开发保护。",
+    "transmission_analysis": "规划支持的产业仍需符合地块、资源和环境用途约束；空间适配是项目落地前提。",
+    "decision_applications": "选址前查询合法用途、资源承载与许可；测绘、空间数据和规划支撑需符合专业条件。",
+    "limits_and_counterpoints": "发展规划示意图不能替代法定国土空间图件；空间调整方向不代表某地可随意开发。",
+    "monitoring_questions": "法定规划、用地用海用林用草许可、承载条件和最新边界。",
+    "related_chapters": [
+      7,
+      25,
+      28,
+      31,
+      49
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "优化国土空间发展格局",
+    "label": "第三十章",
+    "source_chunks": [
+      "p0075-c03",
+      "p0075-c04",
+      "p0076-c01",
+      "p0076-c02",
+      "p0076-c03",
+      "p0077-c01"
+    ],
+    "pdf_pages": [
+      75,
+      76,
+      77
+    ],
+    "sections": [
+      {
+        "id": "ch-30-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "强化主体功能区战略实施",
+        "parent": "ch-30",
+        "pdf_page": 75,
+        "printed_page": 70,
+        "line_start": 23
+      },
+      {
+        "id": "ch-30-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "优化国土空间管控",
+        "parent": "ch-30",
+        "pdf_page": 76,
+        "printed_page": 71,
+        "line_start": 7
+      },
+      {
+        "id": "ch-30-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加强国土空间协同治理",
+        "parent": "ch-30",
+        "pdf_page": 76,
+        "printed_page": 71,
+        "line_start": 17
+      }
+    ],
+    "printed_pages": [
+      70,
+      71,
+      72
+    ],
+    "citation": "《十五五规划纲要》第三十章，印刷第70—72页（PDF第75—77页）"
+  },
+  {
+    "chapter": 31,
+    "policy_summary": "城镇化强调农业转移人口融入、都市圈协同、城市更新与分类推进县城建设。",
+    "transmission_analysis": "公共服务和通勤改善可能影响居住就业组合；城市发展从扩张转向品质也会改变项目类型。",
+    "decision_applications": "比较就业可达性与生活成本，关注存量更新、社区服务和基础设施维护。",
+    "limits_and_counterpoints": "落户、公租房、随迁教育政策有条件且因地而异；城市更新不等于房价必涨或大拆大建。",
+    "monitoring_questions": "地方资格与执行、通勤时间、租住成本、服务覆盖、改造资金及居民需求。",
+    "related_chapters": [
+      19,
+      28,
+      29,
+      43,
+      44,
+      45
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "深入推进以人为本的新型城镇化",
+    "label": "第三十一章",
+    "source_chunks": [
+      "p0077-c02",
+      "p0077-c03",
+      "p0077-c04",
+      "p0078-c01",
+      "p0078-c02",
+      "p0078-c03",
+      "p0079-c01",
+      "p0079-c02"
+    ],
+    "pdf_pages": [
+      77,
+      78,
+      79
+    ],
+    "sections": [
+      {
+        "id": "ch-31-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "科学有序推进农业转移人口市民化",
+        "parent": "ch-31",
+        "pdf_page": 77,
+        "printed_page": 72,
+        "line_start": 7
+      },
+      {
+        "id": "ch-31-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "培育发展现代化都市圈",
+        "parent": "ch-31",
+        "pdf_page": 77,
+        "printed_page": 72,
+        "line_start": 19
+      },
+      {
+        "id": "ch-31-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "建设现代化人民城市",
+        "parent": "ch-31",
+        "pdf_page": 78,
+        "printed_page": 73,
+        "line_start": 5
+      },
+      {
+        "id": "ch-31-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "分类推进以县城为重要载体的城镇化建设",
+        "parent": "ch-31",
+        "pdf_page": 78,
+        "printed_page": 73,
+        "line_start": 20
+      }
+    ],
+    "printed_pages": [
+      72,
+      73,
+      74
+    ],
+    "citation": "《十五五规划纲要》第三十一章，印刷第72—74页（PDF第77—79页）"
+  },
+  {
+    "chapter": 32,
+    "policy_summary": "海洋经济覆盖装备、渔业、能源、航运和新兴产业，并同时强调生态保护、空间治理与权益维护。",
+    "transmission_analysis": "利用海洋资源需要工程技术、环境承载与治理配套，不能只计算资源量或市场规模。",
+    "decision_applications": "船舶装备配套、航运服务、环境监测、海洋文旅和养殖需分别验证能力。",
+    "limits_and_counterpoints": "海洋产业往往资本与技术门槛高；生态岸线、用海许可和安全约束不可忽略。",
+    "monitoring_questions": "有效订单、设备运行、用海许可、环境监测、航运周期及实际成本。",
+    "related_chapters": [
+      4,
+      7,
+      22,
+      30,
+      48,
+      49
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加强海洋开发利用保护",
+    "label": "第三十二章",
+    "source_chunks": [
+      "p0079-c03",
+      "p0079-c04",
+      "p0080-c01",
+      "p0080-c02",
+      "p0080-c03",
+      "p0081-c01"
+    ],
+    "pdf_pages": [
+      79,
+      80,
+      81
+    ],
+    "sections": [
+      {
+        "id": "ch-32-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推动海洋经济高质量发展",
+        "parent": "ch-32",
+        "pdf_page": 79,
+        "printed_page": 74,
+        "line_start": 30
+      },
+      {
+        "id": "ch-32-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "保护海洋生态环境",
+        "parent": "ch-32",
+        "pdf_page": 80,
+        "printed_page": 75,
+        "line_start": 10
+      },
+      {
+        "id": "ch-32-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "维护国家海洋权益",
+        "parent": "ch-32",
+        "pdf_page": 80,
+        "printed_page": 75,
+        "line_start": 20
+      }
+    ],
+    "printed_pages": [
+      74,
+      75,
+      76
+    ],
+    "citation": "《十五五规划纲要》第三十二章，印刷第74—76页（PDF第79—81页）"
+  },
+  {
+    "chapter": 33,
+    "policy_summary": "文化建设强调社会主义核心价值观、思想政治教育、主流媒体与网络文明治理。",
+    "transmission_analysis": "这是文化政策的价值和治理框架，影响内容生产传播的组织环境，而非市场收益承诺。",
+    "decision_applications": "文化教育和内容项目需理解目标受众、公共文化要求、生产流程及实际适用规则。",
+    "limits_and_counterpoints": "不得把政策解读变成替用户规定个人信念；不从宣传方向推断某种内容必获流量或补贴。",
+    "monitoring_questions": "正式内容规范、平台规则、机构任务与项目采购要求。",
+    "related_chapters": [
+      34,
+      35,
+      36,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "弘扬和践行社会主义核心价值观",
+    "label": "第三十三章",
+    "source_chunks": [
+      "p0082-c02",
+      "p0082-c03",
+      "p0083-c01",
+      "p0083-c02"
+    ],
+    "pdf_pages": [
+      82,
+      83
+    ],
+    "sections": [
+      {
+        "id": "ch-33-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推动理想信念教育常态化制度化",
+        "parent": "ch-33",
+        "pdf_page": 82,
+        "printed_page": 77,
+        "line_start": 12
+      },
+      {
+        "id": "ch-33-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "提高社会文明程度",
+        "parent": "ch-33",
+        "pdf_page": 83,
+        "printed_page": 78,
+        "line_start": 1
+      },
+      {
+        "id": "ch-33-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加强网络文明建设",
+        "parent": "ch-33",
+        "pdf_page": 83,
+        "printed_page": 78,
+        "line_start": 10
+      }
+    ],
+    "printed_pages": [
+      77,
+      78
+    ],
+    "citation": "《十五五规划纲要》第三十三章，印刷第77—78页（PDF第82—83页）"
+  },
+  {
+    "chapter": 34,
+    "policy_summary": "文化事业强调原创生产、公共文化服务、全民阅读和文化遗产系统性保护。",
+    "transmission_analysis": "公共服务与商业内容有不同资金来源和绩效要求，文化价值也不能只以收入衡量。",
+    "decision_applications": "公共文化运营、文博数字化、文献整理、创作与遗产保护支撑需核查资质和需求。",
+    "limits_and_counterpoints": "遗产分布图是原文时点资料，不能代替现行名录或旅游经营许可；保护不能等同开发。",
+    "monitoring_questions": "服务利用、公共采购、维护资金、专业资质和保护要求。",
+    "related_chapters": [
+      33,
+      35,
+      36,
+      49
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "大力繁荣文化事业",
+    "label": "第三十四章",
+    "source_chunks": [
+      "p0083-c03",
+      "p0083-c04",
+      "p0084-c01",
+      "p0084-c02",
+      "p0084-c03",
+      "p0085-c01",
+      "p0086-c01",
+      "p0087-c01",
+      "p0087-c02"
+    ],
+    "pdf_pages": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "sections": [
+      {
+        "id": "ch-34-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "繁荣文化创作生产",
+        "parent": "ch-34",
+        "pdf_page": 83,
+        "printed_page": 78,
+        "line_start": 23
+      },
+      {
+        "id": "ch-34-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "提升公共文化服务水平",
+        "parent": "ch-34",
+        "pdf_page": 84,
+        "printed_page": 79,
+        "line_start": 6
+      },
+      {
+        "id": "ch-34-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加强文化遗产保护传承",
+        "parent": "ch-34",
+        "pdf_page": 84,
+        "printed_page": 79,
+        "line_start": 17
+      }
+    ],
+    "printed_pages": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "citation": "《十五五规划纲要》第三十四章，印刷第78—82页（PDF第83—87页）"
+  },
+  {
+    "chapter": 35,
+    "policy_summary": "文化产业鼓励数字动漫、沉浸式展演、短视频微短剧等业态，文旅强调特色、品质、安全与防闲置。",
+    "transmission_analysis": "技术降低部分制作门槛也可能增加内容供给，商业表现仍取决于受众、发行与持续交付。",
+    "decision_applications": "小规模内容创作、文化产品、当地旅游服务可先验证受众反馈与付费，而非先建设重资产。",
+    "limits_and_counterpoints": "政策支持不等于平台流量、版权授权或旅游需求；规范发展要求与安全责任并存。",
+    "monitoring_questions": "真实观看留存、转化复购、获客成本、淡旺季、版权与项目利用率。",
+    "related_chapters": [
+      13,
+      15,
+      26,
+      34,
+      36
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加快发展文化产业",
+    "label": "第三十五章",
+    "source_chunks": [
+      "p0088-c01",
+      "p0088-c02",
+      "p0088-c03"
+    ],
+    "pdf_pages": [
+      88
+    ],
+    "sections": [
+      {
+        "id": "ch-35-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "健全文化产业体系和市场体系",
+        "parent": "ch-35",
+        "pdf_page": 88,
+        "printed_page": 83,
+        "line_start": 5
+      },
+      {
+        "id": "ch-35-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "推进文旅深度融合",
+        "parent": "ch-35",
+        "pdf_page": 88,
+        "printed_page": 83,
+        "line_start": 16
+      }
+    ],
+    "printed_pages": [
+      83
+    ],
+    "citation": "《十五五规划纲要》第三十五章，印刷第83—83页（PDF第88—88页）"
+  },
+  {
+    "chapter": 36,
+    "policy_summary": "国际传播和文明交流强调多渠道分众表达，支持文化企业国际化及文学、游戏、影视动漫等出海。",
+    "transmission_analysis": "跨文化表达需本地化、渠道和理解目标受众；翻译完成并不等于海外传播有效。",
+    "decision_applications": "本地化编辑、海外发行运营、文化研究、字幕与跨文化项目管理可作为任务方向。",
+    "limits_and_counterpoints": "国家传播目标不是每个内容创作者的商业目标；文化出海仍有版权、平台及当地规则条件。",
+    "monitoring_questions": "目标市场受众反馈、发行协议、版权清晰度、付费与留存。",
+    "related_chapters": [
+      22,
+      24,
+      33,
+      34,
+      35
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提升中华文明传播力影响力",
+    "label": "第三十六章",
+    "source_chunks": [
+      "p0089-c01",
+      "p0089-c02",
+      "p0089-c03",
+      "p0089-c04",
+      "p0090-c01"
+    ],
+    "pdf_pages": [
+      89,
+      90
+    ],
+    "sections": [
+      {
+        "id": "ch-36-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "构建更有效力的国际传播体系",
+        "parent": "ch-36",
+        "pdf_page": 89,
+        "printed_page": 84,
+        "line_start": 5
+      },
+      {
+        "id": "ch-36-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "深化文明交流互鉴",
+        "parent": "ch-36",
+        "pdf_page": 89,
+        "printed_page": 84,
+        "line_start": 15
+      }
+    ],
+    "printed_pages": [
+      84,
+      85
+    ],
+    "citation": "《十五五规划纲要》第三十六章，印刷第84—85页（PDF第89—90页）"
+  },
+  {
+    "chapter": 37,
+    "policy_summary": "生育友好政策结合家庭成本、保险休假、普惠托育和适儿环境，鼓励多种托育模式并强化安全规范。",
+    "transmission_analysis": "家庭需求、支付能力与服务供给要共同考虑；增加托位未必自动产生足够入住。",
+    "decision_applications": "托育服务、母婴设施和家庭支持服务需查当地人口、价格、人员与场地条件。",
+    "limits_and_counterpoints": "政策范围内住院分娩目标不等于全部生育费用免费；宏观生育目标不应成为个人生育压力。",
+    "monitoring_questions": "当地出生规模、适用报销政策、入托率、师资、服务价格和安全规范。",
+    "related_chapters": [
+      15,
+      38,
+      39,
+      40,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "建设生育友好型社会",
+    "label": "第三十七章",
+    "source_chunks": [
+      "p0091-c02",
+      "p0091-c03",
+      "p0091-c04",
+      "p0092-c01",
+      "p0092-c02"
+    ],
+    "pdf_pages": [
+      91,
+      92
+    ],
+    "sections": [
+      {
+        "id": "ch-37-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善生育支持政策",
+        "parent": "ch-37",
+        "pdf_page": 91,
+        "printed_page": 86,
+        "line_start": 10
+      },
+      {
+        "id": "ch-37-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "健全育幼服务体系",
+        "parent": "ch-37",
+        "pdf_page": 91,
+        "printed_page": 86,
+        "line_start": 22
+      },
+      {
+        "id": "ch-37-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善家庭发展政策和生育友好环境",
+        "parent": "ch-37",
+        "pdf_page": 92,
+        "printed_page": 87,
+        "line_start": 5
+      }
+    ],
+    "printed_pages": [
+      86,
+      87
+    ],
+    "citation": "《十五五规划纲要》第三十七章，印刷第86—87页（PDF第91—92页）"
+  },
+  {
+    "chapter": 38,
+    "policy_summary": "教育按人口变化配置资源，推进基础教育均衡、高等教育提质扩容、职业教育与终身学习。",
+    "transmission_analysis": "扩招、专业调整和人口迁移会共同影响教育资源及毕业生供给，学历与岗位需求不能直接画等号。",
+    "decision_applications": "选择学校课程关注培养质量、专业任务与真实去向；教育服务项目关注学段和地区人口。",
+    "limits_and_counterpoints": "探索延长义务教育年限不是已经延长；优质教育扩容不保证每个学历获得工资溢价。",
+    "monitoring_questions": "学位供需、学段人口、课程实训、培养成本、毕业去向和真实招聘。",
+    "related_chapters": [
+      11,
+      31,
+      37,
+      41
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "办好人民满意的教育",
+    "label": "第三十八章",
+    "source_chunks": [
+      "p0092-c03",
+      "p0092-c04",
+      "p0093-c01",
+      "p0093-c02",
+      "p0093-c03",
+      "p0094-c01",
+      "p0094-c02",
+      "p0094-c03",
+      "p0095-c01"
+    ],
+    "pdf_pages": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "sections": [
+      {
+        "id": "ch-38-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "实施新时代立德树人工程",
+        "parent": "ch-38",
+        "pdf_page": 92,
+        "printed_page": 87,
+        "line_start": 20
+      },
+      {
+        "id": "ch-38-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "推进基础教育扩优提质",
+        "parent": "ch-38",
+        "pdf_page": 93,
+        "printed_page": 88,
+        "line_start": 8
+      },
+      {
+        "id": "ch-38-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "推动高等教育提质扩容",
+        "parent": "ch-38",
+        "pdf_page": 93,
+        "printed_page": 88,
+        "line_start": 20
+      },
+      {
+        "id": "ch-38-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "提升职业学校办学能力",
+        "parent": "ch-38",
+        "pdf_page": 94,
+        "printed_page": 89,
+        "line_start": 9
+      }
+    ],
+    "printed_pages": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "citation": "《十五五规划纲要》第三十八章，印刷第87—90页（PDF第92—95页）"
+  },
+  {
+    "chapter": 39,
+    "policy_summary": "健康中国涵盖公共卫生、基层医疗、康复护理、三医协同、中医药和体育，强调健康优先与公平可及。",
+    "transmission_analysis": "服务需求扩展与支付改革、价格治理并行；诊疗量、收入和利润可能不同步。",
+    "decision_applications": "具备资格的医疗护理与健康服务，以及设备维护、医院信息化、体育设施运营等任务。",
+    "limits_and_counterpoints": "产业支持不是疗效证据；医疗建议和产品宣称需临床证据与现行许可，不由规划证明。",
+    "monitoring_questions": "临床与注册证据、支付覆盖、基层需求、采购价格、人员负担与服务质量。",
+    "related_chapters": [
+      5,
+      13,
+      37,
+      40,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加快建设健康中国",
+    "label": "第三十九章",
+    "source_chunks": [
+      "p0095-c02",
+      "p0095-c03",
+      "p0096-c01",
+      "p0096-c02",
+      "p0096-c03",
+      "p0097-c01",
+      "p0097-c02",
+      "p0097-c03",
+      "p0098-c01",
+      "p0098-c02"
+    ],
+    "pdf_pages": [
+      95,
+      96,
+      97,
+      98
+    ],
+    "sections": [
+      {
+        "id": "ch-39-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "健全公共卫生体系",
+        "parent": "ch-39",
+        "pdf_page": 95,
+        "printed_page": 90,
+        "line_start": 25
+      },
+      {
+        "id": "ch-39-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "建设优质高效医疗服务体系",
+        "parent": "ch-39",
+        "pdf_page": 96,
+        "printed_page": 91,
+        "line_start": 5
+      },
+      {
+        "id": "ch-39-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "健全医疗医保医药协同发展和治理机制",
+        "parent": "ch-39",
+        "pdf_page": 96,
+        "printed_page": 91,
+        "line_start": 19
+      },
+      {
+        "id": "ch-39-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "推进中医药传承创新",
+        "parent": "ch-39",
+        "pdf_page": 97,
+        "printed_page": 92,
+        "line_start": 7
+      },
+      {
+        "id": "ch-39-s05",
+        "kind": "section",
+        "number": 5,
+        "label": "第五节",
+        "title": "加快建设体育强国",
+        "parent": "ch-39",
+        "pdf_page": 97,
+        "printed_page": 92,
+        "line_start": 16
+      }
+    ],
+    "printed_pages": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "citation": "《十五五规划纲要》第三十九章，印刷第90—93页（PDF第95—98页）"
+  },
+  {
+    "chapter": 40,
+    "policy_summary": "应对老龄化结合养老服务网络、失能照护、长期护理保险、适老化产品、老年教育和权益保障。",
+    "transmission_analysis": "高龄失能需求与活力老人消费不同，资金来自个人家庭、保障制度或公共服务，须逐类核查。",
+    "decision_applications": "社区居家照护、适老化改造、辅助器具和服务运营可先验证具体支付方。",
+    "limits_and_counterpoints": "老年人口增长不等于养老机构盈利；不要把延迟退休概括为所有人统一年龄或据此计算个人退休日。",
+    "monitoring_questions": "支付能力、长护险适用规则、护理人员、入住利用率、质量与家庭需求。",
+    "related_chapters": [
+      6,
+      37,
+      39,
+      41,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "积极应对人口老龄化",
+    "label": "第四十章",
+    "source_chunks": [
+      "p0098-c03",
+      "p0099-c01",
+      "p0099-c02",
+      "p0099-c03",
+      "p0100-c01"
+    ],
+    "pdf_pages": [
+      98,
+      99,
+      100
+    ],
+    "sections": [
+      {
+        "id": "ch-40-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善城乡养老服务网络",
+        "parent": "ch-40",
+        "pdf_page": 99,
+        "printed_page": 94,
+        "line_start": 2
+      },
+      {
+        "id": "ch-40-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "营造丰富多彩的老年生活",
+        "parent": "ch-40",
+        "pdf_page": 99,
+        "printed_page": 94,
+        "line_start": 13
+      }
+    ],
+    "printed_pages": [
+      93,
+      94,
+      95
+    ],
+    "citation": "《十五五规划纲要》第四十章，印刷第93—95页（PDF第98—100页）"
+  },
+  {
+    "chapter": 41,
+    "policy_summary": "就业政策同时关注容量、质量、技能匹配、公共服务及劳动者权益，并明确应对AI等技术影响。",
+    "transmission_analysis": "产业增长对岗位的作用取决于任务结构、效率与劳动制度；培训应通向真实岗位需求。",
+    "decision_applications": "把求职问题拆成行业、岗位任务、雇主、技能差距与劳动条件，先用招聘和小作品验证。",
+    "limits_and_counterpoints": "稳就业目标不是就业保证；培训支持不等于每门课程有价值或个人自动有补贴资格。",
+    "monitoring_questions": "真实空缺、工作内容、培训就业衔接、工资工时、社保履约和技能可迁移性。",
+    "related_chapters": [
+      4,
+      6,
+      11,
+      13,
+      38,
+      42,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "促进高质量充分就业",
+    "label": "第四十一章",
+    "source_chunks": [
+      "p0101-c02",
+      "p0101-c03",
+      "p0102-c01",
+      "p0102-c02",
+      "p0102-c03",
+      "p0103-c01"
+    ],
+    "pdf_pages": [
+      101,
+      102,
+      103
+    ],
+    "sections": [
+      {
+        "id": "ch-41-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "强化就业优先政策",
+        "parent": "ch-41",
+        "pdf_page": 101,
+        "printed_page": 96,
+        "line_start": 12
+      },
+      {
+        "id": "ch-41-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "大规模开展职业技能培训",
+        "parent": "ch-41",
+        "pdf_page": 102,
+        "printed_page": 97,
+        "line_start": 1
+      },
+      {
+        "id": "ch-41-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "加强就业服务和劳动者权益保障",
+        "parent": "ch-41",
+        "pdf_page": 102,
+        "printed_page": 97,
+        "line_start": 11
+      }
+    ],
+    "printed_pages": [
+      96,
+      97,
+      98
+    ],
+    "citation": "《十五五规划纲要》第四十一章，印刷第96—98页（PDF第101—103页）"
+  },
+  {
+    "chapter": 42,
+    "policy_summary": "收入分配同时涉及工资机制、技能报酬、财产性收入、税收社保调节和重点群体增收。",
+    "transmission_analysis": "生产率增长能否变成劳动报酬还取决于分配机制、谈判与企业经营，不能只看GDP。",
+    "decision_applications": "求职比较工资结构与保障；个人财务区分工资、经营和投资收入及各自风险。",
+    "limits_and_counterpoints": "增加财产性收入不等于保证证券收益；税收改革表述不能当作已经执行的计税办法。",
+    "monitoring_questions": "工资和劳动报酬数据、制度细则、可支配收入、企业薪酬兑现。",
+    "related_chapters": [
+      3,
+      20,
+      41,
+      43
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "完善收入分配制度",
+    "label": "第四十二章",
+    "source_chunks": [
+      "p0103-c02",
+      "p0103-c03",
+      "p0104-c01",
+      "p0104-c02",
+      "p0104-c03",
+      "p0105-c01"
+    ],
+    "pdf_pages": [
+      103,
+      104,
+      105
+    ],
+    "sections": [
+      {
+        "id": "ch-42-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "优化初次分配格局",
+        "parent": "ch-42",
+        "pdf_page": 103,
+        "printed_page": 98,
+        "line_start": 22
+      },
+      {
+        "id": "ch-42-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "加大收入分配调节力度",
+        "parent": "ch-42",
+        "pdf_page": 104,
+        "printed_page": 99,
+        "line_start": 5
+      },
+      {
+        "id": "ch-42-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "稳步扩大中等收入群体规模",
+        "parent": "ch-42",
+        "pdf_page": 104,
+        "printed_page": 99,
+        "line_start": 16
+      }
+    ],
+    "printed_pages": [
+      98,
+      99,
+      100
+    ],
+    "citation": "《十五五规划纲要》第四十二章，印刷第98—100页（PDF第103—105页）"
+  },
+  {
+    "chapter": 43,
+    "policy_summary": "社会保障兼顾扩面、待遇调整、转移接续、多层次保障与精算筹资、统筹和基金监管。",
+    "transmission_analysis": "制度可持续与待遇改善需共同衡量；基本保障、商业保险和个人储蓄承担不同功能。",
+    "decision_applications": "核查个人参保、异地结算、职业伤害及救助资格，规划现金储备与保障缺口。",
+    "limits_and_counterpoints": "不能仅凭本章断言养老金将耗尽或永久无风险；不得把规划目标当作个人待遇承诺。",
+    "monitoring_questions": "现行缴费和领取条件、统筹规则、官方基金报告、适用待遇与转移办理。",
+    "related_chapters": [
+      20,
+      31,
+      39,
+      40,
+      41,
+      42
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "健全社会保障体系",
+    "label": "第四十三章",
+    "source_chunks": [
+      "p0105-c02",
+      "p0105-c03",
+      "p0105-c04",
+      "p0106-c01",
+      "p0106-c02"
+    ],
+    "pdf_pages": [
+      105,
+      106
+    ],
+    "sections": [
+      {
+        "id": "ch-43-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "稳步提高社会保障水平",
+        "parent": "ch-43",
+        "pdf_page": 105,
+        "printed_page": 100,
+        "line_start": 6
+      },
+      {
+        "id": "ch-43-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "增强社会保险体系可持续性",
+        "parent": "ch-43",
+        "pdf_page": 105,
+        "printed_page": 100,
+        "line_start": 18
+      },
+      {
+        "id": "ch-43-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "健全社会救助体系",
+        "parent": "ch-43",
+        "pdf_page": 106,
+        "printed_page": 101,
+        "line_start": 3
+      }
+    ],
+    "printed_pages": [
+      100,
+      101
+    ],
+    "citation": "《十五五规划纲要》第四十三章，印刷第100—101页（PDF第105—106页）"
+  },
+  {
+    "chapter": 44,
+    "policy_summary": "住房政策强调租购并举、保障性住房、发展新模式、存量盘活、房屋品质及全生命周期安全。",
+    "transmission_analysis": "住房发展侧重供需适配和存量质量，地区人口和库存差异会影响市场结果。",
+    "decision_applications": "比较租住与购买的总成本，关注青年阶段性住房保障和维修物业服务需求。",
+    "limits_and_counterpoints": "支持房地产平稳发展不意味着房价上涨；保障住房需当地资格，不能因青年身份直接认定符合。",
+    "monitoring_questions": "人口流动、库存、租售成本、资格细则、物业和房屋安全状况。",
+    "related_chapters": [
+      15,
+      19,
+      31,
+      43,
+      45
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "推动房地产高质量发展",
+    "label": "第四十四章",
+    "source_chunks": [
+      "p0106-c03",
+      "p0106-c04",
+      "p0106-c05",
+      "p0107-c01"
+    ],
+    "pdf_pages": [
+      106,
+      107
+    ],
+    "sections": [
+      {
+        "id": "ch-44-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "完善住房保障体系",
+        "parent": "ch-44",
+        "pdf_page": 106,
+        "printed_page": 101,
+        "line_start": 15
+      },
+      {
+        "id": "ch-44-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "推动房地产市场平稳健康发展",
+        "parent": "ch-44",
+        "pdf_page": 106,
+        "printed_page": 101,
+        "line_start": 24
+      }
+    ],
+    "printed_pages": [
+      101,
+      102
+    ],
+    "citation": "《十五五规划纲要》第四十四章，印刷第101—102页（PDF第106—107页）"
+  },
+  {
+    "chapter": 45,
+    "policy_summary": "基本公共服务强调机会公平、常住地供给、县域统筹和向基层薄弱地区倾斜；在人口集中流入城市规范紧缺服务梯度供应，并逐步减少梯度层次和服务差异。",
+    "transmission_analysis": "人口与财政资源配置调整可能降低流动成本，但不同服务和地区落实速度不同。",
+    "decision_applications": "地区选择应具体核查医疗、教育、住房和救助的可及性，不只比较名义工资。",
+    "limits_and_counterpoints": "均等化不等于全国标准和待遇完全相同；居住证等适用条件仍需核查。",
+    "monitoring_questions": "地方服务清单、常住与就业年限条件、排队时间、财政投入和实际覆盖。",
+    "related_chapters": [
+      28,
+      31,
+      38,
+      39,
+      43,
+      44
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "稳步推进基本公共服务均等化",
+    "label": "第四十五章",
+    "source_chunks": [
+      "p0107-c02",
+      "p0107-c03",
+      "p0108-c01"
+    ],
+    "pdf_pages": [
+      107,
+      108
+    ],
+    "sections": [
+      {
+        "id": "ch-45-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "建立基本公共服务均等化制度体系",
+        "parent": "ch-45",
+        "pdf_page": 107,
+        "printed_page": 102,
+        "line_start": 13
+      },
+      {
+        "id": "ch-45-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "全面推进常住地提供基本公共服务",
+        "parent": "ch-45",
+        "pdf_page": 108,
+        "printed_page": 103,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      102,
+      103
+    ],
+    "citation": "《十五五规划纲要》第四十五章，印刷第102—103页（PDF第107—108页）"
+  },
+  {
+    "chapter": 46,
+    "policy_summary": "围绕妇女、儿童、青年、退役军人和残疾人，强调平等参与、权益保障、关爱服务和无障碍环境。",
+    "transmission_analysis": "公共支持可能改善参与机会与服务可达性，需求分析应以使用者权益为中心。",
+    "decision_applications": "无障碍产品、社区支持与青年服务项目可研究实际需求；个人先查适用公共服务。",
+    "limits_and_counterpoints": "不能从群体政策推断某人必符合补贴或服务资格；医疗筛查与接种判断仍须专业指南。",
+    "monitoring_questions": "具体年龄身份条件、服务供给、使用反馈、就业歧视治理与无障碍实效。",
+    "related_chapters": [
+      37,
+      38,
+      39,
+      41,
+      43,
+      45
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "保障各类群体发展权益",
+    "label": "第四十六章",
+    "source_chunks": [
+      "p0108-c02",
+      "p0108-c03",
+      "p0108-c04",
+      "p0109-c01",
+      "p0109-c02",
+      "p0109-c03",
+      "p0110-c01",
+      "p0110-c02"
+    ],
+    "pdf_pages": [
+      108,
+      109,
+      110
+    ],
+    "sections": [
+      {
+        "id": "ch-46-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "促进男女平等和妇女全面发展",
+        "parent": "ch-46",
+        "pdf_page": 108,
+        "printed_page": 103,
+        "line_start": 14
+      },
+      {
+        "id": "ch-46-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "强化未成年人关爱保护",
+        "parent": "ch-46",
+        "pdf_page": 108,
+        "printed_page": 103,
+        "line_start": 23
+      },
+      {
+        "id": "ch-46-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "支持青年发展",
+        "parent": "ch-46",
+        "pdf_page": 109,
+        "printed_page": 104,
+        "line_start": 7
+      },
+      {
+        "id": "ch-46-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "加强退役军人服务保障",
+        "parent": "ch-46",
+        "pdf_page": 109,
+        "printed_page": 104,
+        "line_start": 16
+      },
+      {
+        "id": "ch-46-s05",
+        "kind": "section",
+        "number": 5,
+        "label": "第五节",
+        "title": "提升残疾人保障和发展能力",
+        "parent": "ch-46",
+        "pdf_page": 110,
+        "printed_page": 105,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      103,
+      104,
+      105
+    ],
+    "citation": "《十五五规划纲要》第四十六章，印刷第103—105页（PDF第108—110页）"
+  },
+  {
+    "chapter": 47,
+    "policy_summary": "碳达峰通过总量和强度双控、碳市场、项目评价、产品碳足迹及重点行业节能降碳推进。",
+    "transmission_analysis": "碳约束可能改变能源、工艺、选址和交易成本，也创造可验证节能与核算服务需求。",
+    "decision_applications": "节能改造、碳数据、能源管理及产品足迹服务需先明确客户义务和投资回收。",
+    "limits_and_counterpoints": "碳达峰不是碳中和；强度下降不是总量同比例下降；绿电、绿证和碳信用不可混为一谈。",
+    "monitoring_questions": "适用核算标准、碳价与配额、节能量、项目现金流、核验及重复计算风险。",
+    "related_chapters": [
+      7,
+      12,
+      21,
+      48,
+      50,
+      52
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "积极稳妥推进和实现碳达峰",
+    "label": "第四十七章",
+    "source_chunks": [
+      "p0111-c02",
+      "p0111-c03",
+      "p0112-c01",
+      "p0112-c02",
+      "p0113-c01"
+    ],
+    "pdf_pages": [
+      111,
+      112,
+      113
+    ],
+    "sections": [
+      {
+        "id": "ch-47-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "全面实施碳排放总量和强度双控制度",
+        "parent": "ch-47",
+        "pdf_page": 111,
+        "printed_page": 106,
+        "line_start": 12
+      },
+      {
+        "id": "ch-47-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "推动重点领域节能降碳",
+        "parent": "ch-47",
+        "pdf_page": 112,
+        "printed_page": 107,
+        "line_start": 1
+      },
+      {
+        "id": "ch-47-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "提升应对全球气候变化能力",
+        "parent": "ch-47",
+        "pdf_page": 112,
+        "printed_page": 107,
+        "line_start": 16
+      }
+    ],
+    "printed_pages": [
+      106,
+      107,
+      108
+    ],
+    "citation": "《十五五规划纲要》第四十七章，印刷第106—108页（PDF第111—113页）"
+  },
+  {
+    "chapter": 48,
+    "policy_summary": "环境治理覆盖大气水土污染、固废和新污染物风险，推进源头治理、许可、标准和协同监管。",
+    "transmission_analysis": "监管要求可带来改造、监测和运行需求，同时提高生产成本；治理能力要用实际效果证明。",
+    "decision_applications": "环保设备、检测、运维和污染控制服务需按污染物、工艺与采购方细分。",
+    "limits_and_counterpoints": "监管需求不等于优质订单；付款周期、资质、后续运行成本和责任分担影响商业性。",
+    "monitoring_questions": "现行排放要求、实测效果、项目验收、运维费用、回款和环境责任。",
+    "related_chapters": [
+      4,
+      30,
+      32,
+      47,
+      49,
+      50
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "持续改善环境质量",
+    "label": "第四十八章",
+    "source_chunks": [
+      "p0113-c02",
+      "p0114-c01",
+      "p0114-c02",
+      "p0115-c01",
+      "p0115-c02",
+      "p0115-c03",
+      "p0116-c01"
+    ],
+    "pdf_pages": [
+      113,
+      114,
+      115,
+      116
+    ],
+    "sections": [
+      {
+        "id": "ch-48-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "深入打好蓝天、碧水、净土保卫战",
+        "parent": "ch-48",
+        "pdf_page": 114,
+        "printed_page": 109,
+        "line_start": 1
+      },
+      {
+        "id": "ch-48-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "加强环境风险防控",
+        "parent": "ch-48",
+        "pdf_page": 114,
+        "printed_page": 109,
+        "line_start": 16
+      },
+      {
+        "id": "ch-48-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "健全现代环境治理体系",
+        "parent": "ch-48",
+        "pdf_page": 115,
+        "printed_page": 110,
+        "line_start": 4
+      }
+    ],
+    "printed_pages": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "citation": "《十五五规划纲要》第四十八章，印刷第108—111页（PDF第113—116页）"
+  },
+  {
+    "chapter": 49,
+    "policy_summary": "生态保护强调系统治理、自然保护地、生物多样性、自然资源管理与多元生态补偿。",
+    "transmission_analysis": "保护修复需要长期监测和管护，生态价值实现取决于产权、补偿与真实交易机制。",
+    "decision_applications": "生态监测、修复养护、资源调查与合规科普服务需专业能力和长期经费。",
+    "limits_and_counterpoints": "生态修复不等于到处植树；示意图不支持县级精确边界判断，生态资产不自动有可兑现收益。",
+    "monitoring_questions": "生态基线、修复成效、权属、自然保护地规则、维护资金和补偿兑现。",
+    "related_chapters": [
+      25,
+      28,
+      30,
+      32,
+      34,
+      48
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提升生态系统多样性稳定性持续性",
+    "label": "第四十九章",
+    "source_chunks": [
+      "p0116-c02",
+      "p0116-c03",
+      "p0117-c01",
+      "p0117-c02",
+      "p0117-c03",
+      "p0118-c01",
+      "p0119-c01"
+    ],
+    "pdf_pages": [
+      116,
+      117,
+      118,
+      119
+    ],
+    "sections": [
+      {
+        "id": "ch-49-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "巩固和优化生态安全屏障",
+        "parent": "ch-49",
+        "pdf_page": 116,
+        "printed_page": 111,
+        "line_start": 26
+      },
+      {
+        "id": "ch-49-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "全面推进自然保护地体系建设",
+        "parent": "ch-49",
+        "pdf_page": 117,
+        "printed_page": 112,
+        "line_start": 4
+      },
+      {
+        "id": "ch-49-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "健全生态保护机制",
+        "parent": "ch-49",
+        "pdf_page": 117,
+        "printed_page": 112,
+        "line_start": 13
+      }
+    ],
+    "printed_pages": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "citation": "《十五五规划纲要》第四十九章，印刷第111—114页（PDF第116—119页）"
+  },
+  {
+    "chapter": 50,
+    "policy_summary": "绿色生产生活强调资源节约、循环利用、再制造、绿色标准金融和公众参与。",
+    "transmission_analysis": "减少全生命周期耗用可能节约成本或形成循环服务，但回收、再制造需质量与经济性支撑。",
+    "decision_applications": "维修再利用、回收分拣、再制造、绿色采购和资源效率提升可逐场景验证。",
+    "limits_and_counterpoints": "绿色标签不是全生命周期减排证明；再生原料进口与固体废物进口不能混同。",
+    "monitoring_questions": "原料来源与质量、回收成本、节约效果、产品寿命、合法分类及实际需求。",
+    "related_chapters": [
+      4,
+      15,
+      19,
+      47,
+      48
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加快形成绿色生产生活方式",
+    "label": "第五十章",
+    "source_chunks": [
+      "p0120-c01",
+      "p0120-c02",
+      "p0120-c03",
+      "p0121-c01",
+      "p0121-c02"
+    ],
+    "pdf_pages": [
+      120,
+      121
+    ],
+    "sections": [
+      {
+        "id": "ch-50-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "加强资源节约集约利用",
+        "parent": "ch-50",
+        "pdf_page": 120,
+        "printed_page": 115,
+        "line_start": 5
+      },
+      {
+        "id": "ch-50-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "健全绿色发展政策体系",
+        "parent": "ch-50",
+        "pdf_page": 120,
+        "printed_page": 115,
+        "line_start": 17
+      },
+      {
+        "id": "ch-50-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "开展绿色低碳全民行动",
+        "parent": "ch-50",
+        "pdf_page": 121,
+        "printed_page": 116,
+        "line_start": 2
+      }
+    ],
+    "printed_pages": [
+      115,
+      116
+    ],
+    "citation": "《十五五规划纲要》第五十章，印刷第115—116页（PDF第120—121页）"
+  },
+  {
+    "chapter": 51,
+    "policy_summary": "国家安全体系强调战略、法治、风险防控、责任机制与海外安全保障。",
+    "transmission_analysis": "安全要求会影响部分业务的数据、供应链和合作安排，但具体义务须依据现行规则。",
+    "decision_applications": "企业和个人识别关键依赖、数据权限和跨境合作风险，建立合理应急安排。",
+    "limits_and_counterpoints": "不能由战略表述推断具体事件概率、战争日期或对某个人作风险定性。",
+    "monitoring_questions": "正式适用规则、主管部门通告、业务暴露和实际事件证据。",
+    "related_chapters": [
+      14,
+      22,
+      24,
+      52,
+      53,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "加强国家安全体系和能力建设",
+    "label": "第五十一章",
+    "source_chunks": [
+      "p0122-c02"
+    ],
+    "pdf_pages": [
+      122
+    ],
+    "sections": [],
+    "printed_pages": [
+      117
+    ],
+    "citation": "《十五五规划纲要》第五十一章，印刷第117—117页（PDF第122—122页）"
+  },
+  {
+    "chapter": 52,
+    "policy_summary": "经济安全覆盖粮食能源物资、房地产地方债与金融风险、网络安全，强调多元保障、储备与源头防控。",
+    "transmission_analysis": "提高韧性可能增加冗余与保障成本；防风险措施的影响在企业和行业间不同。",
+    "decision_applications": "供应链备选、应急库存、网络容灾和现金流压力测试需基于真实业务依赖。",
+    "limits_and_counterpoints": "保障供应不等于相关商品涨价或企业盈利保证；政策要求防风险不是危机已发生的证明。",
+    "monitoring_questions": "供应集中度、储备调节、债务与回款、关键系统恢复能力及现行监管。",
+    "related_chapters": [
+      1,
+      7,
+      20,
+      25,
+      44,
+      47,
+      51
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "保障国家经济安全",
+    "label": "第五十二章",
+    "source_chunks": [
+      "p0123-c01",
+      "p0123-c02",
+      "p0123-c03",
+      "p0124-c01",
+      "p0124-c02",
+      "p0124-c03",
+      "p0125-c01"
+    ],
+    "pdf_pages": [
+      123,
+      124,
+      125
+    ],
+    "sections": [
+      {
+        "id": "ch-52-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "增强粮食安全保障能力",
+        "parent": "ch-52",
+        "pdf_page": 123,
+        "printed_page": 118,
+        "line_start": 6
+      },
+      {
+        "id": "ch-52-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "强化能源资源供应保障",
+        "parent": "ch-52",
+        "pdf_page": 123,
+        "printed_page": 118,
+        "line_start": 17
+      },
+      {
+        "id": "ch-52-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "健全防范化解重点领域风险长效机制",
+        "parent": "ch-52",
+        "pdf_page": 124,
+        "printed_page": 119,
+        "line_start": 5
+      },
+      {
+        "id": "ch-52-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "提升网络安全保障能力",
+        "parent": "ch-52",
+        "pdf_page": 124,
+        "printed_page": 119,
+        "line_start": 18
+      }
+    ],
+    "printed_pages": [
+      118,
+      119,
+      120
+    ],
+    "citation": "《十五五规划纲要》第五十二章，印刷第118—120页（PDF第123—125页）"
+  },
+  {
+    "chapter": 53,
+    "policy_summary": "公共安全治理从事后处置向事前预防转型，强化食品药品、安全生产和灾害应急。",
+    "transmission_analysis": "预防、监测、标准与责任落实可能带来持续服务需求，其价值取决于风险降低与运行可靠性。",
+    "decision_applications": "检测溯源、设备安全改造、监测预警、应急物资与专业培训需核查资质。",
+    "limits_and_counterpoints": "培训证书不能替代真实能力；预警技术不保证零事故，医疗药品结论不能由规划背书。",
+    "monitoring_questions": "适用标准、真实误报漏报、响应流程、演练表现、人员资质与设备维护。",
+    "related_chapters": [
+      7,
+      25,
+      39,
+      48,
+      52,
+      54
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "提高公共安全治理水平",
+    "label": "第五十三章",
+    "source_chunks": [
+      "p0125-c02",
+      "p0125-c03",
+      "p0125-c04",
+      "p0126-c01",
+      "p0126-c02"
+    ],
+    "pdf_pages": [
+      125,
+      126
+    ],
+    "sections": [
+      {
+        "id": "ch-53-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "强化食品药品安全监管",
+        "parent": "ch-53",
+        "pdf_page": 125,
+        "printed_page": 120,
+        "line_start": 9
+      },
+      {
+        "id": "ch-53-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "提高安全生产水平",
+        "parent": "ch-53",
+        "pdf_page": 125,
+        "printed_page": 120,
+        "line_start": 19
+      },
+      {
+        "id": "ch-53-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善应急管理体系",
+        "parent": "ch-53",
+        "pdf_page": 126,
+        "printed_page": 121,
+        "line_start": 3
+      }
+    ],
+    "printed_pages": [
+      120,
+      121
+    ],
+    "citation": "《十五五规划纲要》第五十三章，印刷第120—121页（PDF第125—126页）"
+  },
+  {
+    "chapter": 54,
+    "policy_summary": "社会治理强调基层服务、专业社会工作、新就业群体服务、诉求响应和矛盾化解。",
+    "transmission_analysis": "治理服务向基层延伸可能增加专业服务需求，但岗位资源、经费和授权需具体核查。",
+    "decision_applications": "社区服务、社会工作、公共服务平台与组织协同可研究真实工作内容。",
+    "limits_and_counterpoints": "社会治理任务不应自动等同商业机会；不能由平台建设推断公众诉求均已解决。",
+    "monitoring_questions": "基层经费、人员配置、服务成效、响应时间、隐私和适用职责。",
+    "related_chapters": [
+      31,
+      41,
+      45,
+      46,
+      53,
+      57
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "完善社会治理体系",
+    "label": "第五十四章",
+    "source_chunks": [
+      "p0126-c03",
+      "p0126-c04",
+      "p0127-c01",
+      "p0127-c02",
+      "p0127-c03",
+      "p0128-c01",
+      "p0128-c02"
+    ],
+    "pdf_pages": [
+      126,
+      127,
+      128
+    ],
+    "sections": [
+      {
+        "id": "ch-54-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "夯实基层社会治理根基",
+        "parent": "ch-54",
+        "pdf_page": 126,
+        "printed_page": 121,
+        "line_start": 21
+      },
+      {
+        "id": "ch-54-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "提升新兴领域治理效能",
+        "parent": "ch-54",
+        "pdf_page": 127,
+        "printed_page": 122,
+        "line_start": 9
+      },
+      {
+        "id": "ch-54-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "有效维护社会安全稳定",
+        "parent": "ch-54",
+        "pdf_page": 127,
+        "printed_page": 122,
+        "line_start": 18
+      }
+    ],
+    "printed_pages": [
+      121,
+      122,
+      123
+    ],
+    "citation": "《十五五规划纲要》第五十四章，印刷第121—123页（PDF第126—128页）"
+  },
+  {
+    "chapter": 55,
+    "policy_summary": "国防和军队现代化涉及力量、人才、后勤、技术与治理，强调资源使用效益、采购和监管改革。",
+    "transmission_analysis": "战略目标与具体采购、企业订单之间存在资质、技术、预算和验收环节。",
+    "decision_applications": "仅在用户相关且具备条件时讨论公开岗位、合规供应链和公开采购信息。",
+    "limits_and_counterpoints": "不可据此推断战争时间、未公开能力或股票收益；公开方向不等于个人适合相关职业。",
+    "monitoring_questions": "合法公开的招聘采购、资格要求、项目阶段、预算与履约证据。",
+    "related_chapters": [
+      8,
+      51,
+      56
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "着力提高国防和军队现代化质量效益",
+    "label": "第五十五章",
+    "source_chunks": [
+      "p0129-c02",
+      "p0129-c03",
+      "p0130-c01"
+    ],
+    "pdf_pages": [
+      129,
+      130
+    ],
+    "sections": [
+      {
+        "id": "ch-55-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "加快先进战斗力建设",
+        "parent": "ch-55",
+        "pdf_page": 129,
+        "printed_page": 124,
+        "line_start": 13
+      },
+      {
+        "id": "ch-55-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "推进军事治理现代化",
+        "parent": "ch-55",
+        "pdf_page": 130,
+        "printed_page": 125,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      124,
+      125
+    ],
+    "citation": "《十五五规划纲要》第五十五章，印刷第124—125页（PDF第129—130页）"
+  },
+  {
+    "chapter": 56,
+    "policy_summary": "军地协同涵盖规划资源衔接、成果转化、标准、采购、基础设施与应急动员共建共享。",
+    "transmission_analysis": "共用资源和标准可能改善协同，但涉军市场仍有专门准入和信息边界。",
+    "decision_applications": "符合资质者可核查公开技术服务、通用设备和应急协同需求。",
+    "limits_and_counterpoints": "民参军绿色通道不是取消资质、保密或出口管理；不把战略协同推为普遍创业建议。",
+    "monitoring_questions": "公开准入规则、标准适用、预算、验收和合同责任。",
+    "related_chapters": [
+      7,
+      8,
+      53,
+      55
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "巩固提高一体化国家战略体系和能力",
+    "label": "第五十六章",
+    "source_chunks": [
+      "p0130-c02"
+    ],
+    "pdf_pages": [
+      130
+    ],
+    "sections": [],
+    "printed_pages": [
+      125
+    ],
+    "citation": "《十五五规划纲要》第五十六章，印刷第125—125页（PDF第130—130页）"
+  },
+  {
+    "chapter": 57,
+    "policy_summary": "民主制度建设涉及人大监督、协商、基层参与、企事业单位民主管理和群团组织作用。",
+    "transmission_analysis": "本章主要提供制度与参与框架，相关实际作用需看具体程序和执行。",
+    "decision_applications": "了解与个人工作、社区事务和利益表达相关的合法参与渠道。",
+    "limits_and_counterpoints": "不强行制造产业机会或职业排名；不能仅凭制度目标推断每个渠道的实际效果。",
+    "monitoring_questions": "具体公开程序、参与条件、议事记录、回应与监督结果。",
+    "related_chapters": [
+      2,
+      46,
+      54,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "发展社会主义民主",
+    "label": "第五十七章",
+    "source_chunks": [
+      "p0131-c02",
+      "p0132-c01"
+    ],
+    "pdf_pages": [
+      131,
+      132
+    ],
+    "sections": [],
+    "printed_pages": [
+      126,
+      127
+    ],
+    "citation": "《十五五规划纲要》第五十七章，印刷第126—127页（PDF第131—132页）"
+  },
+  {
+    "chapter": 58,
+    "policy_summary": "法治建设强调立法、执法、司法、权利保护、执行和涉外争议解决及公共法律服务。",
+    "transmission_analysis": "稳定的规则与救济影响交易预期，但规划方向不能代替生效法律与具体案件判断。",
+    "decision_applications": "签约、追款、知识产权和海外合作应核查适用法律与争议解决条款。",
+    "limits_and_counterpoints": "拟制修订不等于已生效；不从本章替用户判断胜诉或合同效力。",
+    "monitoring_questions": "现行法条、管辖、证据、程序期限和实际执行条件。",
+    "related_chapters": [
+      14,
+      17,
+      18,
+      22,
+      54,
+      57
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "推进全面依法治国",
+    "label": "第五十八章",
+    "source_chunks": [
+      "p0132-c02"
+    ],
+    "pdf_pages": [
+      132
+    ],
+    "sections": [],
+    "printed_pages": [
+      127
+    ],
+    "citation": "《十五五规划纲要》第五十八章，印刷第127—127页（PDF第132—132页）"
+  },
+  {
+    "chapter": 59,
+    "policy_summary": "支持香港金融航运贸易创新与专业服务、澳门适度多元，并推进与内地合作平台和互联互通。",
+    "transmission_analysis": "港澳可作为连接市场与专业服务的平台，个人和企业使用仍受身份、资格与制度安排约束。",
+    "decision_applications": "跨境贸易、供应链与专业服务岗位可按实际业务需求比较。",
+    "limits_and_counterpoints": "金融互联互通不等于任何资金都可自由投资；港澳政策优势不等于个人居留就业资格。",
+    "monitoring_questions": "具体合作平台规则、岗位许可、资金来源与适用通道、实际成本。",
+    "related_chapters": [
+      21,
+      22,
+      24,
+      28
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "促进香港、澳门长期繁荣稳定",
+    "label": "第五十九章",
+    "source_chunks": [
+      "p0133-c02",
+      "p0133-c03",
+      "p0134-c01"
+    ],
+    "pdf_pages": [
+      133,
+      134
+    ],
+    "sections": [
+      {
+        "id": "ch-59-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "支持港澳巩固提升竞争优势",
+        "parent": "ch-59",
+        "pdf_page": 133,
+        "printed_page": 128,
+        "line_start": 11
+      },
+      {
+        "id": "ch-59-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "支持港澳更好融入和服务国家发展大局",
+        "parent": "ch-59",
+        "pdf_page": 134,
+        "printed_page": 129,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      128,
+      129
+    ],
+    "citation": "《十五五规划纲要》第五十九章，印刷第128—129页（PDF第133—134页）"
+  },
+  {
+    "chapter": 60,
+    "policy_summary": "两岸政策提出经济文化交流、融合平台、台胞台企服务和同等待遇等方向。",
+    "transmission_analysis": "相关经营与个人安排应分别核查具体政策对象、平台及两岸适用规则。",
+    "decision_applications": "对有实际关联者分析公开交流、合作及就学就业政策。",
+    "limits_and_counterpoints": "不能从规划推断统一或冲突时间，不能把对特定对象的待遇扩大到所有人。",
+    "monitoring_questions": "现行通行、就业、投资和服务规则以及明确对象范围。",
+    "related_chapters": [
+      21,
+      22,
+      24,
+      58
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "推动两岸关系和平发展、推进祖国统一大业",
+    "label": "第六十章",
+    "source_chunks": [
+      "p0134-c02",
+      "p0134-c03",
+      "p0135-c01",
+      "p0135-c02"
+    ],
+    "pdf_pages": [
+      134,
+      135
+    ],
+    "sections": [
+      {
+        "id": "ch-60-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "推动两岸经济合作",
+        "parent": "ch-60",
+        "pdf_page": 134,
+        "printed_page": 129,
+        "line_start": 20
+      },
+      {
+        "id": "ch-60-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "深化两岸交流",
+        "parent": "ch-60",
+        "pdf_page": 135,
+        "printed_page": 130,
+        "line_start": 3
+      }
+    ],
+    "printed_pages": [
+      129,
+      130
+    ],
+    "citation": "《十五五规划纲要》第六十章，印刷第129—130页（PDF第134—135页）"
+  },
+  {
+    "chapter": 61,
+    "policy_summary": "规划实施保障强调领导协调、干部能力、考核、监督与反腐，以及整治形式主义和基层减负。",
+    "transmission_analysis": "责任与激励影响政策执行质量，实际资源和考核方式决定基层行为。",
+    "decision_applications": "评估政府相关项目时关注正式职责、程序、绩效与公开采购，不依赖个人关系承诺。",
+    "limits_and_counterpoints": "政治与监督目标不是项目必落地、采购必到账或执行零偏差的证明。",
+    "monitoring_questions": "任务分工、考核办法、审计监督公开结果和实际纠偏。",
+    "related_chapters": [
+      2,
+      16,
+      18,
+      58,
+      62
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "坚持和加强党中央集中统一领导",
+    "label": "第六十一章",
+    "source_chunks": [
+      "p0136-c02",
+      "p0136-c03",
+      "p0137-c01",
+      "p0137-c02",
+      "p0138-c01"
+    ],
+    "pdf_pages": [
+      136,
+      137,
+      138
+    ],
+    "sections": [
+      {
+        "id": "ch-61-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "强化党对规划实施全过程的领导",
+        "parent": "ch-61",
+        "pdf_page": 136,
+        "printed_page": 131,
+        "line_start": 11
+      },
+      {
+        "id": "ch-61-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "全面增强干部队伍现代化建设能力",
+        "parent": "ch-61",
+        "pdf_page": 137,
+        "printed_page": 132,
+        "line_start": 1
+      },
+      {
+        "id": "ch-61-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "完善党和国家监督体系",
+        "parent": "ch-61",
+        "pdf_page": 137,
+        "printed_page": 132,
+        "line_start": 11
+      }
+    ],
+    "printed_pages": [
+      131,
+      132,
+      133
+    ],
+    "citation": "《十五五规划纲要》第六十一章，印刷第131—133页（PDF第136—138页）"
+  },
+  {
+    "chapter": 62,
+    "policy_summary": "规划通过专项区域规划、年度计划、分类责任、预算要素保障和动态中期总结评估推进，调整有规定程序。",
+    "transmission_analysis": "国家方向转为具体行动需要文件、预算、项目、执行和评估的连续证据；预期性与约束性任务落实方式不同。",
+    "decision_applications": "任何机会判断都追查主管部门、地区方案、项目阶段、资金与实际结果，明确下一次更新触发条件。",
+    "limits_and_counterpoints": "列入规划不等于已批复开工；前期工作不等于竣工承诺；不能把发布文件当作执行效果。",
+    "monitoring_questions": "正式细则、年度计划与预算、招标开工、运行数据、中期评估和调整文件。",
+    "related_chapters": [
+      3,
+      16,
+      20,
+      61
+    ],
+    "classification": "assistant_analysis_not_official",
+    "title": "健全规划实施全周期推进机制",
+    "label": "第六十二章",
+    "source_chunks": [
+      "p0138-c02",
+      "p0138-c03",
+      "p0139-c01",
+      "p0139-c02",
+      "p0139-c03",
+      "p0140-c01"
+    ],
+    "pdf_pages": [
+      138,
+      139,
+      140
+    ],
+    "sections": [
+      {
+        "id": "ch-62-s01",
+        "kind": "section",
+        "number": 1,
+        "label": "第一节",
+        "title": "形成统一规划体系合力",
+        "parent": "ch-62",
+        "pdf_page": 138,
+        "printed_page": 133,
+        "line_start": 12
+      },
+      {
+        "id": "ch-62-s02",
+        "kind": "section",
+        "number": 2,
+        "label": "第二节",
+        "title": "分类推进规划任务落实",
+        "parent": "ch-62",
+        "pdf_page": 139,
+        "printed_page": 134,
+        "line_start": 3
+      },
+      {
+        "id": "ch-62-s03",
+        "kind": "section",
+        "number": 3,
+        "label": "第三节",
+        "title": "强化政策协同保障",
+        "parent": "ch-62",
+        "pdf_page": 139,
+        "printed_page": 134,
+        "line_start": 12
+      },
+      {
+        "id": "ch-62-s04",
+        "kind": "section",
+        "number": 4,
+        "label": "第四节",
+        "title": "加强规划实施监测评估和监督",
+        "parent": "ch-62",
+        "pdf_page": 140,
+        "printed_page": 135,
+        "line_start": 1
+      }
+    ],
+    "printed_pages": [
+      133,
+      134,
+      135
+    ],
+    "citation": "《十五五规划纲要》第六十二章，印刷第133—135页（PDF第138—140页）"
+  }
+]
